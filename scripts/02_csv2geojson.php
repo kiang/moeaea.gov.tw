@@ -5,7 +5,7 @@ $fh = fopen($baseDir . '/solar/combined_solar.csv', 'r');
 $headers = fgetcsv($fh);
 $baseDays = strtotime('2023-11-14');
 $timeTarget = strtotime('2020-08-01');
-$cases = [];
+$features = [];
 while ($row = fgetcsv($fh)) {
     $data = array_combine($headers, $row);
     if (false === strpos($data['施工取得日期'], '/')) {
@@ -26,7 +26,7 @@ while ($row = fgetcsv($fh)) {
         continue;
     }
     $data['縣市'] = str_replace('台', '臺', $data['縣市']);
-    if(false === strpos($data['地段'], '段')) {
+    if (false === strpos($data['地段'], '段')) {
         $data['地段'] .= '段';
     }
 
@@ -39,4 +39,21 @@ while ($row = fgetcsv($fh)) {
     if (!file_exists($geojsonFile)) {
         file_put_contents($geojsonFile, file_get_contents('https://twland.ronny.tw/index/search?lands[]=' . urlencode($landNo . '號')));
     }
+
+    $json = json_decode(file_get_contents($geojsonFile), true);
+    if (!empty($json['features'])) {
+        $feature = $json['features'][0];
+        $feature['properties'] = $data;
+        if (!isset($features[$data['縣市']])) {
+            $features[$data['縣市']] = [];
+        }
+        $features[$data['縣市']][] = $feature;
+    }
+}
+
+foreach ($features as $city => $c) {
+    file_put_contents($baseDir . '/solar/' . $city . '.json', json_encode([
+        'type' => 'FeatureCollection',
+        'features' => $c,
+    ], JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 }
