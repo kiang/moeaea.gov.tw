@@ -1,0 +1,356 @@
+{
+    "五間厝段": {
+        "id": "0345",
+        "name": "五間厝段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "五間厝段五厝小段": {
+        "id": "0381",
+        "name": "五間厝段五厝小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "五間厝段祥和小段": {
+        "id": "1421",
+        "name": "五間厝段祥和小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "五間厝段中厝小段": {
+        "id": "1422",
+        "name": "五間厝段中厝小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "六桂段": {
+        "id": "0382",
+        "name": "六桂段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "牛稠底段": {
+        "id": "0329",
+        "name": "牛稠底段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "牛稠底段新富小段": {
+        "id": "0360",
+        "name": "牛稠底段新富小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "北港子段": {
+        "id": "0337",
+        "name": "北港子段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "北港子段北華小段": {
+        "id": "0338",
+        "name": "北港子段北華小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "北港子新段": {
+        "id": "1470",
+        "name": "北港子新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "安溪寮段": {
+        "id": "0323",
+        "name": "安溪寮段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "安溪寮段平溪小段": {
+        "id": "0324",
+        "name": "安溪寮段平溪小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "安溪寮新段": {
+        "id": "1478",
+        "name": "安溪寮新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "西後寮段": {
+        "id": "0343",
+        "name": "西後寮段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "西後寮段西後寮小段": {
+        "id": "0344",
+        "name": "西後寮段西後寮小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "西後寮段西榮小段": {
+        "id": "0379",
+        "name": "西後寮段西榮小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "角帶圍段": {
+        "id": "0333",
+        "name": "角帶圍段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "角帶圍段帶圍小段": {
+        "id": "0334",
+        "name": "角帶圍段帶圍小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "和順段": {
+        "id": "1466",
+        "name": "和順段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "和順南段": {
+        "id": "1483",
+        "name": "和順南段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "岸腳段": {
+        "id": "0384",
+        "name": "岸腳段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "幸福後鎮段": {
+        "id": "1471",
+        "name": "幸福後鎮段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "東後寮段": {
+        "id": "0330",
+        "name": "東後寮段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "東後寮段東光小段": {
+        "id": "0331",
+        "name": "東後寮段東光小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "東後寮段東後寮小段": {
+        "id": "0332",
+        "name": "東後寮段東後寮小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "東後寮段東榮小段": {
+        "id": "0377",
+        "name": "東後寮段東榮小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "東後寮段光榮小段": {
+        "id": "0378",
+        "name": "東後寮段光榮小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "後鎮段": {
+        "id": "0339",
+        "name": "後鎮段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "後鎮段後鎮小段": {
+        "id": "0340",
+        "name": "後鎮段後鎮小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "埤子頭段": {
+        "id": "0325",
+        "name": "埤子頭段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "埤子頭段埤前小段": {
+        "id": "0326",
+        "name": "埤子頭段埤前小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "埤前段": {
+        "id": "1467",
+        "name": "埤前段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "傳芳段": {
+        "id": "0383",
+        "name": "傳芳段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "新庄段": {
+        "id": "0318",
+        "name": "新庄段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "新庄段新庄小段": {
+        "id": "0319",
+        "name": "新庄段新庄小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "新店段": {
+        "id": "0335",
+        "name": "新店段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "新店段新店小段": {
+        "id": "0336",
+        "name": "新店段新店小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "新店新段": {
+        "id": "1468",
+        "name": "新店新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "新富新段": {
+        "id": "1480",
+        "name": "新富新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "溪洲段": {
+        "id": "0346",
+        "name": "溪洲段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "溪洲段上溪洲小段": {
+        "id": "0347",
+        "name": "溪洲段上溪洲小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "溪洲段上溪小段": {
+        "id": "0380",
+        "name": "溪洲段上溪小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "溪洲段溪洲小段": {
+        "id": "0385",
+        "name": "溪洲段溪洲小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "義竹段": {
+        "id": "0316",
+        "name": "義竹段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "義竹段義竹小段": {
+        "id": "0317",
+        "name": "義竹段義竹小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "義竹新段": {
+        "id": "1469",
+        "name": "義竹新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "過路子段": {
+        "id": "0341",
+        "name": "過路子段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "過路子段過路小段": {
+        "id": "0361",
+        "name": "過路子段過路小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "過路北段": {
+        "id": "1481",
+        "name": "過路北段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "過路新段": {
+        "id": "1482",
+        "name": "過路新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "頭竹圍段": {
+        "id": "0327",
+        "name": "頭竹圍段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "頭竹圍段頭竹小段": {
+        "id": "0328",
+        "name": "頭竹圍段頭竹小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "頭竹圍段竹圍小段": {
+        "id": "0359",
+        "name": "頭竹圍段竹圍小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "頭竹新段": {
+        "id": "1479",
+        "name": "頭竹新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "龍蛟潭段": {
+        "id": "0320",
+        "name": "龍蛟潭段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "龍蛟潭段龍蛟小段": {
+        "id": "0321",
+        "name": "龍蛟潭段龍蛟小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "龍蛟潭段工業小段": {
+        "id": "0322",
+        "name": "龍蛟潭段工業小段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "龍蛟新段": {
+        "id": "1477",
+        "name": "龍蛟新段",
+        "officeCode": "QB",
+        "townCode": "10"
+    },
+    "芉子寮段": {
+        "id": "0342",
+        "name": "芉子寮段",
+        "officeCode": "QB",
+        "townCode": "10"
+    }
+}

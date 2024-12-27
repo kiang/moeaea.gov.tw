@@ -1,0 +1,116 @@
+{
+    "正順段": {
+        "id": "3015",
+        "name": "正順段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "白雲段": {
+        "id": "3006",
+        "name": "白雲段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "白砂段": {
+        "id": "3009",
+        "name": "白砂段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "成功段": {
+        "id": "3014",
+        "name": "成功段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "保萣段": {
+        "id": "3011",
+        "name": "保萣段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "砂崙段": {
+        "id": "3000",
+        "name": "砂崙段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "崎漏段": {
+        "id": "3004",
+        "name": "崎漏段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "崎漏段一小段": {
+        "id": "3005",
+        "name": "崎漏段一小段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "崎吉段": {
+        "id": "3017",
+        "name": "崎吉段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "崎漏東段": {
+        "id": "3018",
+        "name": "崎漏東段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "頂茄萣段": {
+        "id": "3001",
+        "name": "頂茄萣段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "頂茄萣段一小段": {
+        "id": "3002",
+        "name": "頂茄萣段一小段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "頂茄萣段二小段": {
+        "id": "3003",
+        "name": "頂茄萣段二小段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "嘉萣段": {
+        "id": "3012",
+        "name": "嘉萣段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "福東段": {
+        "id": "3007",
+        "name": "福東段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "福西段": {
+        "id": "3008",
+        "name": "福西段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "賜福段": {
+        "id": "3010",
+        "name": "賜福段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "興達段": {
+        "id": "3016",
+        "name": "興達段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    },
+    "雙萣段": {
+        "id": "3013",
+        "name": "雙萣段",
+        "officeCode": "EJ",
+        "townCode": "26"
+    }
+}

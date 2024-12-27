@@ -1,0 +1,200 @@
+{
+    "人和段": {
+        "id": "2073",
+        "name": "人和段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "八老爺段八老爺小段": {
+        "id": "2050",
+        "name": "八老爺段八老爺小段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "八老爺段半路店小段": {
+        "id": "2051",
+        "name": "八老爺段半路店小段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "八翁段": {
+        "id": "2058",
+        "name": "八翁段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "士林段": {
+        "id": "2066",
+        "name": "士林段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "大脚腿段": {
+        "id": "2045",
+        "name": "大脚腿段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "大山段": {
+        "id": "2083",
+        "name": "大山段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "小脚腿段": {
+        "id": "2046",
+        "name": "小脚腿段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "山子脚段": {
+        "id": "2047",
+        "name": "山子脚段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "五軍營段": {
+        "id": "2041",
+        "name": "五軍營段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "太康段": {
+        "id": "2042",
+        "name": "太康段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "代天段": {
+        "id": "2105",
+        "name": "代天段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "外環段": {
+        "id": "2139",
+        "name": "外環段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "平和段": {
+        "id": "2081",
+        "name": "平和段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "光福段": {
+        "id": "2151",
+        "name": "光福段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "旭山段": {
+        "id": "2057",
+        "name": "旭山段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "東昇段": {
+        "id": "2063",
+        "name": "東昇段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "東安段": {
+        "id": "2148",
+        "name": "東安段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "果毅後段": {
+        "id": "2043",
+        "name": "果毅後段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "柳營段柳營小段": {
+        "id": "2048",
+        "name": "柳營段柳營小段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "柳營段溫厝廍小段": {
+        "id": "2049",
+        "name": "柳營段溫厝廍小段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "柳中段": {
+        "id": "2064",
+        "name": "柳中段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "柳南段": {
+        "id": "2065",
+        "name": "柳南段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "重溪段": {
+        "id": "2128",
+        "name": "重溪段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "新厝段": {
+        "id": "2044",
+        "name": "新厝段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "新厝段北安小段": {
+        "id": "2082",
+        "name": "新厝段北安小段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "義士段": {
+        "id": "2121",
+        "name": "義士段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "路東段": {
+        "id": "2040",
+        "name": "路東段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "綠隧段": {
+        "id": "2127",
+        "name": "綠隧段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "德元段": {
+        "id": "2132",
+        "name": "德元段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "橋南段": {
+        "id": "2039",
+        "name": "橋南段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "篤農段": {
+        "id": "2129",
+        "name": "篤農段",
+        "officeCode": "DD",
+        "townCode": "11"
+    },
+    "雙和段": {
+        "id": "2080",
+        "name": "雙和段",
+        "officeCode": "DD",
+        "townCode": "11"
+    }
+}

@@ -1,0 +1,578 @@
+{
+    "二王段": {
+        "id": "9146",
+        "name": "二王段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "三崁店段": {
+        "id": "9104",
+        "name": "三崁店段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "三村段": {
+        "id": "9163",
+        "name": "三村段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "三民段": {
+        "id": "9184",
+        "name": "三民段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "大灣段": {
+        "id": "9107",
+        "name": "大灣段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "中興段": {
+        "id": "9123",
+        "name": "中興段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "中灣段": {
+        "id": "9153",
+        "name": "中灣段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "中山段": {
+        "id": "9196",
+        "name": "中山段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "五王段": {
+        "id": "9116",
+        "name": "五王段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "仁愛段": {
+        "id": "9122",
+        "name": "仁愛段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "六甲頂段": {
+        "id": "9106",
+        "name": "六甲頂段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "六合段": {
+        "id": "9117",
+        "name": "六合段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "文化段": {
+        "id": "9148",
+        "name": "文化段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "王田段": {
+        "id": "9111",
+        "name": "王田段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "王行段": {
+        "id": "9175",
+        "name": "王行段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "王新段": {
+        "id": "9180",
+        "name": "王新段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "北灣段": {
+        "id": "9152",
+        "name": "北灣段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "北極段": {
+        "id": "9158",
+        "name": "北極段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "四維段": {
+        "id": "9169",
+        "name": "四維段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "市政段": {
+        "id": "9177",
+        "name": "市政段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "平道段": {
+        "id": "9194",
+        "name": "平道段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "正強段": {
+        "id": "9167",
+        "name": "正強段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "正北段": {
+        "id": "9187",
+        "name": "正北段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永康段": {
+        "id": "9100",
+        "name": "永康段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永信段": {
+        "id": "9139",
+        "name": "永信段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永和段": {
+        "id": "9140",
+        "name": "永和段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永華段": {
+        "id": "9141",
+        "name": "永華段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永仁段": {
+        "id": "9142",
+        "name": "永仁段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永興段": {
+        "id": "9143",
+        "name": "永興段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永中段": {
+        "id": "9144",
+        "name": "永中段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永二段": {
+        "id": "9147",
+        "name": "永二段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永大段": {
+        "id": "9151",
+        "name": "永大段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永保段": {
+        "id": "9165",
+        "name": "永保段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永強段": {
+        "id": "9168",
+        "name": "永強段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "永安段": {
+        "id": "9188",
+        "name": "永安段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "安康段": {
+        "id": "9166",
+        "name": "安康段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "成功段": {
+        "id": "9124",
+        "name": "成功段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "竹行段": {
+        "id": "9191",
+        "name": "竹行段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "自強段": {
+        "id": "9170",
+        "name": "自強段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "西勢段": {
+        "id": "9108",
+        "name": "西勢段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "西勢段一小段": {
+        "id": "9109",
+        "name": "西勢段一小段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "西灣段": {
+        "id": "9156",
+        "name": "西灣段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "兵北段": {
+        "id": "9118",
+        "name": "兵北段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "兵南段": {
+        "id": "9125",
+        "name": "兵南段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "車行段": {
+        "id": "9112",
+        "name": "車行段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "亞太段": {
+        "id": "9171",
+        "name": "亞太段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "忠孝段": {
+        "id": "9121",
+        "name": "忠孝段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "東橋段": {
+        "id": "9145",
+        "name": "東橋段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "東灣段": {
+        "id": "9155",
+        "name": "東灣段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "東南段": {
+        "id": "9160",
+        "name": "東南段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "東邊寮段": {
+        "id": "9189",
+        "name": "東邊寮段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "信義段": {
+        "id": "9120",
+        "name": "信義段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "保生段": {
+        "id": "9172",
+        "name": "保生段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "南新段": {
+        "id": "9114",
+        "name": "南新段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "南工段": {
+        "id": "9115",
+        "name": "南工段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "南灣段": {
+        "id": "9159",
+        "name": "南灣段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "建國段": {
+        "id": "9149",
+        "name": "建國段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "禹帝段": {
+        "id": "9161",
+        "name": "禹帝段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "埔園段": {
+        "id": "9173",
+        "name": "埔園段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "埔北段": {
+        "id": "9174",
+        "name": "埔北段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "烏竹段": {
+        "id": "9183",
+        "name": "烏竹段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "國聖段": {
+        "id": "9154",
+        "name": "國聖段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "崑山段": {
+        "id": "9181",
+        "name": "崑山段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "康橋段": {
+        "id": "9190",
+        "name": "康橋段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頂東段": {
+        "id": "9128",
+        "name": "頂東段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頂中段": {
+        "id": "9129",
+        "name": "頂中段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頂南段": {
+        "id": "9130",
+        "name": "頂南段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頂安段": {
+        "id": "9131",
+        "name": "頂安段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頂溪段": {
+        "id": "9132",
+        "name": "頂溪段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頂西段": {
+        "id": "9133",
+        "name": "頂西段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "勝利段": {
+        "id": "9126",
+        "name": "勝利段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "富強段": {
+        "id": "9176",
+        "name": "富強段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "復國段": {
+        "id": "9119",
+        "name": "復國段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "新明段": {
+        "id": "9197",
+        "name": "新明段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "蜈蜞潭段": {
+        "id": "9102",
+        "name": "蜈蜞潭段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "網寮段": {
+        "id": "9101",
+        "name": "網寮段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "廣興段": {
+        "id": "9178",
+        "name": "廣興段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "廣富段": {
+        "id": "9179",
+        "name": "廣富段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "橋北段": {
+        "id": "9150",
+        "name": "橋北段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "頭前段": {
+        "id": "9157",
+        "name": "頭前段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "龍潭段": {
+        "id": "9182",
+        "name": "龍潭段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "龍王段": {
+        "id": "9192",
+        "name": "龍王段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "龍安段": {
+        "id": "9193",
+        "name": "龍安段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "龍埔段": {
+        "id": "9195",
+        "name": "龍埔段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽行段": {
+        "id": "9105",
+        "name": "鹽行段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽洲段": {
+        "id": "9127",
+        "name": "鹽洲段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽東段": {
+        "id": "9134",
+        "name": "鹽東段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽西段": {
+        "id": "9135",
+        "name": "鹽西段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽南段": {
+        "id": "9136",
+        "name": "鹽南段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽北段": {
+        "id": "9137",
+        "name": "鹽北段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽中段": {
+        "id": "9138",
+        "name": "鹽中段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽埕段": {
+        "id": "9162",
+        "name": "鹽埕段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "鹽新段": {
+        "id": "9164",
+        "name": "鹽新段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "蔦松段": {
+        "id": "9103",
+        "name": "蔦松段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "蔦松南段": {
+        "id": "9185",
+        "name": "蔦松南段",
+        "officeCode": "DK",
+        "townCode": "39"
+    },
+    "蔦松北段": {
+        "id": "9186",
+        "name": "蔦松北段",
+        "officeCode": "DK",
+        "townCode": "39"
+    }
+}

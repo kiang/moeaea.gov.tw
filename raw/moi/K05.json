@@ -1,0 +1,224 @@
+{
+    "七十份段": {
+        "id": "0127",
+        "name": "七十份段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "七十份段中平小段": {
+        "id": "0601",
+        "name": "七十份段中平小段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "九湖段": {
+        "id": "0132",
+        "name": "九湖段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "九湖北段": {
+        "id": "0630",
+        "name": "九湖北段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "九湖南段": {
+        "id": "0631",
+        "name": "九湖南段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "三座厝段": {
+        "id": "0125",
+        "name": "三座厝段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "工業區段": {
+        "id": "0654",
+        "name": "工業區段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "中心埔段": {
+        "id": "0126",
+        "name": "中心埔段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "中心埔段中興小段": {
+        "id": "0602",
+        "name": "中心埔段中興小段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "中興段": {
+        "id": "0647",
+        "name": "中興段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "天神段": {
+        "id": "0627",
+        "name": "天神段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "竹圍段": {
+        "id": "0133",
+        "name": "竹圍段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "竹森段": {
+        "id": "0634",
+        "name": "竹森段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "老雞隆段": {
+        "id": "0131",
+        "name": "老雞隆段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "西田洋段": {
+        "id": "0604",
+        "name": "西田洋段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "西崗段": {
+        "id": "0625",
+        "name": "西崗段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "東田洋段": {
+        "id": "0608",
+        "name": "東田洋段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "東崗段": {
+        "id": "0628",
+        "name": "東崗段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "客屬段": {
+        "id": "0626",
+        "name": "客屬段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "盛隆段": {
+        "id": "0652",
+        "name": "盛隆段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "朝西段": {
+        "id": "0603",
+        "name": "朝西段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "朝東段": {
+        "id": "0605",
+        "name": "朝東段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "朝陽段": {
+        "id": "0606",
+        "name": "朝陽段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "新雞隆段": {
+        "id": "0130",
+        "name": "新雞隆段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "新盛段": {
+        "id": "0653",
+        "name": "新盛段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "福安段": {
+        "id": "0624",
+        "name": "福安段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "銅鑼段": {
+        "id": "0124",
+        "name": "銅鑼段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "銅鑼段銅鑼工業區小段": {
+        "id": "0134",
+        "name": "銅鑼段銅鑼工業區小段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "銅科段": {
+        "id": "0629",
+        "name": "銅科段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "樟樹林段": {
+        "id": "0129",
+        "name": "樟樹林段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "樟樹東段": {
+        "id": "0621",
+        "name": "樟樹東段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "樟樹西段": {
+        "id": "0622",
+        "name": "樟樹西段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "樟樹段": {
+        "id": "0623",
+        "name": "樟樹段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "雙峰段": {
+        "id": "0609",
+        "name": "雙峰段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "雙峰山段": {
+        "id": "0646",
+        "name": "雙峰山段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "芎蕉灣段": {
+        "id": "0128",
+        "name": "芎蕉灣段",
+        "officeCode": "KE",
+        "townCode": "05"
+    },
+    "褔興段": {
+        "id": "0607",
+        "name": "褔興段",
+        "officeCode": "KE",
+        "townCode": "05"
+    }
+}

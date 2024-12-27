@@ -1,0 +1,260 @@
+{
+    "三王段": {
+        "id": "1363",
+        "name": "三王段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "大路關段舊大路關小段": {
+        "id": "0218",
+        "name": "大路關段舊大路關小段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "大路關段新大路關小段": {
+        "id": "0219",
+        "name": "大路關段新大路關小段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "大山段": {
+        "id": "1356",
+        "name": "大山段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "大山寮段": {
+        "id": "1357",
+        "name": "大山寮段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "公平段": {
+        "id": "1351",
+        "name": "公平段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "公園段": {
+        "id": "1358",
+        "name": "公園段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "加蚋埔段": {
+        "id": "0217",
+        "name": "加蚋埔段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "田子段": {
+        "id": "0215",
+        "name": "田子段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "田庄段": {
+        "id": "1325",
+        "name": "田庄段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "石獅公段": {
+        "id": "1342",
+        "name": "石獅公段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "竹圍段": {
+        "id": "1364",
+        "name": "竹圍段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "幸福段": {
+        "id": "1361",
+        "name": "幸福段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "東振新段": {
+        "id": "0213",
+        "name": "東振新段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "東振段": {
+        "id": "1365",
+        "name": "東振段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "長榮段": {
+        "id": "0246",
+        "name": "長榮段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "長興段": {
+        "id": "1366",
+        "name": "長興段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "阿拔泉段": {
+        "id": "0216",
+        "name": "阿拔泉段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "南興段": {
+        "id": "0244",
+        "name": "南興段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "南華段": {
+        "id": "1341",
+        "name": "南華段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "原田子段": {
+        "id": "1347",
+        "name": "原田子段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "埔羗崙段": {
+        "id": "0214",
+        "name": "埔羗崙段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "埔田段": {
+        "id": "1348",
+        "name": "埔田段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "泰山段": {
+        "id": "1326",
+        "name": "泰山段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "泰和段": {
+        "id": "1327",
+        "name": "泰和段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "泰福段": {
+        "id": "1354",
+        "name": "泰福段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "泰興段": {
+        "id": "1367",
+        "name": "泰興段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "高樹段": {
+        "id": "0211",
+        "name": "高樹段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "富貴段": {
+        "id": "1362",
+        "name": "富貴段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "新南段": {
+        "id": "0256",
+        "name": "新南段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "新田子段": {
+        "id": "1339",
+        "name": "新田子段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "新泰山段": {
+        "id": "1340",
+        "name": "新泰山段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "新日段": {
+        "id": "1346",
+        "name": "新日段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "新豐段": {
+        "id": "1355",
+        "name": "新豐段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "新加蚋埔段": {
+        "id": "1368",
+        "name": "新加蚋埔段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "源泉段": {
+        "id": "1324",
+        "name": "源泉段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "源興段": {
+        "id": "1360",
+        "name": "源興段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "萬興段": {
+        "id": "1359",
+        "name": "萬興段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "廣興段": {
+        "id": "1343",
+        "name": "廣興段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "興中段": {
+        "id": "0245",
+        "name": "興中段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "蕉場段": {
+        "id": "1352",
+        "name": "蕉場段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "舊寮段": {
+        "id": "0212",
+        "name": "舊寮段",
+        "officeCode": "TB",
+        "townCode": "11"
+    },
+    "豐源段": {
+        "id": "0243",
+        "name": "豐源段",
+        "officeCode": "TB",
+        "townCode": "11"
+    }
+}

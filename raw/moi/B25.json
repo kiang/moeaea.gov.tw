@@ -1,0 +1,218 @@
+{
+    "三德段": {
+        "id": "9310",
+        "name": "三德段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "山腳段": {
+        "id": "9304",
+        "name": "山腳段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "中山段": {
+        "id": "9315",
+        "name": "中山段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "中社段": {
+        "id": "9330",
+        "name": "中社段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "木本段": {
+        "id": "9333",
+        "name": "木本段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "永順段": {
+        "id": "9319",
+        "name": "永順段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "田水段": {
+        "id": "9316",
+        "name": "田水段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "竹泉段": {
+        "id": "9312",
+        "name": "竹泉段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "竹師段": {
+        "id": "9336",
+        "name": "竹師段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "忠和段": {
+        "id": "9311",
+        "name": "忠和段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "東園段": {
+        "id": "9317",
+        "name": "東園段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "東海段": {
+        "id": "9323",
+        "name": "東海段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "南寮段": {
+        "id": "9325",
+        "name": "南寮段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "茄投段": {
+        "id": "9313",
+        "name": "茄投段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "新庄子段新庄子小段": {
+        "id": "9302",
+        "name": "新庄子段新庄子小段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "新庄子段南寮小段": {
+        "id": "9303",
+        "name": "新庄子段南寮小段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "新庄段": {
+        "id": "9320",
+        "name": "新庄段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "新興段": {
+        "id": "9321",
+        "name": "新興段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "新東段": {
+        "id": "9322",
+        "name": "新東段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "遊園南段": {
+        "id": "9318",
+        "name": "遊園南段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "遊園北段": {
+        "id": "9324",
+        "name": "遊園北段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "福麗段": {
+        "id": "9305",
+        "name": "福麗段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "遠東段": {
+        "id": "9327",
+        "name": "遠東段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍井段竹坑小段": {
+        "id": "9300",
+        "name": "龍井段竹坑小段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍津段": {
+        "id": "9306",
+        "name": "龍津段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍目井段龍目井小段": {
+        "id": "9307",
+        "name": "龍目井段龍目井小段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍目井段水師寮小段": {
+        "id": "9308",
+        "name": "龍目井段水師寮小段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍目井段水裡社小段": {
+        "id": "9309",
+        "name": "龍目井段水裡社小段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍田段": {
+        "id": "9314",
+        "name": "龍田段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍山段": {
+        "id": "9328",
+        "name": "龍山段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍新段": {
+        "id": "9331",
+        "name": "龍新段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍社段": {
+        "id": "9332",
+        "name": "龍社段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍崗段": {
+        "id": "9334",
+        "name": "龍崗段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "龍泉段": {
+        "id": "9335",
+        "name": "龍泉段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "藝術段": {
+        "id": "9326",
+        "name": "藝術段",
+        "officeCode": "BK",
+        "townCode": "25"
+    },
+    "鷺山段": {
+        "id": "9329",
+        "name": "鷺山段",
+        "officeCode": "BK",
+        "townCode": "25"
+    }
+}

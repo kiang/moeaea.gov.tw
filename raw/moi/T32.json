@@ -1,0 +1,278 @@
+{
+    "口坑段": {
+        "id": "0843",
+        "name": "口坑段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "大牛坑段": {
+        "id": "0844",
+        "name": "大牛坑段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "丹路段": {
+        "id": "0639",
+        "name": "丹路段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "內文段": {
+        "id": "0642",
+        "name": "內文段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "內獅段": {
+        "id": "0645",
+        "name": "內獅段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "內海段": {
+        "id": "0853",
+        "name": "內海段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "巴士墨段": {
+        "id": "0644",
+        "name": "巴士墨段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "古道段": {
+        "id": "0646",
+        "name": "古道段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "外獅段": {
+        "id": "0636",
+        "name": "外獅段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "竹坑段": {
+        "id": "0638",
+        "name": "竹坑段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "竹林段": {
+        "id": "0879",
+        "name": "竹林段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "沙烏古段": {
+        "id": "0860",
+        "name": "沙烏古段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "牡丹路段": {
+        "id": "0886",
+        "name": "牡丹路段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "里龍西段": {
+        "id": "0817",
+        "name": "里龍西段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "里龍段": {
+        "id": "0849",
+        "name": "里龍段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "依泥日安段": {
+        "id": "0859",
+        "name": "依泥日安段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "佳歐夫段": {
+        "id": "0840",
+        "name": "佳歐夫段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "枋野段": {
+        "id": "0850",
+        "name": "枋野段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "阿拉非段": {
+        "id": "0816",
+        "name": "阿拉非段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "阿优豐段": {
+        "id": "0838",
+        "name": "阿优豐段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "南世段": {
+        "id": "0643",
+        "name": "南世段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "南世段一小段": {
+        "id": "0810",
+        "name": "南世段一小段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "拼得樂段": {
+        "id": "0813",
+        "name": "拼得樂段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "耶美須段": {
+        "id": "0842",
+        "name": "耶美須段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "苦來油段": {
+        "id": "0841",
+        "name": "苦來油段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "郎萊段": {
+        "id": "0861",
+        "name": "郎萊段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "家新路段": {
+        "id": "0848",
+        "name": "家新路段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "草埔段": {
+        "id": "0635",
+        "name": "草埔段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "茶卡啦段": {
+        "id": "0814",
+        "name": "茶卡啦段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "婆豬古段": {
+        "id": "0851",
+        "name": "婆豬古段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "崩崁段": {
+        "id": "0837",
+        "name": "崩崁段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "麻里巴段": {
+        "id": "0815",
+        "name": "麻里巴段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "麻优高段": {
+        "id": "0836",
+        "name": "麻优高段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "凱地段": {
+        "id": "0880",
+        "name": "凱地段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "就愛發揚段": {
+        "id": "0885",
+        "name": "就愛發揚段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "塔加寮段": {
+        "id": "0845",
+        "name": "塔加寮段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "新路段": {
+        "id": "0641",
+        "name": "新路段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "楓林段": {
+        "id": "0637",
+        "name": "楓林段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "獅子段": {
+        "id": "0640",
+        "name": "獅子段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "獅子頂段": {
+        "id": "0846",
+        "name": "獅子頂段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "路知可段": {
+        "id": "0847",
+        "name": "路知可段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "壽卡段": {
+        "id": "0852",
+        "name": "壽卡段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "瀑麻漾段": {
+        "id": "0858",
+        "name": "瀑麻漾段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "雙流段": {
+        "id": "0811",
+        "name": "雙流段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "霧里乙段": {
+        "id": "0839",
+        "name": "霧里乙段",
+        "officeCode": "TF",
+        "townCode": "32"
+    },
+    "鐵勁段": {
+        "id": "0647",
+        "name": "鐵勁段",
+        "officeCode": "TF",
+        "townCode": "32"
+    }
+}

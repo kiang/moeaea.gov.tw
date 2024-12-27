@@ -1,0 +1,362 @@
+{
+    "大山腳段": {
+        "id": "4302",
+        "name": "大山腳段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "大埕段": {
+        "id": "4354",
+        "name": "大埕段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "大埤段": {
+        "id": "4413",
+        "name": "大埤段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "大山段": {
+        "id": "4416",
+        "name": "大山段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "小埤段": {
+        "id": "4421",
+        "name": "小埤段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "中興段": {
+        "id": "4356",
+        "name": "中興段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "井東段": {
+        "id": "4442",
+        "name": "井東段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "五王段": {
+        "id": "4380",
+        "name": "五王段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "太子宅段": {
+        "id": "4430",
+        "name": "太子宅段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "文正段": {
+        "id": "4379",
+        "name": "文正段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "水堀頭段": {
+        "id": "4434",
+        "name": "水堀頭段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "北勢寮段": {
+        "id": "4301",
+        "name": "北勢寮段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "安業段": {
+        "id": "4307",
+        "name": "安業段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "安正段": {
+        "id": "4359",
+        "name": "安正段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "安東段": {
+        "id": "4443",
+        "name": "安東段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "安西段": {
+        "id": "4445",
+        "name": "安西段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "東角段": {
+        "id": "4374",
+        "name": "東角段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "油車段": {
+        "id": "4373",
+        "name": "油車段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "保安段": {
+        "id": "4375",
+        "name": "保安段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "前後班段": {
+        "id": "4426",
+        "name": "前後班段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "南寮段": {
+        "id": "4361",
+        "name": "南寮段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "南勢段": {
+        "id": "4381",
+        "name": "南勢段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "客子寮段": {
+        "id": "4438",
+        "name": "客子寮段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "巷口段": {
+        "id": "4377",
+        "name": "巷口段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "紀安段": {
+        "id": "4447",
+        "name": "紀安段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "晉江段": {
+        "id": "4376",
+        "name": "晉江段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "海埔段": {
+        "id": "4310",
+        "name": "海埔段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "海埤段": {
+        "id": "4415",
+        "name": "海埤段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "真理段": {
+        "id": "4437",
+        "name": "真理段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "國中段": {
+        "id": "4395",
+        "name": "國中段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "埤頭段": {
+        "id": "4303",
+        "name": "埤頭段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "清水段": {
+        "id": "4439",
+        "name": "清水段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "莊禮段": {
+        "id": "4353",
+        "name": "莊禮段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "麻豆段": {
+        "id": "4300",
+        "name": "麻豆段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "麻豆口段": {
+        "id": "4309",
+        "name": "麻豆口段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "麻安段": {
+        "id": "4417",
+        "name": "麻安段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "麻口段": {
+        "id": "4418",
+        "name": "麻口段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "麻工段": {
+        "id": "4433",
+        "name": "麻工段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "麻善段": {
+        "id": "4448",
+        "name": "麻善段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "朝天段": {
+        "id": "4360",
+        "name": "朝天段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "港子尾段": {
+        "id": "4311",
+        "name": "港子尾段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "港埔段": {
+        "id": "4352",
+        "name": "港埔段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "新建段": {
+        "id": "4357",
+        "name": "新建段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "新樓段": {
+        "id": "4422",
+        "name": "新樓段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "溝子墘段": {
+        "id": "4305",
+        "name": "溝子墘段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "寮子廍段": {
+        "id": "4304",
+        "name": "寮子廍段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "寮廍段": {
+        "id": "4435",
+        "name": "寮廍段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "廟後段": {
+        "id": "4412",
+        "name": "廟後段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "穀興段": {
+        "id": "4355",
+        "name": "穀興段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "磚子井段": {
+        "id": "4306",
+        "name": "磚子井段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "磚井段": {
+        "id": "4425",
+        "name": "磚井段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "興農段": {
+        "id": "4358",
+        "name": "興農段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "興國段": {
+        "id": "4382",
+        "name": "興國段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "龍泉段": {
+        "id": "4378",
+        "name": "龍泉段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "營後段": {
+        "id": "4362",
+        "name": "營後段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "總爺段": {
+        "id": "4440",
+        "name": "總爺段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "謝厝寮段": {
+        "id": "4308",
+        "name": "謝厝寮段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "謝西段": {
+        "id": "4446",
+        "name": "謝西段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "謝安段": {
+        "id": "4449",
+        "name": "謝安段",
+        "officeCode": "DF",
+        "townCode": "15"
+    },
+    "尫祖廟段": {
+        "id": "4429",
+        "name": "尫祖廟段",
+        "officeCode": "DF",
+        "townCode": "15"
+    }
+}

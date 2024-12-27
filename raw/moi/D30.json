@@ -1,0 +1,68 @@
+{
+    "大新段": {
+        "id": "6789",
+        "name": "大新段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "山上段": {
+        "id": "6749",
+        "name": "山上段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "牛稠埔段": {
+        "id": "6751",
+        "name": "牛稠埔段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "北勢洲段": {
+        "id": "6750",
+        "name": "北勢洲段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "玉二段": {
+        "id": "6786",
+        "name": "玉二段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "石子崎段": {
+        "id": "6752",
+        "name": "石子崎段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "明北段": {
+        "id": "6784",
+        "name": "明北段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "明南段": {
+        "id": "6788",
+        "name": "明南段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "媽祖段": {
+        "id": "6785",
+        "name": "媽祖段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "樹王段": {
+        "id": "6787",
+        "name": "樹王段",
+        "officeCode": "DH",
+        "townCode": "30"
+    },
+    "豐德段": {
+        "id": "6753",
+        "name": "豐德段",
+        "officeCode": "DH",
+        "townCode": "30"
+    }
+}

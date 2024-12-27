@@ -1,0 +1,224 @@
+{
+    "下罟子段下罟子小段": {
+        "id": "1282",
+        "name": "下罟子段下罟子小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "下罟子段長道坑口小段": {
+        "id": "1283",
+        "name": "下罟子段長道坑口小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "下罟段": {
+        "id": "1327",
+        "name": "下罟段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大八里坌段大崁腳小段": {
+        "id": "1267",
+        "name": "大八里坌段大崁腳小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大八里坌段大堀湖小段": {
+        "id": "1268",
+        "name": "大八里坌段大堀湖小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大八里坌段(王葛)瑪蘭坑小段": {
+        "id": "1269",
+        "name": "大八里坌段(王葛)瑪蘭坑小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大八里坌段渡船頭小段": {
+        "id": "1270",
+        "name": "大八里坌段渡船頭小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大八里坌段蛇子形小段": {
+        "id": "1271",
+        "name": "大八里坌段蛇子形小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大崁段": {
+        "id": "1300",
+        "name": "大崁段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大堀段": {
+        "id": "1301",
+        "name": "大堀段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "大堀湖段": {
+        "id": "1348",
+        "name": "大堀湖段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段楓櫃斗湖小段": {
+        "id": "1272",
+        "name": "小八里坌段楓櫃斗湖小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段荖阡坑小段": {
+        "id": "1273",
+        "name": "小八里坌段荖阡坑小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段舊城小段": {
+        "id": "1274",
+        "name": "小八里坌段舊城小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段廈竹圍子小段": {
+        "id": "1275",
+        "name": "小八里坌段廈竹圍子小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段中小段": {
+        "id": "1276",
+        "name": "小八里坌段中小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段挖子尾小段": {
+        "id": "1277",
+        "name": "小八里坌段挖子尾小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段埤子頭小段": {
+        "id": "1278",
+        "name": "小八里坌段埤子頭小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段松子腳小段": {
+        "id": "1279",
+        "name": "小八里坌段松子腳小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段十三行小段": {
+        "id": "1280",
+        "name": "小八里坌段十三行小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "小八里坌段訊塘埔小段": {
+        "id": "1281",
+        "name": "小八里坌段訊塘埔小段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "中庄段": {
+        "id": "1320",
+        "name": "中庄段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "中山段": {
+        "id": "1325",
+        "name": "中山段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "米倉段": {
+        "id": "1324",
+        "name": "米倉段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "長道坑段": {
+        "id": "1284",
+        "name": "長道坑段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "長坑段": {
+        "id": "1326",
+        "name": "長坑段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "訊塘段": {
+        "id": "1322",
+        "name": "訊塘段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "商港段": {
+        "id": "1306",
+        "name": "商港段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "埤頭段": {
+        "id": "1302",
+        "name": "埤頭段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "頂罟段": {
+        "id": "1303",
+        "name": "頂罟段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "楓林段": {
+        "id": "1328",
+        "name": "楓林段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "楓櫃段": {
+        "id": "1347",
+        "name": "楓櫃段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "臺北港段": {
+        "id": "1321",
+        "name": "臺北港段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "龍米段": {
+        "id": "1323",
+        "name": "龍米段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "龍形段": {
+        "id": "1349",
+        "name": "龍形段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "龍源段": {
+        "id": "1350",
+        "name": "龍源段",
+        "officeCode": "FE",
+        "townCode": "32"
+    },
+    "荖阡段": {
+        "id": "1329",
+        "name": "荖阡段",
+        "officeCode": "FE",
+        "townCode": "32"
+    }
+}

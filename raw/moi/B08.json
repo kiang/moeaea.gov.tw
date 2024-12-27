@@ -1,0 +1,434 @@
+{
+    "大坑段": {
+        "id": "1106",
+        "name": "大坑段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大觀段": {
+        "id": "1133",
+        "name": "大觀段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大興段": {
+        "id": "1134",
+        "name": "大興段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大仁段": {
+        "id": "1135",
+        "name": "大仁段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大學段": {
+        "id": "1143",
+        "name": "大學段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大滿段": {
+        "id": "1144",
+        "name": "大滿段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大湖段": {
+        "id": "1145",
+        "name": "大湖段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大榮段": {
+        "id": "1146",
+        "name": "大榮段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大昌段": {
+        "id": "1147",
+        "name": "大昌段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大盛段": {
+        "id": "1148",
+        "name": "大盛段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大華段": {
+        "id": "1149",
+        "name": "大華段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大富段": {
+        "id": "1150",
+        "name": "大富段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大貴段": {
+        "id": "1151",
+        "name": "大貴段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大豐段": {
+        "id": "1152",
+        "name": "大豐段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "大政段": {
+        "id": "1163",
+        "name": "大政段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "仁和段": {
+        "id": "1109",
+        "name": "仁和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "仁美段": {
+        "id": "1110",
+        "name": "仁美段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "仁德段": {
+        "id": "1111",
+        "name": "仁德段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "仁平段": {
+        "id": "1177",
+        "name": "仁平段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "太祥段": {
+        "id": "1153",
+        "name": "太祥段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "太原段": {
+        "id": "1154",
+        "name": "太原段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "太和段": {
+        "id": "1155",
+        "name": "太和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "太順段": {
+        "id": "1156",
+        "name": "太順段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "文北段": {
+        "id": "1170",
+        "name": "文北段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "水湳段": {
+        "id": "1101",
+        "name": "水湳段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "水景頭段": {
+        "id": "1103",
+        "name": "水景頭段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "北屯段": {
+        "id": "1100",
+        "name": "北屯段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "平田段": {
+        "id": "1118",
+        "name": "平田段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "同榮段": {
+        "id": "1108",
+        "name": "同榮段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "竹興段": {
+        "id": "1168",
+        "name": "竹興段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "和平段": {
+        "id": "1164",
+        "name": "和平段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "昌平段": {
+        "id": "1137",
+        "name": "昌平段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "東峰段": {
+        "id": "1116",
+        "name": "東峰段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "東光段": {
+        "id": "1117",
+        "name": "東光段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "東正段": {
+        "id": "1119",
+        "name": "東正段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "東山段": {
+        "id": "1120",
+        "name": "東山段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "東新段": {
+        "id": "1121",
+        "name": "東新段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "東信段": {
+        "id": "1122",
+        "name": "東信段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "松觀段": {
+        "id": "1112",
+        "name": "松觀段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "松茂段": {
+        "id": "1113",
+        "name": "松茂段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "松竹段": {
+        "id": "1114",
+        "name": "松竹段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "松昌段": {
+        "id": "1115",
+        "name": "松昌段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "長生段": {
+        "id": "1130",
+        "name": "長生段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "長安段": {
+        "id": "1131",
+        "name": "長安段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "長春段": {
+        "id": "1132",
+        "name": "長春段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "青萍段": {
+        "id": "1127",
+        "name": "青萍段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "青雲段": {
+        "id": "1128",
+        "name": "青雲段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "青田段": {
+        "id": "1129",
+        "name": "青田段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "南興段": {
+        "id": "1167",
+        "name": "南興段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "建安段": {
+        "id": "1123",
+        "name": "建安段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "建功段": {
+        "id": "1124",
+        "name": "建功段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "建和段": {
+        "id": "1125",
+        "name": "建和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "建業段": {
+        "id": "1126",
+        "name": "建業段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "洲際段": {
+        "id": "1174",
+        "name": "洲際段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "美和段": {
+        "id": "1178",
+        "name": "美和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "軍功寮段": {
+        "id": "1105",
+        "name": "軍功寮段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "軍和段": {
+        "id": "1138",
+        "name": "軍和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "軍福段": {
+        "id": "1139",
+        "name": "軍福段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "倡和段": {
+        "id": "1140",
+        "name": "倡和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "崇德段": {
+        "id": "1136",
+        "name": "崇德段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "陳平段": {
+        "id": "1102",
+        "name": "陳平段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "創研段": {
+        "id": "1169",
+        "name": "創研段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "敦和段": {
+        "id": "1176",
+        "name": "敦和段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "景美段": {
+        "id": "1141",
+        "name": "景美段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "景東段": {
+        "id": "1142",
+        "name": "景東段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "景福段": {
+        "id": "1165",
+        "name": "景福段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "溝背段": {
+        "id": "1171",
+        "name": "溝背段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "榮德段": {
+        "id": "1173",
+        "name": "榮德段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "碧柳段": {
+        "id": "1172",
+        "name": "碧柳段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "環中段": {
+        "id": "1175",
+        "name": "環中段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "舊社段": {
+        "id": "1104",
+        "name": "舊社段",
+        "officeCode": "BB",
+        "townCode": "08"
+    },
+    "鑫新平段": {
+        "id": "1166",
+        "name": "鑫新平段",
+        "officeCode": "BB",
+        "townCode": "08"
+    }
+}

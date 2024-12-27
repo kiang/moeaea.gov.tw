@@ -1,0 +1,146 @@
+{
+    "三塊厝段": {
+        "id": "1047",
+        "name": "三塊厝段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "三林段": {
+        "id": "1070",
+        "name": "三林段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "下山腳段": {
+        "id": "1051",
+        "name": "下山腳段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "上豐段": {
+        "id": "1056",
+        "name": "上豐段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "上富段": {
+        "id": "1058",
+        "name": "上富段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "上興段": {
+        "id": "1073",
+        "name": "上興段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "大城段": {
+        "id": "1039",
+        "name": "大城段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "山寮段": {
+        "id": "1045",
+        "name": "山寮段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "中城段": {
+        "id": "1106",
+        "name": "中城段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "尤厝段": {
+        "id": "1048",
+        "name": "尤厝段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "尤仕段": {
+        "id": "1074",
+        "name": "尤仕段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "外五間寮段": {
+        "id": "1046",
+        "name": "外五間寮段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "永光段": {
+        "id": "1042",
+        "name": "永光段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "西城段": {
+        "id": "1107",
+        "name": "西城段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "和寮段": {
+        "id": "1071",
+        "name": "和寮段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "東城段": {
+        "id": "1105",
+        "name": "東城段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "城潭段": {
+        "id": "1072",
+        "name": "城潭段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "建山段": {
+        "id": "1069",
+        "name": "建山段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "美豐段": {
+        "id": "1057",
+        "name": "美豐段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "進糖段": {
+        "id": "1049",
+        "name": "進糖段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "新光段": {
+        "id": "1041",
+        "name": "新光段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "楓港段": {
+        "id": "1040",
+        "name": "楓港段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "臺山段": {
+        "id": "1043",
+        "name": "臺山段",
+        "officeCode": "NG",
+        "townCode": "24"
+    },
+    "臺西段": {
+        "id": "1054",
+        "name": "臺西段",
+        "officeCode": "NG",
+        "townCode": "24"
+    }
+}

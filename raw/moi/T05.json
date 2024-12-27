@@ -1,0 +1,248 @@
+{
+    "上磚寮段": {
+        "id": "0186",
+        "name": "上磚寮段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "水泉段": {
+        "id": "0124",
+        "name": "水泉段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "水仙段": {
+        "id": "0158",
+        "name": "水仙段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "甘棠門段": {
+        "id": "0083",
+        "name": "甘棠門段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "甘棠門段一小段": {
+        "id": "0084",
+        "name": "甘棠門段一小段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "田厝段": {
+        "id": "0114",
+        "name": "田厝段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "竹林段": {
+        "id": "0150",
+        "name": "竹林段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "竹圍段": {
+        "id": "0169",
+        "name": "竹圍段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "社皮段": {
+        "id": "0072",
+        "name": "社皮段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "社安段": {
+        "id": "0115",
+        "name": "社安段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "社上段": {
+        "id": "0132",
+        "name": "社上段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "社北段": {
+        "id": "0136",
+        "name": "社北段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "社西段": {
+        "id": "0137",
+        "name": "社西段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "保長厝段": {
+        "id": "0078",
+        "name": "保長厝段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "香社段": {
+        "id": "0116",
+        "name": "香社段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "崙頂段": {
+        "id": "0113",
+        "name": "崙頂段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "頂林子段": {
+        "id": "0075",
+        "name": "頂林子段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "頂林子段一小段": {
+        "id": "0076",
+        "name": "頂林子段一小段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "頂新段": {
+        "id": "0149",
+        "name": "頂新段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "頂竹段": {
+        "id": "0181",
+        "name": "頂竹段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新庄子段": {
+        "id": "0082",
+        "name": "新庄子段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新鐘段": {
+        "id": "0106",
+        "name": "新鐘段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新林段": {
+        "id": "0107",
+        "name": "新林段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新安段": {
+        "id": "0108",
+        "name": "新安段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新全段": {
+        "id": "0109",
+        "name": "新全段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新福段": {
+        "id": "0125",
+        "name": "新福段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "新社皮段": {
+        "id": "0183",
+        "name": "新社皮段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬丹段": {
+        "id": "0070",
+        "name": "萬丹段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬興段": {
+        "id": "0112",
+        "name": "萬興段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬後段": {
+        "id": "0118",
+        "name": "萬後段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬全段": {
+        "id": "0119",
+        "name": "萬全段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬安段": {
+        "id": "0120",
+        "name": "萬安段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬生段": {
+        "id": "0121",
+        "name": "萬生段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "萬惠段": {
+        "id": "0122",
+        "name": "萬惠段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "廣安段": {
+        "id": "0133",
+        "name": "廣安段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "磚寮段": {
+        "id": "0085",
+        "name": "磚寮段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "興化廍段": {
+        "id": "0077",
+        "name": "興化廍段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "興化段": {
+        "id": "1723",
+        "name": "興化段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "濫庄段": {
+        "id": "0073",
+        "name": "濫庄段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "寶厝段": {
+        "id": "0123",
+        "name": "寶厝段",
+        "officeCode": "TA",
+        "townCode": "05"
+    },
+    "灣內段": {
+        "id": "0117",
+        "name": "灣內段",
+        "officeCode": "TA",
+        "townCode": "05"
+    }
+}

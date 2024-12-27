@@ -1,0 +1,128 @@
+{
+    "九芎林段": {
+        "id": "0053",
+        "name": "九芎林段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "九芎段": {
+        "id": "0116",
+        "name": "九芎段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "九芎南段": {
+        "id": "0118",
+        "name": "九芎南段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "中山段": {
+        "id": "0052",
+        "name": "中山段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "仁愛段": {
+        "id": "0111",
+        "name": "仁愛段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "永昌段": {
+        "id": "0114",
+        "name": "永昌段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "成功段": {
+        "id": "0051",
+        "name": "成功段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "林內段": {
+        "id": "0049",
+        "name": "林內段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "長興段": {
+        "id": "0115",
+        "name": "長興段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "重興段": {
+        "id": "0109",
+        "name": "重興段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "烏塗子段": {
+        "id": "0054",
+        "name": "烏塗子段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "烏塗段": {
+        "id": "0110",
+        "name": "烏塗段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "烏麻段": {
+        "id": "0125",
+        "name": "烏麻段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "頂庄段": {
+        "id": "0112",
+        "name": "頂庄段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "湖本段": {
+        "id": "0119",
+        "name": "湖本段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "湖山寮段": {
+        "id": "0140",
+        "name": "湖山寮段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "進興段": {
+        "id": "0105",
+        "name": "進興段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "新興段": {
+        "id": "0050",
+        "name": "新興段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "寶隆段": {
+        "id": "0131",
+        "name": "寶隆段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "芎蕉段": {
+        "id": "0108",
+        "name": "芎蕉段",
+        "officeCode": "PA",
+        "townCode": "10"
+    },
+    "芎林段": {
+        "id": "0117",
+        "name": "芎林段",
+        "officeCode": "PA",
+        "townCode": "10"
+    }
+}

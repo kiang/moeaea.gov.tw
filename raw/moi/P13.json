@@ -1,0 +1,224 @@
+{
+    "山寮段": {
+        "id": "0346",
+        "name": "山寮段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "中山段": {
+        "id": "0359",
+        "name": "中山段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "六輕段": {
+        "id": "1126",
+        "name": "六輕段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "永吉段": {
+        "id": "0357",
+        "name": "永吉段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "光大段": {
+        "id": "1122",
+        "name": "光大段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "光南段": {
+        "id": "1146",
+        "name": "光南段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "吉安段": {
+        "id": "1135",
+        "name": "吉安段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "圳寮段": {
+        "id": "0348",
+        "name": "圳寮段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "安西段": {
+        "id": "0349",
+        "name": "安西段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "成德段": {
+        "id": "1123",
+        "name": "成德段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "沙崙後段": {
+        "id": "0337",
+        "name": "沙崙後段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "後安段": {
+        "id": "1141",
+        "name": "後安段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "拱範段": {
+        "id": "1124",
+        "name": "拱範段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "施厝寮段": {
+        "id": "0338",
+        "name": "施厝寮段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "泰順段": {
+        "id": "1121",
+        "name": "泰順段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "泰盛段": {
+        "id": "1145",
+        "name": "泰盛段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "崙南段": {
+        "id": "0356",
+        "name": "崙南段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "許厝寮段許厝寮小段": {
+        "id": "0341",
+        "name": "許厝寮段許厝寮小段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "許厝寮段後安寮小段": {
+        "id": "0342",
+        "name": "許厝寮段後安寮小段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "麥寮段": {
+        "id": "0335",
+        "name": "麥寮段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "麥豐段": {
+        "id": "1139",
+        "name": "麥豐段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "麥中段": {
+        "id": "1142",
+        "name": "麥中段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "順天段": {
+        "id": "1134",
+        "name": "順天段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "新中段": {
+        "id": "1120",
+        "name": "新中段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "新吉段": {
+        "id": "1136",
+        "name": "新吉段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "新麥寮段": {
+        "id": "1147",
+        "name": "新麥寮段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "楊厝段": {
+        "id": "1140",
+        "name": "楊厝段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "雷厝段": {
+        "id": "0339",
+        "name": "雷厝段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "福安段": {
+        "id": "0347",
+        "name": "福安段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "橋頭段": {
+        "id": "0340",
+        "name": "橋頭段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "興化厝段": {
+        "id": "0336",
+        "name": "興化厝段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "興忠段": {
+        "id": "0355",
+        "name": "興忠段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "興寮段": {
+        "id": "0371",
+        "name": "興寮段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "豐安段": {
+        "id": "0360",
+        "name": "豐安段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "豐興段": {
+        "id": "0361",
+        "name": "豐興段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "豐津段": {
+        "id": "1144",
+        "name": "豐津段",
+        "officeCode": "PF",
+        "townCode": "13"
+    },
+    "鎮南段": {
+        "id": "1143",
+        "name": "鎮南段",
+        "officeCode": "PF",
+        "townCode": "13"
+    }
+}

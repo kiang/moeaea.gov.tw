@@ -1,0 +1,86 @@
+{
+    "十六甲段": {
+        "id": "4315",
+        "name": "十六甲段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "下營段": {
+        "id": "4312",
+        "name": "下營段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "大屯寮段": {
+        "id": "4316",
+        "name": "大屯寮段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "仁里段": {
+        "id": "4389",
+        "name": "仁里段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "茅港尾段": {
+        "id": "4313",
+        "name": "茅港尾段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "麻豆寮段": {
+        "id": "4314",
+        "name": "麻豆寮段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "新興段": {
+        "id": "4391",
+        "name": "新興段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營中段": {
+        "id": "4367",
+        "name": "營中段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營南段": {
+        "id": "4368",
+        "name": "營南段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營平段": {
+        "id": "4369",
+        "name": "營平段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營安段": {
+        "id": "4370",
+        "name": "營安段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營和段": {
+        "id": "4371",
+        "name": "營和段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營正段": {
+        "id": "4372",
+        "name": "營正段",
+        "officeCode": "DF",
+        "townCode": "16"
+    },
+    "營前段": {
+        "id": "4390",
+        "name": "營前段",
+        "officeCode": "DF",
+        "townCode": "16"
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "九江段": {
+        "id": "1430",
+        "name": "九江段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "上江山段": {
+        "id": "1442",
+        "name": "上江山段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "中興段": {
+        "id": "1401",
+        "name": "中興段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "內田段": {
+        "id": "0229",
+        "name": "內田段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "布袋段": {
+        "id": "0228",
+        "name": "布袋段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "布鹽段": {
+        "id": "1431",
+        "name": "布鹽段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "永安段": {
+        "id": "1403",
+        "name": "永安段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "江山段": {
+        "id": "1441",
+        "name": "江山段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "考試潭段": {
+        "id": "0230",
+        "name": "考試潭段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "考試潭段考試小段": {
+        "id": "0369",
+        "name": "考試潭段考試小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "考試潭段鹿寮小段": {
+        "id": "1410",
+        "name": "考試潭段鹿寮小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "考試潭段鹿安小段": {
+        "id": "1416",
+        "name": "考試潭段鹿安小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "見龍段": {
+        "id": "1400",
+        "name": "見龍段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "東岑段": {
+        "id": "1440",
+        "name": "東岑段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "保安宮段": {
+        "id": "1435",
+        "name": "保安宮段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "前東港段": {
+        "id": "0231",
+        "name": "前東港段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "建興段": {
+        "id": "1405",
+        "name": "建興段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "振寮段": {
+        "id": "1434",
+        "name": "振寮段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "崩山段": {
+        "id": "0232",
+        "name": "崩山段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "崩山段崩山小段": {
+        "id": "0370",
+        "name": "崩山段崩山小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "鹿寮段": {
+        "id": "1433",
+        "name": "鹿寮段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "復興段": {
+        "id": "1429",
+        "name": "復興段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "景山段": {
+        "id": "1402",
+        "name": "景山段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "菜舖廍段": {
+        "id": "0233",
+        "name": "菜舖廍段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "菜舖廍段菜舖廍小段": {
+        "id": "0234",
+        "name": "菜舖廍段菜舖廍小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "菜舖廍段新吉小段": {
+        "id": "0367",
+        "name": "菜舖廍段新吉小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "貴舍段": {
+        "id": "0237",
+        "name": "貴舍段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "貴舍段貴舍小段": {
+        "id": "1408",
+        "name": "貴舍段貴舍小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "貴舍段半月小段": {
+        "id": "1417",
+        "name": "貴舍段半月小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "貴舍新段": {
+        "id": "1472",
+        "name": "貴舍新段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "新塭段": {
+        "id": "0240",
+        "name": "新塭段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "新生段": {
+        "id": "0386",
+        "name": "新生段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "新厝段": {
+        "id": "0399",
+        "name": "新厝段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "新塭段好美小段": {
+        "id": "1428",
+        "name": "新塭段好美小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "新南段": {
+        "id": "1437",
+        "name": "新南段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "新民段": {
+        "id": "1438",
+        "name": "新民段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "溪墘段": {
+        "id": "0239",
+        "name": "溪墘段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "溪墘段溪墘小段": {
+        "id": "0368",
+        "name": "溪墘段溪墘小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "過溝段": {
+        "id": "0238",
+        "name": "過溝段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "過溝段過溝小段": {
+        "id": "1409",
+        "name": "過溝段過溝小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "過溝新段": {
+        "id": "1454",
+        "name": "過溝新段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "嘉塭段": {
+        "id": "1436",
+        "name": "嘉塭段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "樹林頭段": {
+        "id": "0235",
+        "name": "樹林頭段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "樹林頭段樹林小段": {
+        "id": "0236",
+        "name": "樹林頭段樹林小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "樹林頭段林頭小段": {
+        "id": "1407",
+        "name": "樹林頭段林頭小段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "龍江段": {
+        "id": "1432",
+        "name": "龍江段",
+        "officeCode": "QB",
+        "townCode": "03"
+    },
+    "魍港段": {
+        "id": "1439",
+        "name": "魍港段",
+        "officeCode": "QB",
+        "townCode": "03"
+    }
+}

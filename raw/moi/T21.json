@@ -1,0 +1,164 @@
+{
+    "下埔頭段": {
+        "id": "0541",
+        "name": "下埔頭段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "上埔頭段": {
+        "id": "0871",
+        "name": "上埔頭段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "大武丁段": {
+        "id": "0539",
+        "name": "大武丁段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "內館段": {
+        "id": "0825",
+        "name": "內館段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "六根段": {
+        "id": "0803",
+        "name": "六根段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "玉光段": {
+        "id": "0808",
+        "name": "玉光段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "石光見段": {
+        "id": "0537",
+        "name": "石光見段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "石光段": {
+        "id": "0809",
+        "name": "石光段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "佳冬段": {
+        "id": "0534",
+        "name": "佳冬段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "佳和段": {
+        "id": "0535",
+        "name": "佳和段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "佳興段": {
+        "id": "0802",
+        "name": "佳興段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "佳農段": {
+        "id": "0804",
+        "name": "佳農段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "昌隆段": {
+        "id": "0538",
+        "name": "昌隆段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "昌北段": {
+        "id": "0805",
+        "name": "昌北段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "昌東段": {
+        "id": "0806",
+        "name": "昌東段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "昌南段": {
+        "id": "0807",
+        "name": "昌南段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "武丁潭段": {
+        "id": "0540",
+        "name": "武丁潭段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "武丁段": {
+        "id": "0821",
+        "name": "武丁段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "武新段": {
+        "id": "0822",
+        "name": "武新段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "屏北段": {
+        "id": "0546",
+        "name": "屏北段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "復興段一小段": {
+        "id": "0556",
+        "name": "復興段一小段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "塭豐段": {
+        "id": "0536",
+        "name": "塭豐段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "塭仔段": {
+        "id": "0865",
+        "name": "塭仔段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "新埔段": {
+        "id": "0823",
+        "name": "新埔段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "萬建段": {
+        "id": "0801",
+        "name": "萬建段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "賴家段": {
+        "id": "0824",
+        "name": "賴家段",
+        "officeCode": "TF",
+        "townCode": "21"
+    },
+    "羗園段": {
+        "id": "0542",
+        "name": "羗園段",
+        "officeCode": "TF",
+        "townCode": "21"
+    }
+}

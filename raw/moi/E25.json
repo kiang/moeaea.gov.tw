@@ -1,0 +1,194 @@
+{
+    "大湖段": {
+        "id": "2900",
+        "name": "大湖段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "大湖段一小段": {
+        "id": "2901",
+        "name": "大湖段一小段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "工專段": {
+        "id": "2919",
+        "name": "工專段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "中山段": {
+        "id": "2908",
+        "name": "中山段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "中賢段": {
+        "id": "2930",
+        "name": "中賢段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "天福段": {
+        "id": "2923",
+        "name": "天福段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "文忠段": {
+        "id": "2928",
+        "name": "文忠段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "文賢段": {
+        "id": "2931",
+        "name": "文賢段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "正義段": {
+        "id": "2922",
+        "name": "正義段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "民生段": {
+        "id": "2921",
+        "name": "民生段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "玉湖段": {
+        "id": "2915",
+        "name": "玉湖段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "自強段": {
+        "id": "2914",
+        "name": "自強段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "沙園段": {
+        "id": "2927",
+        "name": "沙園段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "明宗段": {
+        "id": "2907",
+        "name": "明宗段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "東方段": {
+        "id": "2909",
+        "name": "東方段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "武功段": {
+        "id": "2911",
+        "name": "武功段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "長壽段": {
+        "id": "2920",
+        "name": "長壽段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "海埔段": {
+        "id": "2903",
+        "name": "海埔段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "海山段": {
+        "id": "2925",
+        "name": "海山段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "草仔寮段": {
+        "id": "2926",
+        "name": "草仔寮段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "清水段": {
+        "id": "2912",
+        "name": "清水段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "圍子內段": {
+        "id": "2904",
+        "name": "圍子內段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "圍子內段一小段": {
+        "id": "2905",
+        "name": "圍子內段一小段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "圍子內段二小段": {
+        "id": "2906",
+        "name": "圍子內段二小段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "普濟段": {
+        "id": "2917",
+        "name": "普濟段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "湖內段": {
+        "id": "2902",
+        "name": "湖內段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "逸賢段": {
+        "id": "2929",
+        "name": "逸賢段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "慈濟段": {
+        "id": "2913",
+        "name": "慈濟段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "寧靖段": {
+        "id": "2918",
+        "name": "寧靖段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "碧湖段": {
+        "id": "2916",
+        "name": "碧湖段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "福安段": {
+        "id": "2910",
+        "name": "福安段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    },
+    "劉家段": {
+        "id": "2924",
+        "name": "劉家段",
+        "officeCode": "EJ",
+        "townCode": "25"
+    }
+}

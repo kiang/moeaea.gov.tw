@@ -1,0 +1,458 @@
+{
+    "八張段八張小段": {
+        "id": "0080",
+        "name": "八張段八張小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "八張段坡子墘小段": {
+        "id": "0081",
+        "name": "八張段坡子墘小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "十三添段犁舌尾小段": {
+        "id": "0042",
+        "name": "十三添段犁舌尾小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "十三添段打鐵坑小段": {
+        "id": "0043",
+        "name": "十三添段打鐵坑小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "十三添段十三添小段": {
+        "id": "0044",
+        "name": "十三添段十三添小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "十三添一段": {
+        "id": "1988",
+        "name": "十三添一段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大寮段": {
+        "id": "0054",
+        "name": "大寮段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔段大埔小段": {
+        "id": "0059",
+        "name": "大埔段大埔小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔段柑子樹腳小段": {
+        "id": "0060",
+        "name": "大埔段柑子樹腳小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔段圳子頭小段": {
+        "id": "0061",
+        "name": "大埔段圳子頭小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔段二鬮小段": {
+        "id": "0062",
+        "name": "大埔段二鬮小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔段十八份小段": {
+        "id": "0063",
+        "name": "大埔段十八份小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔段五鬮小段": {
+        "id": "0064",
+        "name": "大埔段五鬮小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大仁段": {
+        "id": "1918",
+        "name": "大仁段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大學段一小段": {
+        "id": "1932",
+        "name": "大學段一小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "大埔一段": {
+        "id": "1987",
+        "name": "大埔一段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "山員潭子段": {
+        "id": "0053",
+        "name": "山員潭子段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "中埔段": {
+        "id": "0066",
+        "name": "中埔段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "中園段": {
+        "id": "1935",
+        "name": "中園段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "五寮段五寮小段": {
+        "id": "0082",
+        "name": "五寮段五寮小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "五寮段菜園地小段": {
+        "id": "0083",
+        "name": "五寮段菜園地小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "五寮段詩朗小段": {
+        "id": "0084",
+        "name": "五寮段詩朗小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "仁愛段": {
+        "id": "1913",
+        "name": "仁愛段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "介壽段": {
+        "id": "1909",
+        "name": "介壽段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "公館後段公館後小段": {
+        "id": "0046",
+        "name": "公館後段公館後小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "公館後段劉厝埔小段": {
+        "id": "0047",
+        "name": "公館後段劉厝埔小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "公館後段隆恩埔小段": {
+        "id": "0048",
+        "name": "公館後段隆恩埔小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "文化段": {
+        "id": "1916",
+        "name": "文化段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "正義段": {
+        "id": "1969",
+        "name": "正義段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "民權段": {
+        "id": "1911",
+        "name": "民權段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "民生段": {
+        "id": "1912",
+        "name": "民生段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "民族段": {
+        "id": "1934",
+        "name": "民族段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "永安段": {
+        "id": "1968",
+        "name": "永安段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "白雞段白雞小段": {
+        "id": "0039",
+        "name": "白雞段白雞小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "白雞段紫微小段": {
+        "id": "0040",
+        "name": "白雞段紫微小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "白雞段烏才頭小段": {
+        "id": "0041",
+        "name": "白雞段烏才頭小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "安溪段": {
+        "id": "1967",
+        "name": "安溪段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "成福段成福小段": {
+        "id": "0049",
+        "name": "成福段成福小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "成福段小暗坑小段": {
+        "id": "0050",
+        "name": "成福段小暗坑小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "成福一段": {
+        "id": "1992",
+        "name": "成福一段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "成福二段": {
+        "id": "1996",
+        "name": "成福二段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "竹崙段竹坑小段": {
+        "id": "0078",
+        "name": "竹崙段竹坑小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "竹崙段崙尾小段": {
+        "id": "0079",
+        "name": "竹崙段崙尾小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "佳興段": {
+        "id": "1965",
+        "name": "佳興段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "和平段": {
+        "id": "1914",
+        "name": "和平段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "東眼段東麓小段": {
+        "id": "0069",
+        "name": "東眼段東麓小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "東眼段金敏子小段": {
+        "id": "0070",
+        "name": "東眼段金敏子小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "東眼段東眼小段": {
+        "id": "1910",
+        "name": "東眼段東眼小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "長泰段": {
+        "id": "1966",
+        "name": "長泰段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "挖子段": {
+        "id": "0072",
+        "name": "挖子段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "茅埔段": {
+        "id": "0071",
+        "name": "茅埔段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "國光段": {
+        "id": "1915",
+        "name": "國光段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "麥子園段劉厝埔小段": {
+        "id": "0051",
+        "name": "麥子園段劉厝埔小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "麥子園段麥子園小段": {
+        "id": "0052",
+        "name": "麥子園段麥子園小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "麻園段溪墘寮小段": {
+        "id": "0057",
+        "name": "麻園段溪墘寮小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "麻園段麻園小段": {
+        "id": "0058",
+        "name": "麻園段麻園小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "麻園段": {
+        "id": "1986",
+        "name": "麻園段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "插角段熊空小段": {
+        "id": "0085",
+        "name": "插角段熊空小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "插角段有木小段": {
+        "id": "0086",
+        "name": "插角段有木小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "插角段外插角小段": {
+        "id": "0087",
+        "name": "插角段外插角小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "插角段內插角小段": {
+        "id": "0088",
+        "name": "插角段內插角小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "湊合段": {
+        "id": "1943",
+        "name": "湊合段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "隆恩埔段": {
+        "id": "0068",
+        "name": "隆恩埔段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "隆恩段": {
+        "id": "1917",
+        "name": "隆恩段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "溪北段": {
+        "id": "1983",
+        "name": "溪北段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "溪東段": {
+        "id": "1984",
+        "name": "溪東段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "溪南段": {
+        "id": "1985",
+        "name": "溪南段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "福德坑段": {
+        "id": "0077",
+        "name": "福德坑段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "鳶山段": {
+        "id": "0065",
+        "name": "鳶山段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "劉厝埔段": {
+        "id": "0067",
+        "name": "劉厝埔段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "橫溪段溪南小段": {
+        "id": "0073",
+        "name": "橫溪段溪南小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "橫溪段溪北小段": {
+        "id": "0074",
+        "name": "橫溪段溪北小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "橫溪段坪林小段": {
+        "id": "0075",
+        "name": "橫溪段坪林小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "橫溪段頂寮小段": {
+        "id": "0076",
+        "name": "橫溪段頂寮小段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "龍福段": {
+        "id": "1970",
+        "name": "龍福段",
+        "officeCode": "FI",
+        "townCode": "15"
+    },
+    "礁溪段": {
+        "id": "0045",
+        "name": "礁溪段",
+        "officeCode": "FI",
+        "townCode": "15"
+    }
+}

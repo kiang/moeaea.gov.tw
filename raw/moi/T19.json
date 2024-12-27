@@ -1,0 +1,122 @@
+{
+    "下庄段": {
+        "id": "1030",
+        "name": "下庄段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "中林段": {
+        "id": "0552",
+        "name": "中林段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "仁和段": {
+        "id": "0553",
+        "name": "仁和段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "內庄段": {
+        "id": "1027",
+        "name": "內庄段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "永樂段": {
+        "id": "0551",
+        "name": "永樂段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "田墘厝段": {
+        "id": "0523",
+        "name": "田墘厝段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "田墘厝段放索小段": {
+        "id": "0524",
+        "name": "田墘厝段放索小段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "光林段": {
+        "id": "0549",
+        "name": "光林段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "成功段": {
+        "id": "1025",
+        "name": "成功段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "竹子腳段": {
+        "id": "0525",
+        "name": "竹子腳段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "竹林段": {
+        "id": "1029",
+        "name": "竹林段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "東林段": {
+        "id": "0548",
+        "name": "東林段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "崎峰段": {
+        "id": "1002",
+        "name": "崎峰段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "富田段": {
+        "id": "0555",
+        "name": "富田段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "復興段": {
+        "id": "0547",
+        "name": "復興段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "塭岸段": {
+        "id": "0554",
+        "name": "塭岸段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "銀放索段": {
+        "id": "1024",
+        "name": "銀放索段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "鎮林段": {
+        "id": "0550",
+        "name": "鎮林段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "鎮安段": {
+        "id": "1026",
+        "name": "鎮安段",
+        "officeCode": "TD",
+        "townCode": "19"
+    },
+    "𥓞子口段": {
+        "id": "0526",
+        "name": "𥓞子口段",
+        "officeCode": "TD",
+        "townCode": "19"
+    }
+}

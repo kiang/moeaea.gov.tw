@@ -1,0 +1,68 @@
+{
+    "山頂段": {
+        "id": "3211",
+        "name": "山頂段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "仁壽段": {
+        "id": "3208",
+        "name": "仁壽段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "四村段": {
+        "id": "3210",
+        "name": "四村段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "安港段": {
+        "id": "3205",
+        "name": "安港段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "南庄段": {
+        "id": "3213",
+        "name": "南庄段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "港口段": {
+        "id": "3207",
+        "name": "港口段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "靖和段": {
+        "id": "3209",
+        "name": "靖和段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "彌港段": {
+        "id": "3204",
+        "name": "彌港段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "彌海段": {
+        "id": "3212",
+        "name": "彌海段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "塩埕段": {
+        "id": "3200",
+        "name": "塩埕段",
+        "officeCode": "EF",
+        "townCode": "28"
+    },
+    "塩港段": {
+        "id": "3206",
+        "name": "塩港段",
+        "officeCode": "EF",
+        "townCode": "28"
+    }
+}

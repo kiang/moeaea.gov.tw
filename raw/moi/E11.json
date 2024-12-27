@@ -1,0 +1,446 @@
+{
+    "二苓段": {
+        "id": "1215",
+        "name": "二苓段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "二橋段": {
+        "id": "1227",
+        "name": "二橋段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "二苓段一小段": {
+        "id": "1253",
+        "name": "二苓段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大林段": {
+        "id": "1201",
+        "name": "大林段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大業段": {
+        "id": "1205",
+        "name": "大業段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大林蒲段": {
+        "id": "1219",
+        "name": "大林蒲段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大坪頂段": {
+        "id": "1229",
+        "name": "大坪頂段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大人宮段": {
+        "id": "1230",
+        "name": "大人宮段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大人宮段一小段": {
+        "id": "1263",
+        "name": "大人宮段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大人宮段二小段": {
+        "id": "1264",
+        "name": "大人宮段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "大平段": {
+        "id": "1272",
+        "name": "大平段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "小港段": {
+        "id": "1213",
+        "name": "小港段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "山明段": {
+        "id": "1208",
+        "name": "山明段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "中大厝段": {
+        "id": "1217",
+        "name": "中大厝段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "中廍段": {
+        "id": "1222",
+        "name": "中廍段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "中林子段": {
+        "id": "1224",
+        "name": "中林子段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "中厝段": {
+        "id": "1235",
+        "name": "中厝段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "中廍段一小段": {
+        "id": "1258",
+        "name": "中廍段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "中厝段一小段": {
+        "id": "1266",
+        "name": "中厝段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "丹山段": {
+        "id": "1203",
+        "name": "丹山段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "孔宅段": {
+        "id": "1232",
+        "name": "孔宅段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "孔鳳段": {
+        "id": "1269",
+        "name": "孔鳳段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "水庫段": {
+        "id": "1240",
+        "name": "水庫段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "合作段": {
+        "id": "1271",
+        "name": "合作段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "宏明段": {
+        "id": "1243",
+        "name": "宏明段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "坪北段": {
+        "id": "1238",
+        "name": "坪北段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "坪南段": {
+        "id": "1239",
+        "name": "坪南段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "坪頂段": {
+        "id": "1245",
+        "name": "坪頂段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "坪鳳段": {
+        "id": "1247",
+        "name": "坪鳳段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "坪松段": {
+        "id": "1268",
+        "name": "坪松段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "店鎮段": {
+        "id": "1225",
+        "name": "店鎮段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "店子後段": {
+        "id": "1226",
+        "name": "店子後段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "店鎮段一小段": {
+        "id": "1259",
+        "name": "店鎮段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "店鎮段二小段": {
+        "id": "1260",
+        "name": "店鎮段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "店子後段一小段": {
+        "id": "1261",
+        "name": "店子後段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "店子後段二小段": {
+        "id": "1262",
+        "name": "店子後段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "明義段": {
+        "id": "1270",
+        "name": "明義段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "松華段": {
+        "id": "1246",
+        "name": "松華段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "松金段": {
+        "id": "1275",
+        "name": "松金段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "沿海段": {
+        "id": "1274",
+        "name": "沿海段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "空地子段": {
+        "id": "1218",
+        "name": "空地子段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "青島段一小段": {
+        "id": "1209",
+        "name": "青島段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "青島段二小段": {
+        "id": "1210",
+        "name": "青島段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "青島段三小段": {
+        "id": "1249",
+        "name": "青島段三小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "青島段四小段": {
+        "id": "1250",
+        "name": "青島段四小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "南星段": {
+        "id": "1244",
+        "name": "南星段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "紅毛港段": {
+        "id": "1221",
+        "name": "紅毛港段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "桂林段": {
+        "id": "1237",
+        "name": "桂林段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "高鳳段": {
+        "id": "1207",
+        "name": "高鳳段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "高松段": {
+        "id": "1216",
+        "name": "高松段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "高松段一小段": {
+        "id": "1254",
+        "name": "高松段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "高松段二小段": {
+        "id": "1255",
+        "name": "高松段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "朝興段": {
+        "id": "1273",
+        "name": "朝興段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港墘段": {
+        "id": "1206",
+        "name": "港墘段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港和段一小段": {
+        "id": "1211",
+        "name": "港和段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港和段二小段": {
+        "id": "1212",
+        "name": "港和段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港興段": {
+        "id": "1236",
+        "name": "港興段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港口段": {
+        "id": "1241",
+        "name": "港口段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港墘段一小段": {
+        "id": "1248",
+        "name": "港墘段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港和段三小段": {
+        "id": "1251",
+        "name": "港和段三小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "港和段四小段": {
+        "id": "1252",
+        "name": "港和段四小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鳳林段": {
+        "id": "1200",
+        "name": "鳳林段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鳳宮段": {
+        "id": "1204",
+        "name": "鳳宮段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鳳鼻頭段": {
+        "id": "1231",
+        "name": "鳳鼻頭段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鳳鼻頭段一小段": {
+        "id": "1265",
+        "name": "鳳鼻頭段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "機場段": {
+        "id": "1234",
+        "name": "機場段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "龍鳳段": {
+        "id": "1202",
+        "name": "龍鳳段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鹽水港段": {
+        "id": "1220",
+        "name": "鹽水港段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鹽水段": {
+        "id": "1242",
+        "name": "鹽水段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鹽水港段一小段": {
+        "id": "1256",
+        "name": "鹽水港段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "鹽水港段二小段": {
+        "id": "1257",
+        "name": "鹽水港段二小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "莿葱腳段": {
+        "id": "1214",
+        "name": "莿葱腳段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "厦莊段": {
+        "id": "1233",
+        "name": "厦莊段",
+        "officeCode": "EC",
+        "townCode": "11"
+    },
+    "厦莊段一小段": {
+        "id": "1267",
+        "name": "厦莊段一小段",
+        "officeCode": "EC",
+        "townCode": "11"
+    }
+}

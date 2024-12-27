@@ -1,0 +1,200 @@
+{
+    "十張犁段": {
+        "id": "0445",
+        "name": "十張犁段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "三姓段": {
+        "id": "0469",
+        "name": "三姓段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "山寮段": {
+        "id": "0446",
+        "name": "山寮段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "五塊寮段": {
+        "id": "0444",
+        "name": "五塊寮段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "五條港段": {
+        "id": "0448",
+        "name": "五條港段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "五港段": {
+        "id": "0488",
+        "name": "五港段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "五榔段": {
+        "id": "1118",
+        "name": "五榔段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "五華段": {
+        "id": "1127",
+        "name": "五華段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "公館段": {
+        "id": "1111",
+        "name": "公館段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "火燒牛稠段": {
+        "id": "0450",
+        "name": "火燒牛稠段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "台興段": {
+        "id": "0453",
+        "name": "台興段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "光華段": {
+        "id": "0483",
+        "name": "光華段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "光明段": {
+        "id": "1106",
+        "name": "光明段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "成功段": {
+        "id": "0481",
+        "name": "成功段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "旭安段": {
+        "id": "1107",
+        "name": "旭安段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "和豐段": {
+        "id": "1110",
+        "name": "和豐段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "尚德段": {
+        "id": "1004",
+        "name": "尚德段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "明德段": {
+        "id": "1003",
+        "name": "明德段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "泉州段": {
+        "id": "0482",
+        "name": "泉州段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "海口段": {
+        "id": "0440",
+        "name": "海口段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "蚊港段": {
+        "id": "0452",
+        "name": "蚊港段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "蚊興段": {
+        "id": "1133",
+        "name": "蚊興段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "崙子頂段": {
+        "id": "0449",
+        "name": "崙子頂段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "崙西段": {
+        "id": "1119",
+        "name": "崙西段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "崙中段": {
+        "id": "1125",
+        "name": "崙中段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "崙豐段": {
+        "id": "1132",
+        "name": "崙豐段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "普令厝段": {
+        "id": "0486",
+        "name": "普令厝段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "港西段": {
+        "id": "1130",
+        "name": "港西段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "新興段": {
+        "id": "0451",
+        "name": "新興段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "溪頂段": {
+        "id": "0441",
+        "name": "溪頂段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "萬厝段": {
+        "id": "0487",
+        "name": "萬厝段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "萬東段": {
+        "id": "1112",
+        "name": "萬東段",
+        "officeCode": "PF",
+        "townCode": "16"
+    },
+    "萬興段": {
+        "id": "1138",
+        "name": "萬興段",
+        "officeCode": "PF",
+        "townCode": "16"
+    }
+}

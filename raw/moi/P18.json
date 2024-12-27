@@ -1,0 +1,272 @@
+{
+    "三條崙段": {
+        "id": "0637",
+        "name": "三條崙段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "三條崙段溪崙小段": {
+        "id": "0638",
+        "name": "三條崙段溪崙小段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "三崙段": {
+        "id": "0644",
+        "name": "三崙段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "三姓段": {
+        "id": "0697",
+        "name": "三姓段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "下寮段": {
+        "id": "0631",
+        "name": "下寮段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "內湖段": {
+        "id": "0639",
+        "name": "內湖段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "北安段": {
+        "id": "0728",
+        "name": "北安段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "四湖段": {
+        "id": "0629",
+        "name": "四湖段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "四工段": {
+        "id": "0725",
+        "name": "四工段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "安慶段": {
+        "id": "0726",
+        "name": "安慶段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "羊稠厝段": {
+        "id": "0633",
+        "name": "羊稠厝段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "西頂段": {
+        "id": "0742",
+        "name": "西頂段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "西鹿段": {
+        "id": "0765",
+        "name": "西鹿段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "和平段": {
+        "id": "0709",
+        "name": "和平段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "東光段": {
+        "id": "0694",
+        "name": "東光段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "東海豐段": {
+        "id": "0790",
+        "name": "東海豐段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "林厝寮段": {
+        "id": "0643",
+        "name": "林厝寮段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "保安段": {
+        "id": "0731",
+        "name": "保安段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "南光段": {
+        "id": "0736",
+        "name": "南光段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "建陽段": {
+        "id": "0696",
+        "name": "建陽段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "建華段": {
+        "id": "0741",
+        "name": "建華段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "洋北段": {
+        "id": "0740",
+        "name": "洋北段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "飛沙段飛沙小段": {
+        "id": "0641",
+        "name": "飛沙段飛沙小段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "飛沙段三姓寮小段": {
+        "id": "0642",
+        "name": "飛沙段三姓寮小段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "飛湖段": {
+        "id": "0698",
+        "name": "飛湖段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "埔南段": {
+        "id": "0799",
+        "name": "埔南段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "國中段": {
+        "id": "0690",
+        "name": "國中段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "頂鹿段": {
+        "id": "0763",
+        "name": "頂鹿段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "魚寮段": {
+        "id": "0695",
+        "name": "魚寮段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "鹿場段": {
+        "id": "0632",
+        "name": "鹿場段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "湖東段": {
+        "id": "0688",
+        "name": "湖東段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "順天段": {
+        "id": "0768",
+        "name": "順天段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "新興段": {
+        "id": "0735",
+        "name": "新興段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "新下寮段": {
+        "id": "0791",
+        "name": "新下寮段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "新蔡厝段": {
+        "id": "0792",
+        "name": "新蔡厝段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "溪底段": {
+        "id": "0634",
+        "name": "溪底段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "溪尾段": {
+        "id": "0635",
+        "name": "溪尾段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "溪尾段新溪小段": {
+        "id": "0636",
+        "name": "溪尾段新溪小段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "溪南段": {
+        "id": "0727",
+        "name": "溪南段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "福安段": {
+        "id": "0764",
+        "name": "福安段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "廣溝段": {
+        "id": "0738",
+        "name": "廣溝段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "蔡厝段": {
+        "id": "0630",
+        "name": "蔡厝段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "關聖段": {
+        "id": "0689",
+        "name": "關聖段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "萡子寮段": {
+        "id": "0640",
+        "name": "萡子寮段",
+        "officeCode": "PE",
+        "townCode": "18"
+    },
+    "萡港段": {
+        "id": "0758",
+        "name": "萡港段",
+        "officeCode": "PE",
+        "townCode": "18"
+    }
+}

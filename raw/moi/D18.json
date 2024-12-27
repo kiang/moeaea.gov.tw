@@ -1,0 +1,230 @@
+{
+    "二鎮段": {
+        "id": "4335",
+        "name": "二鎮段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "二鎮段二鎮小段": {
+        "id": "4336",
+        "name": "二鎮段二鎮小段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "八田段": {
+        "id": "4432",
+        "name": "八田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "三結義段": {
+        "id": "4339",
+        "name": "三結義段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "三塊厝段": {
+        "id": "4343",
+        "name": "三塊厝段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "中脇段": {
+        "id": "4332",
+        "name": "中脇段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "永安段": {
+        "id": "4365",
+        "name": "永安段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "瓦磘段": {
+        "id": "4402",
+        "name": "瓦磘段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "西庄段": {
+        "id": "4346",
+        "name": "西庄段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "角秀段": {
+        "id": "4334",
+        "name": "角秀段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "官田段": {
+        "id": "4331",
+        "name": "官田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "官中段": {
+        "id": "4366",
+        "name": "官中段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "拔子林段": {
+        "id": "4337",
+        "name": "拔子林段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "東西庄段": {
+        "id": "4436",
+        "name": "東西庄段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "社子段": {
+        "id": "4342",
+        "name": "社子段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "南廍段": {
+        "id": "4345",
+        "name": "南廍段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "烏山頭段": {
+        "id": "4333",
+        "name": "烏山頭段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "神農段": {
+        "id": "4409",
+        "name": "神農段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "笨潭段": {
+        "id": "4338",
+        "name": "笨潭段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "湖山段": {
+        "id": "4431",
+        "name": "湖山段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "番子田段": {
+        "id": "4340",
+        "name": "番子田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "番子渡頭段": {
+        "id": "4344",
+        "name": "番子渡頭段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "隆田段": {
+        "id": "4400",
+        "name": "隆田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "隆本段": {
+        "id": "4401",
+        "name": "隆本段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "隆興段": {
+        "id": "4420",
+        "name": "隆興段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "隆東段": {
+        "id": "4423",
+        "name": "隆東段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "隆西段": {
+        "id": "4441",
+        "name": "隆西段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "新官田段": {
+        "id": "4414",
+        "name": "新官田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "義田段": {
+        "id": "4419",
+        "name": "義田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "葫蘆埤段": {
+        "id": "4454",
+        "name": "葫蘆埤段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "嘉南段": {
+        "id": "4364",
+        "name": "嘉南段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "福安段": {
+        "id": "4427",
+        "name": "福安段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "鎮北段": {
+        "id": "4403",
+        "name": "鎮北段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "鎮南段": {
+        "id": "4405",
+        "name": "鎮南段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "鎮田段": {
+        "id": "4424",
+        "name": "鎮田段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "鎮東段": {
+        "id": "4451",
+        "name": "鎮東段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "雙溪子段": {
+        "id": "4341",
+        "name": "雙溪子段",
+        "officeCode": "DF",
+        "townCode": "18"
+    },
+    "護安段": {
+        "id": "4404",
+        "name": "護安段",
+        "officeCode": "DF",
+        "townCode": "18"
+    }
+}

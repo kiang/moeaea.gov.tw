@@ -1,0 +1,338 @@
+{
+    "千秋寮段": {
+        "id": "2500",
+        "name": "千秋寮段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "千秋寮段一小段": {
+        "id": "2501",
+        "name": "千秋寮段一小段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "大埔段": {
+        "id": "2554",
+        "name": "大埔段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "中路林段": {
+        "id": "2516",
+        "name": "中路林段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "中安段": {
+        "id": "2539",
+        "name": "中安段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "中興段": {
+        "id": "2544",
+        "name": "中興段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "代天府段": {
+        "id": "2536",
+        "name": "代天府段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "北角宿段": {
+        "id": "2534",
+        "name": "北角宿段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "吊雞林段": {
+        "id": "2509",
+        "name": "吊雞林段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "安招段": {
+        "id": "2524",
+        "name": "安招段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "安東段": {
+        "id": "2525",
+        "name": "安東段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "安西段": {
+        "id": "2526",
+        "name": "安西段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "安南段": {
+        "id": "2527",
+        "name": "安南段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "安北段": {
+        "id": "2528",
+        "name": "安北段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "尖山段": {
+        "id": "2518",
+        "name": "尖山段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "竹子腳段": {
+        "id": "2506",
+        "name": "竹子腳段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "坑口段": {
+        "id": "2546",
+        "name": "坑口段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "角宿段": {
+        "id": "2512",
+        "name": "角宿段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "金山段": {
+        "id": "2556",
+        "name": "金山段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "南角宿段": {
+        "id": "2535",
+        "name": "南角宿段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "南勢崙段": {
+        "id": "2551",
+        "name": "南勢崙段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "面前埔段": {
+        "id": "2513",
+        "name": "面前埔段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "面前埔段一小段": {
+        "id": "2514",
+        "name": "面前埔段一小段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "面前埔段二小段": {
+        "id": "2515",
+        "name": "面前埔段二小段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "海城段": {
+        "id": "2538",
+        "name": "海城段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "烏山段": {
+        "id": "2550",
+        "name": "烏山段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "深水段": {
+        "id": "2502",
+        "name": "深水段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "深興段": {
+        "id": "2548",
+        "name": "深興段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "援巢中段": {
+        "id": "2504",
+        "name": "援巢中段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "援巢中段一小段": {
+        "id": "2505",
+        "name": "援巢中段一小段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "湖子內段": {
+        "id": "2503",
+        "name": "湖子內段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "湖內段": {
+        "id": "2547",
+        "name": "湖內段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "新尖山段": {
+        "id": "2555",
+        "name": "新尖山段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "煙波段": {
+        "id": "2549",
+        "name": "煙波段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "滾水段": {
+        "id": "2510",
+        "name": "滾水段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "滾水坪段": {
+        "id": "2511",
+        "name": "滾水坪段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "鳳山厝段": {
+        "id": "2517",
+        "name": "鳳山厝段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "鳳雄段": {
+        "id": "2542",
+        "name": "鳳雄段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "鳳龍段": {
+        "id": "2543",
+        "name": "鳳龍段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "蓬萊段": {
+        "id": "2553",
+        "name": "蓬萊段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "橫山段": {
+        "id": "2545",
+        "name": "橫山段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕中段": {
+        "id": "2519",
+        "name": "燕中段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕東段": {
+        "id": "2520",
+        "name": "燕東段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕西段": {
+        "id": "2521",
+        "name": "燕西段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕南段": {
+        "id": "2522",
+        "name": "燕南段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕北段": {
+        "id": "2523",
+        "name": "燕北段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕新段": {
+        "id": "2540",
+        "name": "燕新段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "燕科段": {
+        "id": "2552",
+        "name": "燕科段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "興龍段": {
+        "id": "2541",
+        "name": "興龍段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "瓊子林段": {
+        "id": "2508",
+        "name": "瓊子林段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "瓊東段": {
+        "id": "2529",
+        "name": "瓊東段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "瓊中段": {
+        "id": "2530",
+        "name": "瓊中段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "瓊興段": {
+        "id": "2531",
+        "name": "瓊興段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "瓊西段": {
+        "id": "2532",
+        "name": "瓊西段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "瓊安段": {
+        "id": "2533",
+        "name": "瓊安段",
+        "officeCode": "EF",
+        "townCode": "21"
+    },
+    "觀水段": {
+        "id": "2537",
+        "name": "觀水段",
+        "officeCode": "EF",
+        "townCode": "21"
+    }
+}

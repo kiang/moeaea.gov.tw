@@ -1,0 +1,338 @@
+{
+    "下頭寮段": {
+        "id": "1149",
+        "name": "下頭寮段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "上林段": {
+        "id": "1038",
+        "name": "上林段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "文津段": {
+        "id": "1139",
+        "name": "文津段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "文津北段": {
+        "id": "1142",
+        "name": "文津北段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "王功段": {
+        "id": "1028",
+        "name": "王功段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "北漢寶段": {
+        "id": "1146",
+        "name": "北漢寶段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "永興段": {
+        "id": "1075",
+        "name": "永興段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "沙山段": {
+        "id": "1029",
+        "name": "沙山段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "東漢寶段": {
+        "id": "1148",
+        "name": "東漢寶段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳平段": {
+        "id": "1085",
+        "name": "芳平段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳新段": {
+        "id": "1086",
+        "name": "芳新段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳寶段": {
+        "id": "1087",
+        "name": "芳寶段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳榮段": {
+        "id": "1089",
+        "name": "芳榮段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳義段": {
+        "id": "1090",
+        "name": "芳義段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳成段": {
+        "id": "1091",
+        "name": "芳成段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳仁段": {
+        "id": "1092",
+        "name": "芳仁段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳林段": {
+        "id": "1094",
+        "name": "芳林段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳興段": {
+        "id": "1095",
+        "name": "芳興段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳頂段": {
+        "id": "1096",
+        "name": "芳頂段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳崎段": {
+        "id": "1097",
+        "name": "芳崎段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳信段": {
+        "id": "1098",
+        "name": "芳信段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳寮段": {
+        "id": "1099",
+        "name": "芳寮段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳街段": {
+        "id": "1100",
+        "name": "芳街段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳山段": {
+        "id": "1101",
+        "name": "芳山段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳苑段": {
+        "id": "1102",
+        "name": "芳苑段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳埤段": {
+        "id": "1103",
+        "name": "芳埤段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳墘段": {
+        "id": "1104",
+        "name": "芳墘段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳功段": {
+        "id": "1112",
+        "name": "芳功段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳草段": {
+        "id": "1114",
+        "name": "芳草段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳合段": {
+        "id": "1115",
+        "name": "芳合段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "芳北段": {
+        "id": "1116",
+        "name": "芳北段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "建平段": {
+        "id": "1119",
+        "name": "建平段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "建新段": {
+        "id": "1121",
+        "name": "建新段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "後寮段": {
+        "id": "1033",
+        "name": "後寮段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "海尾段": {
+        "id": "1150",
+        "name": "海尾段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "草湖段": {
+        "id": "1026",
+        "name": "草湖段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "草漢段": {
+        "id": "1122",
+        "name": "草漢段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "草二段": {
+        "id": "1136",
+        "name": "草二段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "草湖南段": {
+        "id": "1138",
+        "name": "草湖南段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "草湖北段": {
+        "id": "1141",
+        "name": "草湖北段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "埤腳段": {
+        "id": "1031",
+        "name": "埤腳段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "崙腳段": {
+        "id": "1123",
+        "name": "崙腳段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "頂部子段": {
+        "id": "1032",
+        "name": "頂部子段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "新街段": {
+        "id": "1035",
+        "name": "新街段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "新湖段": {
+        "id": "1120",
+        "name": "新湖段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "新崙段": {
+        "id": "1140",
+        "name": "新崙段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "新王功段": {
+        "id": "1143",
+        "name": "新王功段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "新漢寶段": {
+        "id": "1144",
+        "name": "新漢寶段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "溝子墘段": {
+        "id": "1034",
+        "name": "溝子墘段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "裕津段": {
+        "id": "1067",
+        "name": "裕津段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "路上厝段": {
+        "id": "1030",
+        "name": "路上厝段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "路興段": {
+        "id": "1037",
+        "name": "路興段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "漢寶園段": {
+        "id": "1027",
+        "name": "漢寶園段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "漢興段": {
+        "id": "1036",
+        "name": "漢興段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "漢寶段": {
+        "id": "1147",
+        "name": "漢寶段",
+        "officeCode": "NG",
+        "townCode": "23"
+    },
+    "福海段": {
+        "id": "1113",
+        "name": "福海段",
+        "officeCode": "NG",
+        "townCode": "23"
+    }
+}

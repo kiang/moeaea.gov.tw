@@ -1,0 +1,98 @@
+{
+    "二重港段": {
+        "id": "5458",
+        "name": "二重港段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "中樞段": {
+        "id": "5406",
+        "name": "中樞段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "仁里段": {
+        "id": "5405",
+        "name": "仁里段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "北門段": {
+        "id": "5400",
+        "name": "北門段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "永隆段": {
+        "id": "5452",
+        "name": "永隆段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "玉港段": {
+        "id": "5453",
+        "name": "玉港段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "保吉段": {
+        "id": "5454",
+        "name": "保吉段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "保安段": {
+        "id": "5455",
+        "name": "保安段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "蚵寮段": {
+        "id": "5401",
+        "name": "蚵寮段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "渡子頭段": {
+        "id": "5402",
+        "name": "渡子頭段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "溪底寮段二重港小段": {
+        "id": "5403",
+        "name": "溪底寮段二重港小段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "溪底寮段三寮灣小段": {
+        "id": "5404",
+        "name": "溪底寮段三寮灣小段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "舊埕段": {
+        "id": "5451",
+        "name": "舊埕段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "雙春段": {
+        "id": "5450",
+        "name": "雙春段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "麗湖段": {
+        "id": "5457",
+        "name": "麗湖段",
+        "officeCode": "DG",
+        "townCode": "24"
+    },
+    "鯤江段": {
+        "id": "5456",
+        "name": "鯤江段",
+        "officeCode": "DG",
+        "townCode": "24"
+    }
+}

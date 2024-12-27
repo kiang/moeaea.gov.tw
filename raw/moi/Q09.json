@@ -1,0 +1,362 @@
+{
+    "三塊厝段": {
+        "id": "0286",
+        "name": "三塊厝段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "三塊厝段三家小段": {
+        "id": "0395",
+        "name": "三塊厝段三家小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "三塊厝新段": {
+        "id": "1458",
+        "name": "三塊厝新段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "下蔦松段": {
+        "id": "0302",
+        "name": "下蔦松段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "下揖子寮段": {
+        "id": "0314",
+        "name": "下揖子寮段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "下揖子寮段下揖小段": {
+        "id": "0315",
+        "name": "下揖子寮段下揖小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "下蔦松段蔦松小段": {
+        "id": "0376",
+        "name": "下蔦松段蔦松小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "山寮段": {
+        "id": "0285",
+        "name": "山寮段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "中洲段": {
+        "id": "0293",
+        "name": "中洲段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "屯子頭段": {
+        "id": "0287",
+        "name": "屯子頭段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "屯子頭新段": {
+        "id": "1459",
+        "name": "屯子頭新段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "走賊宅段": {
+        "id": "0308",
+        "name": "走賊宅段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "走賊宅段走宅小段": {
+        "id": "1412",
+        "name": "走賊宅段走宅小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "東石段": {
+        "id": "1460",
+        "name": "東石段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "型厝寮段": {
+        "id": "0309",
+        "name": "型厝寮段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "型厝段": {
+        "id": "1456",
+        "name": "型厝段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "後埔段": {
+        "id": "0294",
+        "name": "後埔段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "洲子段": {
+        "id": "0298",
+        "name": "洲子段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "洲仔段洲仔小段": {
+        "id": "0373",
+        "name": "洲仔段洲仔小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "栗子崙段": {
+        "id": "0289",
+        "name": "栗子崙段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "栗子崙段西崙小段": {
+        "id": "1411",
+        "name": "栗子崙段西崙小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "栗子崙段後埔小段": {
+        "id": "1418",
+        "name": "栗子崙段後埔小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "栗子崙段中洲小段": {
+        "id": "1419",
+        "name": "栗子崙段中洲小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "栗子崙段東崙小段": {
+        "id": "1420",
+        "name": "栗子崙段東崙小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "海埔段": {
+        "id": "0288",
+        "name": "海埔段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "海埔段海埔小段": {
+        "id": "0396",
+        "name": "海埔段海埔小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "副瀨段": {
+        "id": "0282",
+        "name": "副瀨段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "副瀨段副瀨小段": {
+        "id": "0392",
+        "name": "副瀨段副瀨小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "蚶子寮段": {
+        "id": "0306",
+        "name": "蚶子寮段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "蚶子寮段蚶子寮小段": {
+        "id": "0307",
+        "name": "蚶子寮段蚶子寮小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "蚶子寮段文蚶小段": {
+        "id": "1415",
+        "name": "蚶子寮段文蚶小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "頂東石段": {
+        "id": "0281",
+        "name": "頂東石段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "頂厝子段": {
+        "id": "0284",
+        "name": "頂厝子段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "頂揖子寮段": {
+        "id": "0312",
+        "name": "頂揖子寮段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "頂揖子寮段頂揖小段": {
+        "id": "0313",
+        "name": "頂揖子寮段頂揖小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "頂厝子段頂厝小段": {
+        "id": "0394",
+        "name": "頂厝子段頂厝小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "頂東石段黎明小段": {
+        "id": "0398",
+        "name": "頂東石段黎明小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "圍子內段": {
+        "id": "0300",
+        "name": "圍子內段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "圍潭段圍潭小段": {
+        "id": "0375",
+        "name": "圍潭段圍潭小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "富安段": {
+        "id": "1455",
+        "name": "富安段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "掌潭段": {
+        "id": "0295",
+        "name": "掌潭段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "港墘厝段": {
+        "id": "0283",
+        "name": "港墘厝段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "港墘段": {
+        "id": "0296",
+        "name": "港墘段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "港墘段港墘小段": {
+        "id": "0297",
+        "name": "港墘段港墘小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "港墘厝段龍港小段": {
+        "id": "0393",
+        "name": "港墘厝段龍港小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "湖底段": {
+        "id": "0310",
+        "name": "湖底段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "湖底段湖底小段": {
+        "id": "0371",
+        "name": "湖底段湖底小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "塭子段": {
+        "id": "0290",
+        "name": "塭子段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "塭港段": {
+        "id": "0311",
+        "name": "塭港段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "塭港新段": {
+        "id": "1457",
+        "name": "塭港新段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "慈安段": {
+        "id": "1446",
+        "name": "慈安段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "新掌潭段": {
+        "id": "1448",
+        "name": "新掌潭段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "溪子下段": {
+        "id": "0291",
+        "name": "溪子下段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "溪子下段溪子下小段": {
+        "id": "0292",
+        "name": "溪子下段溪子下小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "溪子下段福安小段": {
+        "id": "1413",
+        "name": "溪子下段福安小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "網寮段": {
+        "id": "1447",
+        "name": "網寮段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "雙連潭段": {
+        "id": "0303",
+        "name": "雙連潭段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "雙連潭段連潭小段": {
+        "id": "0374",
+        "name": "雙連潭段連潭小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "鰲鼓段": {
+        "id": "0305",
+        "name": "鰲鼓段",
+        "officeCode": "QB",
+        "townCode": "09"
+    },
+    "鰲鼓段鰲鼓小段": {
+        "id": "1414",
+        "name": "鰲鼓段鰲鼓小段",
+        "officeCode": "QB",
+        "townCode": "09"
+    }
+}

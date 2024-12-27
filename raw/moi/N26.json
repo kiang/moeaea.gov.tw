@@ -1,0 +1,224 @@
+{
+    "八德段": {
+        "id": "0858",
+        "name": "八德段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "下水埔段": {
+        "id": "0839",
+        "name": "下水埔段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "下霸段": {
+        "id": "0842",
+        "name": "下霸段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "大同段": {
+        "id": "0929",
+        "name": "大同段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "大庄段": {
+        "id": "0933",
+        "name": "大庄段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "中西段": {
+        "id": "0905",
+        "name": "中西段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "仁愛段": {
+        "id": "0855",
+        "name": "仁愛段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "北圳段": {
+        "id": "0936",
+        "name": "北圳段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "瓦厝段": {
+        "id": "0850",
+        "name": "瓦厝段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "圳寮段": {
+        "id": "0845",
+        "name": "圳寮段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "成功段": {
+        "id": "0907",
+        "name": "成功段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "西畔段": {
+        "id": "0844",
+        "name": "西畔段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "西斗段": {
+        "id": "0906",
+        "name": "西斗段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "更新段": {
+        "id": "0889",
+        "name": "更新段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "育善段": {
+        "id": "0886",
+        "name": "育善段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "和平段": {
+        "id": "0857",
+        "name": "和平段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "忠孝段": {
+        "id": "0854",
+        "name": "忠孝段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "信義段": {
+        "id": "0856",
+        "name": "信義段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "南圳段": {
+        "id": "0937",
+        "name": "南圳段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "柑園段": {
+        "id": "0908",
+        "name": "柑園段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "復興段": {
+        "id": "0887",
+        "name": "復興段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "湄洲段": {
+        "id": "0851",
+        "name": "湄洲段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "登山段": {
+        "id": "0885",
+        "name": "登山段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "進樂段": {
+        "id": "0888",
+        "name": "進樂段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "新興段": {
+        "id": "0847",
+        "name": "新興段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "新西畔段": {
+        "id": "0909",
+        "name": "新西畔段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "新下霸段": {
+        "id": "0910",
+        "name": "新下霸段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "新湄洲段": {
+        "id": "0932",
+        "name": "新湄洲段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "新眉段": {
+        "id": "0935",
+        "name": "新眉段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "溪州段溪州小段": {
+        "id": "0837",
+        "name": "溪州段溪州小段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "過溪子段": {
+        "id": "0848",
+        "name": "過溪子段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "過溪段": {
+        "id": "0934",
+        "name": "過溪段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "榮光段": {
+        "id": "0930",
+        "name": "榮光段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "綠筍段": {
+        "id": "0911",
+        "name": "綠筍段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "潮洋厝段": {
+        "id": "0849",
+        "name": "潮洋厝段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "舊眉段": {
+        "id": "0840",
+        "name": "舊眉段",
+        "officeCode": "NF",
+        "townCode": "26"
+    },
+    "庄北段": {
+        "id": "0931",
+        "name": "庄北段",
+        "officeCode": "NF",
+        "townCode": "26"
+    }
+}

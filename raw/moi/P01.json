@@ -1,0 +1,566 @@
+{
+    "九老爺段": {
+        "id": "0011",
+        "name": "九老爺段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "八德段": {
+        "id": "0088",
+        "name": "八德段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "十三段": {
+        "id": "0123",
+        "name": "十三段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "三平段": {
+        "id": "0074",
+        "name": "三平段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大北勢段大北勢小段": {
+        "id": "0008",
+        "name": "大北勢段大北勢小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大北勢段甲六埤小段": {
+        "id": "0009",
+        "name": "大北勢段甲六埤小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大北勢段林子頭小段": {
+        "id": "0010",
+        "name": "大北勢段林子頭小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大潭段大潭小段": {
+        "id": "0012",
+        "name": "大潭段大潭小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大潭段社口小段": {
+        "id": "0013",
+        "name": "大潭段社口小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大崙段大崙小段": {
+        "id": "0017",
+        "name": "大崙段大崙小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大崙段茄苳腳小段": {
+        "id": "0018",
+        "name": "大崙段茄苳腳小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "大竹圍段": {
+        "id": "0089",
+        "name": "大竹圍段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "中興段": {
+        "id": "0080",
+        "name": "中興段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "中正一段": {
+        "id": "0175",
+        "name": "中正一段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "中正二段": {
+        "id": "0176",
+        "name": "中正二段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "內林段": {
+        "id": "0022",
+        "name": "內林段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "內環段": {
+        "id": "0179",
+        "name": "內環段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "公正段": {
+        "id": "0061",
+        "name": "公正段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "斗六段": {
+        "id": "0001",
+        "name": "斗六段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "斗六一段": {
+        "id": "0167",
+        "name": "斗六一段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "斗六二段": {
+        "id": "0173",
+        "name": "斗六二段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "斗六三段": {
+        "id": "0174",
+        "name": "斗六三段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "水尾口段": {
+        "id": "0147",
+        "name": "水尾口段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "牛埔段": {
+        "id": "0083",
+        "name": "牛埔段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "北環段": {
+        "id": "0078",
+        "name": "北環段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "半路段": {
+        "id": "0122",
+        "name": "半路段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "正心段": {
+        "id": "0069",
+        "name": "正心段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "石榴班段": {
+        "id": "0023",
+        "name": "石榴班段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "石農段": {
+        "id": "0079",
+        "name": "石農段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "石榴段": {
+        "id": "0081",
+        "name": "石榴段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "石牛溪段": {
+        "id": "0161",
+        "name": "石牛溪段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "光復段": {
+        "id": "0024",
+        "name": "光復段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "光明段": {
+        "id": "0062",
+        "name": "光明段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "竹圍子段": {
+        "id": "0004",
+        "name": "竹圍子段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "竹頭段": {
+        "id": "0090",
+        "name": "竹頭段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "自強段": {
+        "id": "0120",
+        "name": "自強段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "行啟段": {
+        "id": "0178",
+        "name": "行啟段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "西平段": {
+        "id": "0071",
+        "name": "西平段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "秀才段": {
+        "id": "0150",
+        "name": "秀才段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "府文段": {
+        "id": "0106",
+        "name": "府文段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "明德段": {
+        "id": "0136",
+        "name": "明德段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "林子頭段林子頭小段": {
+        "id": "0019",
+        "name": "林子頭段林子頭小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "林子頭段番子溝小段": {
+        "id": "0020",
+        "name": "林子頭段番子溝小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "林頭段": {
+        "id": "0060",
+        "name": "林頭段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "社口段": {
+        "id": "0180",
+        "name": "社口段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "虎溪段": {
+        "id": "0070",
+        "name": "虎溪段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "長安段": {
+        "id": "0124",
+        "name": "長安段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "長平段": {
+        "id": "0156",
+        "name": "長平段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "保長廍段保長廍小段": {
+        "id": "0005",
+        "name": "保長廍段保長廍小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "保長廍段虎尾溪小段": {
+        "id": "0006",
+        "name": "保長廍段虎尾溪小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "保長廍段后庄子小段": {
+        "id": "0007",
+        "name": "保長廍段后庄子小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "保庄段": {
+        "id": "0068",
+        "name": "保庄段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "咬狗段": {
+        "id": "0025",
+        "name": "咬狗段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "咬狗北段": {
+        "id": "0158",
+        "name": "咬狗北段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "咬狗庄段": {
+        "id": "0159",
+        "name": "咬狗庄段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "建成段": {
+        "id": "0121",
+        "name": "建成段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "後庄段": {
+        "id": "0067",
+        "name": "後庄段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "科一段": {
+        "id": "0063",
+        "name": "科一段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "科加段": {
+        "id": "0075",
+        "name": "科加段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "科二段": {
+        "id": "0076",
+        "name": "科二段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "科工段": {
+        "id": "0154",
+        "name": "科工段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "貞寮段": {
+        "id": "0141",
+        "name": "貞寮段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "重光段": {
+        "id": "0055",
+        "name": "重光段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "重光東段": {
+        "id": "0091",
+        "name": "重光東段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "海豐崙段海豐崙小段": {
+        "id": "0002",
+        "name": "海豐崙段海豐崙小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "海豐崙段朱丹灣小段": {
+        "id": "0003",
+        "name": "海豐崙段朱丹灣小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "秦寮段": {
+        "id": "0065",
+        "name": "秦寮段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "埤口段": {
+        "id": "0165",
+        "name": "埤口段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "崙南段": {
+        "id": "0132",
+        "name": "崙南段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "崙北段": {
+        "id": "0151",
+        "name": "崙北段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "崙仔段": {
+        "id": "0155",
+        "name": "崙仔段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "梅林東段": {
+        "id": "0084",
+        "name": "梅林東段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "梅林西段": {
+        "id": "0085",
+        "name": "梅林西段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "梅南段": {
+        "id": "0092",
+        "name": "梅南段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "湖山段": {
+        "id": "0160",
+        "name": "湖山段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "菜公段": {
+        "id": "0021",
+        "name": "菜公段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "雲林溪段": {
+        "id": "0148",
+        "name": "雲林溪段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "黃厝段": {
+        "id": "0056",
+        "name": "黃厝段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "新溪洲段": {
+        "id": "0137",
+        "name": "新溪洲段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "新虎溪段": {
+        "id": "0146",
+        "name": "新虎溪段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "溝子埧段溝子埧小段": {
+        "id": "0014",
+        "name": "溝子埧段溝子埧小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "溝子埧段瓦厝子小段": {
+        "id": "0015",
+        "name": "溝子埧段瓦厝子小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "溝子埧段柴裡小段": {
+        "id": "0016",
+        "name": "溝子埧段柴裡小段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "溝垻段": {
+        "id": "0157",
+        "name": "溝垻段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "溪洲段": {
+        "id": "0066",
+        "name": "溪洲段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "萬年西段": {
+        "id": "0138",
+        "name": "萬年西段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "萬年東段": {
+        "id": "0139",
+        "name": "萬年東段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "嘉東段": {
+        "id": "0077",
+        "name": "嘉東段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "榴北段": {
+        "id": "0057",
+        "name": "榴北段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "榴中段": {
+        "id": "0082",
+        "name": "榴中段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "劉厝段": {
+        "id": "0142",
+        "name": "劉厝段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "龍潭段": {
+        "id": "0149",
+        "name": "龍潭段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "鎮西段": {
+        "id": "0168",
+        "name": "鎮西段",
+        "officeCode": "PA",
+        "townCode": "01"
+    },
+    "鎮南段": {
+        "id": "0181",
+        "name": "鎮南段",
+        "officeCode": "PA",
+        "townCode": "01"
+    }
+}

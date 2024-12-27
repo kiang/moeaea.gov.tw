@@ -1,0 +1,134 @@
+{
+    "二重溪段": {
+        "id": "0041",
+        "name": "二重溪段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "八杞仙段": {
+        "id": "0035",
+        "name": "八杞仙段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "中寮段": {
+        "id": "0040",
+        "name": "中寮段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "分水寮段": {
+        "id": "0042",
+        "name": "分水寮段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "仙鹿段": {
+        "id": "0075",
+        "name": "仙鹿段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "平林段": {
+        "id": "0728",
+        "name": "平林段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "永樂段": {
+        "id": "0038",
+        "name": "永樂段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "永昌段": {
+        "id": "0072",
+        "name": "永昌段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "永芳段": {
+        "id": "0077",
+        "name": "永芳段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "先驅段": {
+        "id": "0044",
+        "name": "先驅段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "長安段": {
+        "id": "0071",
+        "name": "長安段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "後寮段": {
+        "id": "0036",
+        "name": "後寮段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "清水段": {
+        "id": "0045",
+        "name": "清水段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "爽文段": {
+        "id": "0721",
+        "name": "爽文段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "鄉親寮段": {
+        "id": "0037",
+        "name": "鄉親寮段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "愛鄉段": {
+        "id": "0073",
+        "name": "愛鄉段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "新二重溪段": {
+        "id": "0727",
+        "name": "新二重溪段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "新後寮段": {
+        "id": "0730",
+        "name": "新後寮段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "義民段": {
+        "id": "0074",
+        "name": "義民段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "福山段": {
+        "id": "0039",
+        "name": "福山段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "樟平段": {
+        "id": "0725",
+        "name": "樟平段",
+        "officeCode": "MA",
+        "townCode": "08"
+    },
+    "龍眼林段": {
+        "id": "0043",
+        "name": "龍眼林段",
+        "officeCode": "MA",
+        "townCode": "08"
+    }
+}

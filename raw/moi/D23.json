@@ -1,0 +1,140 @@
+{
+    "口寮段": {
+        "id": "5310",
+        "name": "口寮段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "山子脚段": {
+        "id": "5311",
+        "name": "山子脚段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "中社段": {
+        "id": "5351",
+        "name": "中社段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "西華段": {
+        "id": "5354",
+        "name": "西華段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "西和段": {
+        "id": "5355",
+        "name": "西和段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "西湖段": {
+        "id": "5356",
+        "name": "西湖段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "角帶圍段": {
+        "id": "5312",
+        "name": "角帶圍段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "忠興段": {
+        "id": "5317",
+        "name": "忠興段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "忠昌段": {
+        "id": "5352",
+        "name": "忠昌段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "長榮段": {
+        "id": "5350",
+        "name": "長榮段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "保源段": {
+        "id": "5315",
+        "name": "保源段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "巷口段一小段": {
+        "id": "5303",
+        "name": "巷口段一小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "巷口段二小段": {
+        "id": "5304",
+        "name": "巷口段二小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "苓子寮段一小段": {
+        "id": "5314",
+        "name": "苓子寮段一小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "馬沙溝段": {
+        "id": "5357",
+        "name": "馬沙溝段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "國中段": {
+        "id": "5353",
+        "name": "國中段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "將軍段": {
+        "id": "5300",
+        "name": "將軍段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "將軍段一小段": {
+        "id": "5301",
+        "name": "將軍段一小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "嘉昌段": {
+        "id": "5316",
+        "name": "嘉昌段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "漚汪段東甲小段": {
+        "id": "5306",
+        "name": "漚汪段東甲小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "漚汪段北甲小段": {
+        "id": "5307",
+        "name": "漚汪段北甲小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "漚汪段西甲小段": {
+        "id": "5308",
+        "name": "漚汪段西甲小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    },
+    "漚汪段中甲小段": {
+        "id": "5309",
+        "name": "漚汪段中甲小段",
+        "officeCode": "DG",
+        "townCode": "23"
+    }
+}

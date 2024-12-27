@@ -1,0 +1,500 @@
+{
+    "九芎湖段玉蘭小段": {
+        "id": "0155",
+        "name": "九芎湖段玉蘭小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "九芎湖段牛鬥小段": {
+        "id": "0156",
+        "name": "九芎湖段牛鬥小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "二萬五段": {
+        "id": "0761",
+        "name": "二萬五段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "人和一段": {
+        "id": "0809",
+        "name": "人和一段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "人和二段": {
+        "id": "0810",
+        "name": "人和二段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "人和三段": {
+        "id": "0811",
+        "name": "人和三段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "八王城段": {
+        "id": "0759",
+        "name": "八王城段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "三星段月眉小段": {
+        "id": "0161",
+        "name": "三星段月眉小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "三星段破布烏小段": {
+        "id": "0162",
+        "name": "三星段破布烏小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "三星段天送埤小段": {
+        "id": "0163",
+        "name": "三星段天送埤小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "三星段九芎湖小段": {
+        "id": "0164",
+        "name": "三星段九芎湖小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大德段": {
+        "id": "0165",
+        "name": "大德段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大埔段": {
+        "id": "0229",
+        "name": "大埔段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大隱段": {
+        "id": "0230",
+        "name": "大隱段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大坑段": {
+        "id": "0267",
+        "name": "大坑段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大湖段": {
+        "id": "0268",
+        "name": "大湖段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大隱一段": {
+        "id": "0849",
+        "name": "大隱一段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大隱二段": {
+        "id": "0879",
+        "name": "大隱二段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大洲一段": {
+        "id": "0881",
+        "name": "大洲一段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大洲二段": {
+        "id": "0882",
+        "name": "大洲二段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大洲三段": {
+        "id": "0883",
+        "name": "大洲三段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "大隱三段": {
+        "id": "0896",
+        "name": "大隱三段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "中溪洲段中溪洲小段": {
+        "id": "0149",
+        "name": "中溪洲段中溪洲小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "中溪洲段桕腳廍小段": {
+        "id": "0151",
+        "name": "中溪洲段桕腳廍小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "天山段": {
+        "id": "0814",
+        "name": "天山段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "日興段": {
+        "id": "0166",
+        "name": "日興段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "牛頭段": {
+        "id": "0848",
+        "name": "牛頭段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "叭哩沙段": {
+        "id": "0762",
+        "name": "叭哩沙段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "田心段": {
+        "id": "0234",
+        "name": "田心段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "石圍段": {
+        "id": "0219",
+        "name": "石圍段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "光明段": {
+        "id": "0140",
+        "name": "光明段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "行健段": {
+        "id": "0221",
+        "name": "行健段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尾塹段": {
+        "id": "0217",
+        "name": "尾塹段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尾塹一段": {
+        "id": "0878",
+        "name": "尾塹一段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尾塹二段": {
+        "id": "0880",
+        "name": "尾塹二段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尚義段": {
+        "id": "0167",
+        "name": "尚義段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尚義南段": {
+        "id": "0926",
+        "name": "尚義南段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尚義北段": {
+        "id": "0927",
+        "name": "尚義北段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "尚武段": {
+        "id": "0928",
+        "name": "尚武段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "長春段": {
+        "id": "0216",
+        "name": "長春段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "長埤湖段": {
+        "id": "0815",
+        "name": "長埤湖段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "阿里史段阿里史小段": {
+        "id": "0142",
+        "name": "阿里史段阿里史小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "阿里史段大埔小段": {
+        "id": "0143",
+        "name": "阿里史段大埔小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "阿里史段十九結小段": {
+        "id": "0144",
+        "name": "阿里史段十九結小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "阿里史段張公圍小段": {
+        "id": "0145",
+        "name": "阿里史段張公圍小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "阿里史段大湖小段": {
+        "id": "0146",
+        "name": "阿里史段大湖小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "阿里史段草湖小段": {
+        "id": "0158",
+        "name": "阿里史段草湖小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "拱照段": {
+        "id": "0141",
+        "name": "拱照段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "星月段": {
+        "id": "0205",
+        "name": "星月段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "柑仔坑段": {
+        "id": "0813",
+        "name": "柑仔坑段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "洲子段蚊子煙埔小段": {
+        "id": "0900",
+        "name": "洲子段蚊子煙埔小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "紅柴林段紅柴林小段": {
+        "id": "0152",
+        "name": "紅柴林段紅柴林小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "紅柴林段二萬五小段": {
+        "id": "0153",
+        "name": "紅柴林段二萬五小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "紅柴林段八王圍小段": {
+        "id": "0154",
+        "name": "紅柴林段八王圍小段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "紅柴林段": {
+        "id": "0903",
+        "name": "紅柴林段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "家福段": {
+        "id": "0817",
+        "name": "家福段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "拳頭母段": {
+        "id": "0819",
+        "name": "拳頭母段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "蚊子煙埔段": {
+        "id": "0901",
+        "name": "蚊子煙埔段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "健富段": {
+        "id": "0233",
+        "name": "健富段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "張公圍段": {
+        "id": "0266",
+        "name": "張公圍段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "清水段": {
+        "id": "0157",
+        "name": "清水段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "頂義段": {
+        "id": "0220",
+        "name": "頂義段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "頂二萬五段": {
+        "id": "0760",
+        "name": "頂二萬五段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "復興一段": {
+        "id": "0816",
+        "name": "復興一段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "貴林段": {
+        "id": "0902",
+        "name": "貴林段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "集慶段": {
+        "id": "0206",
+        "name": "集慶段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新大洲段": {
+        "id": "0218",
+        "name": "新大洲段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新日興段": {
+        "id": "0857",
+        "name": "新日興段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新萬貴段": {
+        "id": "0904",
+        "name": "新萬貴段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新義富段": {
+        "id": "0905",
+        "name": "新義富段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新健富段": {
+        "id": "0906",
+        "name": "新健富段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新大埔段": {
+        "id": "0919",
+        "name": "新大埔段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新頂義段": {
+        "id": "0920",
+        "name": "新頂義段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新行健段": {
+        "id": "0921",
+        "name": "新行健段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "新石圍段": {
+        "id": "0922",
+        "name": "新石圍段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "萬貴段": {
+        "id": "0231",
+        "name": "萬貴段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "義德段": {
+        "id": "0207",
+        "name": "義德段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "義富段": {
+        "id": "0232",
+        "name": "義富段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "槍櫃城段": {
+        "id": "0820",
+        "name": "槍櫃城段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "福和段": {
+        "id": "0812",
+        "name": "福和段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "雙賢一段": {
+        "id": "0807",
+        "name": "雙賢一段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "雙賢二段": {
+        "id": "0808",
+        "name": "雙賢二段",
+        "officeCode": "GA",
+        "townCode": "10"
+    },
+    "桕腳廍段": {
+        "id": "0235",
+        "name": "桕腳廍段",
+        "officeCode": "GA",
+        "townCode": "10"
+    }
+}

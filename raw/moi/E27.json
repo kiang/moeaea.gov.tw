@@ -1,0 +1,92 @@
+{
+    "文興段": {
+        "id": "3108",
+        "name": "文興段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "永科段": {
+        "id": "3106",
+        "name": "永科段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "永華段": {
+        "id": "3115",
+        "name": "永華段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "竹子港段": {
+        "id": "3102",
+        "name": "竹子港段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "竹子港段一小段": {
+        "id": "3103",
+        "name": "竹子港段一小段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "保安段": {
+        "id": "3109",
+        "name": "保安段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "保寧段": {
+        "id": "3111",
+        "name": "保寧段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "保興段": {
+        "id": "3112",
+        "name": "保興段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "烏樹林段": {
+        "id": "3100",
+        "name": "烏樹林段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "烏樹林段一小段": {
+        "id": "3101",
+        "name": "烏樹林段一小段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "復興段": {
+        "id": "3110",
+        "name": "復興段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "新港段": {
+        "id": "3113",
+        "name": "新港段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "新厝段": {
+        "id": "3114",
+        "name": "新厝段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "維新段": {
+        "id": "3107",
+        "name": "維新段",
+        "officeCode": "EF",
+        "townCode": "27"
+    },
+    "舊港口段": {
+        "id": "3104",
+        "name": "舊港口段",
+        "officeCode": "EF",
+        "townCode": "27"
+    }
+}

@@ -1,0 +1,416 @@
+{
+    "九張犁段九張犁小段": {
+        "id": "3613",
+        "name": "九張犁段九張犁小段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "九張段": {
+        "id": "3650",
+        "name": "九張段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "山脚段頂山脚小段": {
+        "id": "3602",
+        "name": "山脚段頂山脚小段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "山脚段下山脚小段": {
+        "id": "3603",
+        "name": "山脚段下山脚小段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "中山段": {
+        "id": "3642",
+        "name": "中山段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "五里牌段": {
+        "id": "3616",
+        "name": "五里牌段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "六塊厝段": {
+        "id": "3611",
+        "name": "六塊厝段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "太白段": {
+        "id": "3645",
+        "name": "太白段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "孔門段": {
+        "id": "3631",
+        "name": "孔門段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "文武段": {
+        "id": "3638",
+        "name": "文武段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "文曲段": {
+        "id": "3655",
+        "name": "文曲段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "文安段": {
+        "id": "3656",
+        "name": "文安段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "文化段": {
+        "id": "3664",
+        "name": "文化段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "日南段": {
+        "id": "3615",
+        "name": "日南段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "日南社段": {
+        "id": "3617",
+        "name": "日南社段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "日新段": {
+        "id": "3646",
+        "name": "日新段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "外水尾段": {
+        "id": "3609",
+        "name": "外水尾段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "平安段": {
+        "id": "3633",
+        "name": "平安段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "幼獅段": {
+        "id": "3629",
+        "name": "幼獅段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "永信段": {
+        "id": "3661",
+        "name": "永信段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "甲嘉段": {
+        "id": "3624",
+        "name": "甲嘉段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "甲惠段": {
+        "id": "3625",
+        "name": "甲惠段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "甲農段": {
+        "id": "3626",
+        "name": "甲農段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "甲民段": {
+        "id": "3627",
+        "name": "甲民段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "甲全段": {
+        "id": "3628",
+        "name": "甲全段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "光明段": {
+        "id": "3635",
+        "name": "光明段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "西勢段": {
+        "id": "3622",
+        "name": "西勢段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "西岐段": {
+        "id": "3672",
+        "name": "西岐段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "和平段": {
+        "id": "3640",
+        "name": "和平段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "奉化段": {
+        "id": "3667",
+        "name": "奉化段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "奉仁段": {
+        "id": "3668",
+        "name": "奉仁段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "孟春段": {
+        "id": "3648",
+        "name": "孟春段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "岷山段": {
+        "id": "3637",
+        "name": "岷山段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "幸福段": {
+        "id": "3643",
+        "name": "幸福段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "武曲段": {
+        "id": "3641",
+        "name": "武曲段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "武陵段": {
+        "id": "3654",
+        "name": "武陵段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "社尾段社尾小段": {
+        "id": "3605",
+        "name": "社尾段社尾小段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "金華段": {
+        "id": "3662",
+        "name": "金華段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "南社段": {
+        "id": "3644",
+        "name": "南社段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "建興段": {
+        "id": "3673",
+        "name": "建興段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "後厝子段": {
+        "id": "3610",
+        "name": "後厝子段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "致用段": {
+        "id": "3663",
+        "name": "致用段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "船頭埔段": {
+        "id": "3623",
+        "name": "船頭埔段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "頂店段": {
+        "id": "3612",
+        "name": "頂店段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "頂後厝子段": {
+        "id": "3618",
+        "name": "頂後厝子段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "朝陽段": {
+        "id": "3630",
+        "name": "朝陽段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "渭水段": {
+        "id": "3671",
+        "name": "渭水段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "番子寮段": {
+        "id": "3608",
+        "name": "番子寮段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "雁門段": {
+        "id": "3639",
+        "name": "雁門段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "順天段": {
+        "id": "3632",
+        "name": "順天段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "順帆段": {
+        "id": "3670",
+        "name": "順帆段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "新庄子段": {
+        "id": "3620",
+        "name": "新庄子段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "新美段": {
+        "id": "3636",
+        "name": "新美段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "新興段": {
+        "id": "3651",
+        "name": "新興段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "義水段": {
+        "id": "3652",
+        "name": "義水段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "義和段": {
+        "id": "3653",
+        "name": "義和段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "福順段": {
+        "id": "3657",
+        "name": "福順段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "福德段": {
+        "id": "3658",
+        "name": "福德段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "福安段": {
+        "id": "3659",
+        "name": "福安段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "銅安厝段": {
+        "id": "3619",
+        "name": "銅安厝段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "劍井段": {
+        "id": "3660",
+        "name": "劍井段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "德化段": {
+        "id": "3665",
+        "name": "德化段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "賢仁段": {
+        "id": "3666",
+        "name": "賢仁段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "黎明段": {
+        "id": "3647",
+        "name": "黎明段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "橫圳段": {
+        "id": "3607",
+        "name": "橫圳段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "營盤口段": {
+        "id": "3604",
+        "name": "營盤口段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "臨江段": {
+        "id": "3649",
+        "name": "臨江段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "薰風段": {
+        "id": "3634",
+        "name": "薰風段",
+        "officeCode": "BE",
+        "townCode": "11"
+    },
+    "雙寮段": {
+        "id": "3621",
+        "name": "雙寮段",
+        "officeCode": "BE",
+        "townCode": "11"
+    }
+}

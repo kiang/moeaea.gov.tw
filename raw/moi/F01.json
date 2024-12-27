@@ -1,0 +1,542 @@
+{
+    "十八份坑段十八份坑小段": {
+        "id": "0319",
+        "name": "十八份坑段十八份坑小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "十八份坑段長窠子小段": {
+        "id": "0320",
+        "name": "十八份坑段長窠子小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "下坡角段": {
+        "id": "0321",
+        "name": "下坡角段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中港厝段": {
+        "id": "0316",
+        "name": "中港厝段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中正段": {
+        "id": "0403",
+        "name": "中正段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中誠段": {
+        "id": "0408",
+        "name": "中誠段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中泰段": {
+        "id": "0409",
+        "name": "中泰段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中原段": {
+        "id": "0494",
+        "name": "中原段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中原段一小段": {
+        "id": "2206",
+        "name": "中原段一小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中原段二小段": {
+        "id": "2207",
+        "name": "中原段二小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "中環段": {
+        "id": "2226",
+        "name": "中環段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "丹鳳段": {
+        "id": "0448",
+        "name": "丹鳳段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "公正段": {
+        "id": "0431",
+        "name": "公正段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "公館段": {
+        "id": "0432",
+        "name": "公館段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "化成段": {
+        "id": "0417",
+        "name": "化成段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "文明段": {
+        "id": "0416",
+        "name": "文明段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "文德段": {
+        "id": "0421",
+        "name": "文德段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "四維段": {
+        "id": "0440",
+        "name": "四維段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "民安段": {
+        "id": "0428",
+        "name": "民安段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "立德段": {
+        "id": "0420",
+        "name": "立德段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "立言段": {
+        "id": "0441",
+        "name": "立言段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "光明段": {
+        "id": "0429",
+        "name": "光明段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "光榮段": {
+        "id": "0430",
+        "name": "光榮段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "光華段": {
+        "id": "0433",
+        "name": "光華段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "全安段": {
+        "id": "0422",
+        "name": "全安段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "合鳳段": {
+        "id": "0447",
+        "name": "合鳳段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "安泰段": {
+        "id": "0443",
+        "name": "安泰段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "安和段": {
+        "id": "0444",
+        "name": "安和段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "自立段": {
+        "id": "0407",
+        "name": "自立段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "自強段": {
+        "id": "0410",
+        "name": "自強段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "西盛段西盛小段": {
+        "id": "0313",
+        "name": "西盛段西盛小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "和平段": {
+        "id": "0455",
+        "name": "和平段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "幸福段": {
+        "id": "0453",
+        "name": "幸福段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "忠孝段": {
+        "id": "0423",
+        "name": "忠孝段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "昌隆段": {
+        "id": "0454",
+        "name": "昌隆段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "青山段": {
+        "id": "2238",
+        "name": "青山段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "信華段二小段": {
+        "id": "0498",
+        "name": "信華段二小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "信華段三小段": {
+        "id": "2227",
+        "name": "信華段三小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "建國段": {
+        "id": "0427",
+        "name": "建國段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "後港段": {
+        "id": "0437",
+        "name": "後港段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "思賢段": {
+        "id": "0406",
+        "name": "思賢段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "思源段": {
+        "id": "0412",
+        "name": "思源段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "海山頭段柴橋頭小段": {
+        "id": "0306",
+        "name": "海山頭段柴橋頭小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "海山頭段三角子小段": {
+        "id": "0307",
+        "name": "海山頭段三角子小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "海山頭段石龜小段": {
+        "id": "0308",
+        "name": "海山頭段石龜小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段一小段": {
+        "id": "0495",
+        "name": "副都心段一小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段三小段": {
+        "id": "0499",
+        "name": "副都心段三小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段四小段": {
+        "id": "2200",
+        "name": "副都心段四小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段五小段": {
+        "id": "2201",
+        "name": "副都心段五小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段六小段": {
+        "id": "2202",
+        "name": "副都心段六小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段七小段": {
+        "id": "2203",
+        "name": "副都心段七小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段八小段": {
+        "id": "2204",
+        "name": "副都心段八小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "副都心段九小段": {
+        "id": "2205",
+        "name": "副都心段九小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "埤角段頂埤角小段": {
+        "id": "0309",
+        "name": "埤角段頂埤角小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "埤角段下埤角小段": {
+        "id": "0310",
+        "name": "埤角段下埤角小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "頂坡角段頂坡角小段": {
+        "id": "0317",
+        "name": "頂坡角段頂坡角小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "頂坡角段啞口坑小段": {
+        "id": "0318",
+        "name": "頂坡角段啞口坑小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "富國段": {
+        "id": "0438",
+        "name": "富國段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "復興段": {
+        "id": "0411",
+        "name": "復興段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "景德段": {
+        "id": "0491",
+        "name": "景德段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新莊段新莊小段": {
+        "id": "0311",
+        "name": "新莊段新莊小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新莊段街後小段": {
+        "id": "0312",
+        "name": "新莊段街後小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新工段一小段": {
+        "id": "0414",
+        "name": "新工段一小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新工段二小段": {
+        "id": "0415",
+        "name": "新工段二小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新樹段": {
+        "id": "0434",
+        "name": "新樹段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新豐段": {
+        "id": "2210",
+        "name": "新豐段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "新知段": {
+        "id": "2221",
+        "name": "新知段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "裕民段": {
+        "id": "0445",
+        "name": "裕民段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "壽山段": {
+        "id": "2237",
+        "name": "壽山段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "榮和段": {
+        "id": "0424",
+        "name": "榮和段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "榮富段": {
+        "id": "0456",
+        "name": "榮富段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "福營段": {
+        "id": "0439",
+        "name": "福營段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "福基段": {
+        "id": "0451",
+        "name": "福基段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "輔大段": {
+        "id": "0404",
+        "name": "輔大段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "興化段": {
+        "id": "0450",
+        "name": "興化段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "頭前段頭前小段": {
+        "id": "0300",
+        "name": "頭前段頭前小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "頭前段小田心子小段": {
+        "id": "0301",
+        "name": "頭前段小田心子小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "頭前段茄冬腳小段": {
+        "id": "0302",
+        "name": "頭前段茄冬腳小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "頭興段": {
+        "id": "0452",
+        "name": "頭興段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "龍鳳段": {
+        "id": "0446",
+        "name": "龍鳳段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "營盤段營盤邊小段": {
+        "id": "0303",
+        "name": "營盤段營盤邊小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "營盤段營盤口小段": {
+        "id": "0305",
+        "name": "營盤段營盤口小段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "營盤段": {
+        "id": "2262",
+        "name": "營盤段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "鴻福段": {
+        "id": "0418",
+        "name": "鴻福段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "豐年段": {
+        "id": "0435",
+        "name": "豐年段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "雙鳳段": {
+        "id": "0449",
+        "name": "雙鳳段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "瓊林段": {
+        "id": "0426",
+        "name": "瓊林段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "瓊泰段": {
+        "id": "0436",
+        "name": "瓊泰段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "恒安段": {
+        "id": "0419",
+        "name": "恒安段",
+        "officeCode": "FB",
+        "townCode": "01"
+    },
+    "欍子林段": {
+        "id": "0315",
+        "name": "欍子林段",
+        "officeCode": "FB",
+        "townCode": "01"
+    }
+}

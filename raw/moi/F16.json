@@ -1,0 +1,272 @@
+{
+    "二甲九段": {
+        "id": "0102",
+        "name": "二甲九段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "二橋段": {
+        "id": "1963",
+        "name": "二橋段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "二甲段": {
+        "id": "1977",
+        "name": "二甲段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "三鶯段": {
+        "id": "1971",
+        "name": "三鶯段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段大湖小段": {
+        "id": "0090",
+        "name": "大湖段大湖小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段崁腳小段": {
+        "id": "0091",
+        "name": "大湖段崁腳小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段大竹圍小段": {
+        "id": "0092",
+        "name": "大湖段大竹圍小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段三界公坑小段": {
+        "id": "0093",
+        "name": "大湖段三界公坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段樟普坑小段": {
+        "id": "0094",
+        "name": "大湖段樟普坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段圳子頭坑小段": {
+        "id": "0095",
+        "name": "大湖段圳子頭坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "大湖段中坑小段": {
+        "id": "0097",
+        "name": "大湖段中坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "工藝段": {
+        "id": "1960",
+        "name": "工藝段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "中山段": {
+        "id": "1905",
+        "name": "中山段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "中正段": {
+        "id": "1906",
+        "name": "中正段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "中湖段": {
+        "id": "1991",
+        "name": "中湖段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "永昌段": {
+        "id": "1947",
+        "name": "永昌段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "永吉段": {
+        "id": "1956",
+        "name": "永吉段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "尖山段尖山埔小段": {
+        "id": "0099",
+        "name": "尖山段尖山埔小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "尖山段尖山小段": {
+        "id": "0100",
+        "name": "尖山段尖山小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "尖山堆段": {
+        "id": "1961",
+        "name": "尖山堆段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "尖山腳段": {
+        "id": "1962",
+        "name": "尖山腳段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "西湖段": {
+        "id": "1982",
+        "name": "西湖段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "昌福段": {
+        "id": "1946",
+        "name": "昌福段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "東湖段": {
+        "id": "1990",
+        "name": "東湖段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "阿南坑段阿南坑小段": {
+        "id": "0103",
+        "name": "阿南坑段阿南坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "阿南坑段茶山小段": {
+        "id": "0104",
+        "name": "阿南坑段茶山小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "阿南坑段阿四坑小段": {
+        "id": "0105",
+        "name": "阿南坑段阿四坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "南靖厝段": {
+        "id": "0098",
+        "name": "南靖厝段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "南靖段": {
+        "id": "1972",
+        "name": "南靖段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "建國段": {
+        "id": "1907",
+        "name": "建國段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "國慶段": {
+        "id": "1908",
+        "name": "國慶段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "國姓段": {
+        "id": "1945",
+        "name": "國姓段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "國際段": {
+        "id": "1981",
+        "name": "國際段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "陶瓷段": {
+        "id": "1944",
+        "name": "陶瓷段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "福德段": {
+        "id": "1958",
+        "name": "福德段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "鳳鳴段": {
+        "id": "1952",
+        "name": "鳳鳴段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "鳳福段": {
+        "id": "1957",
+        "name": "鳳福段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "鳳祥段": {
+        "id": "1959",
+        "name": "鳳祥段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "德昌段": {
+        "id": "1955",
+        "name": "德昌段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "橋子頭段": {
+        "id": "0089",
+        "name": "橋子頭段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "橋子頭一段": {
+        "id": "1978",
+        "name": "橋子頭一段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "橋子頭二段": {
+        "id": "1979",
+        "name": "橋子頭二段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "橋子頭三段": {
+        "id": "1980",
+        "name": "橋子頭三段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "鶯歌段牛灶坑小段": {
+        "id": "0096",
+        "name": "鶯歌段牛灶坑小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    },
+    "鶯歌段鶯歌小段": {
+        "id": "0101",
+        "name": "鶯歌段鶯歌小段",
+        "officeCode": "FI",
+        "townCode": "16"
+    }
+}

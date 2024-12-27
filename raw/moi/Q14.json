@@ -1,0 +1,296 @@
+{
+    "三層崎段": {
+        "id": "0830",
+        "name": "三層崎段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "下六段公舘小段": {
+        "id": "0823",
+        "name": "下六段公舘小段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "下六段司公舘小段": {
+        "id": "0824",
+        "name": "下六段司公舘小段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "大義段": {
+        "id": "0879",
+        "name": "大義段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "中埔段": {
+        "id": "0811",
+        "name": "中埔段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "中崙段": {
+        "id": "0832",
+        "name": "中崙段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "中興段": {
+        "id": "0862",
+        "name": "中興段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "中庄仔段": {
+        "id": "1730",
+        "name": "中庄仔段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "王爺段": {
+        "id": "0880",
+        "name": "王爺段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "北興段": {
+        "id": "0861",
+        "name": "北興段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "田寮段": {
+        "id": "0881",
+        "name": "田寮段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "白芒埔段": {
+        "id": "0818",
+        "name": "白芒埔段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "石頭厝段": {
+        "id": "0816",
+        "name": "石頭厝段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "石硦段": {
+        "id": "0827",
+        "name": "石硦段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "石子湖段": {
+        "id": "1705",
+        "name": "石子湖段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "光興段": {
+        "id": "0865",
+        "name": "光興段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "安家厝段": {
+        "id": "1718",
+        "name": "安家厝段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "竹頭崎段": {
+        "id": "0819",
+        "name": "竹頭崎段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "吳鳳廟段": {
+        "id": "1701",
+        "name": "吳鳳廟段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "佳興段": {
+        "id": "0864",
+        "name": "佳興段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "和睦段": {
+        "id": "0863",
+        "name": "和睦段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "和興段": {
+        "id": "0866",
+        "name": "和興段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "和溪段": {
+        "id": "0867",
+        "name": "和溪段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "和美段": {
+        "id": "0877",
+        "name": "和美段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "忠義段": {
+        "id": "0878",
+        "name": "忠義段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "枋樹脚段": {
+        "id": "0813",
+        "name": "枋樹脚段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "社口段": {
+        "id": "0825",
+        "name": "社口段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "金蘭段": {
+        "id": "0882",
+        "name": "金蘭段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "柚子宅段": {
+        "id": "0817",
+        "name": "柚子宅段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "凍子脚段": {
+        "id": "0831",
+        "name": "凍子脚段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "埔東段": {
+        "id": "1703",
+        "name": "埔東段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "埔美段": {
+        "id": "1704",
+        "name": "埔美段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "埔塩段": {
+        "id": "1745",
+        "name": "埔塩段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "深坑段": {
+        "id": "0828",
+        "name": "深坑段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "頂六段頂中下街小段": {
+        "id": "0820",
+        "name": "頂六段頂中下街小段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "頂六段興化廍小段": {
+        "id": "0821",
+        "name": "頂六段興化廍小段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "頂六段赤蘭埔小段": {
+        "id": "0822",
+        "name": "頂六段赤蘭埔小段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "頂埔段": {
+        "id": "0829",
+        "name": "頂埔段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "富收段": {
+        "id": "0884",
+        "name": "富收段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "隆興段": {
+        "id": "1700",
+        "name": "隆興段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "隆恩段": {
+        "id": "1719",
+        "name": "隆恩段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "新塩舘段": {
+        "id": "1744",
+        "name": "新塩舘段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "義仁段": {
+        "id": "0899",
+        "name": "義仁段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "樹頭埔段": {
+        "id": "0812",
+        "name": "樹頭埔段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "龍山脚段": {
+        "id": "0826",
+        "name": "龍山脚段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "護生段": {
+        "id": "0883",
+        "name": "護生段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "灣潭子段": {
+        "id": "0815",
+        "name": "灣潭子段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "檨仔林段": {
+        "id": "1720",
+        "name": "檨仔林段",
+        "officeCode": "QD",
+        "townCode": "14"
+    },
+    "塩舘段": {
+        "id": "0814",
+        "name": "塩舘段",
+        "officeCode": "QD",
+        "townCode": "14"
+    }
+}

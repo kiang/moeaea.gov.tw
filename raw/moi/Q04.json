@@ -1,0 +1,356 @@
+{
+    "三角段": {
+        "id": "0421",
+        "name": "三角段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "三角段三角小段": {
+        "id": "0422",
+        "name": "三角段三角小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "三村段": {
+        "id": "0639",
+        "name": "三村段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "下埤頭段": {
+        "id": "0417",
+        "name": "下埤頭段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "下埤頭段下埤頭小段": {
+        "id": "0418",
+        "name": "下埤頭段下埤頭小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大湖段": {
+        "id": "0406",
+        "name": "大湖段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大湖段湖北小段": {
+        "id": "0407",
+        "name": "大湖段湖北小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大埔美段": {
+        "id": "0408",
+        "name": "大埔美段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大埔美段過溪小段": {
+        "id": "0409",
+        "name": "大埔美段過溪小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大埔美段大美小段": {
+        "id": "0410",
+        "name": "大埔美段大美小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大工一段": {
+        "id": "0619",
+        "name": "大工一段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "大工二段": {
+        "id": "0630",
+        "name": "大工二段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "中林段": {
+        "id": "0403",
+        "name": "中林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "中林段中林小段": {
+        "id": "0404",
+        "name": "中林段中林小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "中坑段 ": {
+        "id": "0415",
+        "name": "中坑段 ",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "中坑段中坑小段": {
+        "id": "0416",
+        "name": "中坑段中坑小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "中興段": {
+        "id": "0603",
+        "name": "中興段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "中林新段": {
+        "id": "0634",
+        "name": "中林新段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "內林段": {
+        "id": "0425",
+        "name": "內林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "內林段內林小段": {
+        "id": "0426",
+        "name": "內林段內林小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "水頭段": {
+        "id": "0610",
+        "name": "水頭段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "北勢段": {
+        "id": "0432",
+        "name": "北勢段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "北勢段北勢小段": {
+        "id": "0433",
+        "name": "北勢段北勢小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "平林段": {
+        "id": "0574",
+        "name": "平林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "甘蔗崙段": {
+        "id": "0411",
+        "name": "甘蔗崙段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "甘蔗崙段甘蔗崙小段": {
+        "id": "0412",
+        "name": "甘蔗崙段甘蔗崙小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "田寮段": {
+        "id": "0602",
+        "name": "田寮段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "吉林段": {
+        "id": "0573",
+        "name": "吉林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "米斗段": {
+        "id": "0600",
+        "name": "米斗段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "西林段": {
+        "id": "0570",
+        "name": "西林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "西結段": {
+        "id": "0621",
+        "name": "西結段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "沙崙段": {
+        "id": "0636",
+        "name": "沙崙段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "育英段": {
+        "id": "0641",
+        "name": "育英段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "明和段": {
+        "id": "0575",
+        "name": "明和段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "明華段": {
+        "id": "0576",
+        "name": "明華段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "明和段明和小段": {
+        "id": "0599",
+        "name": "明和段明和小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "東林段": {
+        "id": "0571",
+        "name": "東林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "林子前段": {
+        "id": "0413",
+        "name": "林子前段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "林子前段三和小段": {
+        "id": "0414",
+        "name": "林子前段三和小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "林頭段": {
+        "id": "0430",
+        "name": "林頭段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "林頭段林頭小段": {
+        "id": "0431",
+        "name": "林頭段林頭小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "香山段": {
+        "id": "0601",
+        "name": "香山段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "排子路段": {
+        "id": "0419",
+        "name": "排子路段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "排子路段排子路小段": {
+        "id": "0420",
+        "name": "排子路段排子路小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "頂員林段": {
+        "id": "0405",
+        "name": "頂員林段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "頂員林新段": {
+        "id": "0635",
+        "name": "頂員林新段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "頂林頭段": {
+        "id": "0637",
+        "name": "頂林頭段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "湖子段": {
+        "id": "0429",
+        "name": "湖子段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "湖北段": {
+        "id": "0638",
+        "name": "湖北段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "新興段": {
+        "id": "0572",
+        "name": "新興段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "新興段新興小段": {
+        "id": "0595",
+        "name": "新興段新興小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "新大埔美段": {
+        "id": "0620",
+        "name": "新大埔美段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "新三角段": {
+        "id": "0640",
+        "name": "新三角段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "溝背段": {
+        "id": "0423",
+        "name": "溝背段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "溝背段溝背小段": {
+        "id": "0424",
+        "name": "溝背段溝背小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "潭底段": {
+        "id": "0401",
+        "name": "潭底段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "潭底段潭底小段": {
+        "id": "0402",
+        "name": "潭底段潭底小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "橋子頭段": {
+        "id": "0427",
+        "name": "橋子頭段",
+        "officeCode": "QC",
+        "townCode": "04"
+    },
+    "橋子頭段橋子頭小段": {
+        "id": "0428",
+        "name": "橋子頭段橋子頭小段",
+        "officeCode": "QC",
+        "townCode": "04"
+    }
+}

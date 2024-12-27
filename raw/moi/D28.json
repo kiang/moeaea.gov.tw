@@ -1,0 +1,242 @@
+{
+    "七王段": {
+        "id": "6814",
+        "name": "七王段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "三舍段": {
+        "id": "6732",
+        "name": "三舍段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "三民段": {
+        "id": "6803",
+        "name": "三民段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "三德段": {
+        "id": "6806",
+        "name": "三德段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "大洲段": {
+        "id": "6736",
+        "name": "大洲段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "大營段": {
+        "id": "6738",
+        "name": "大營段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "大社段": {
+        "id": "6739",
+        "name": "大社段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "大榮段": {
+        "id": "6811",
+        "name": "大榮段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "大道公段": {
+        "id": "6847",
+        "name": "大道公段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "日潭段": {
+        "id": "6846",
+        "name": "日潭段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "月潭段": {
+        "id": "6845",
+        "name": "月潭段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "北社內段": {
+        "id": "6833",
+        "name": "北社內段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "北三舍段": {
+        "id": "6839",
+        "name": "北三舍段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "永就段": {
+        "id": "6761",
+        "name": "永就段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "永安段": {
+        "id": "6807",
+        "name": "永安段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "東大社段": {
+        "id": "6770",
+        "name": "東大社段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "東潭頂段": {
+        "id": "6771",
+        "name": "東潭頂段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "社內段": {
+        "id": "6730",
+        "name": "社內段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "信義段": {
+        "id": "6812",
+        "name": "信義段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "南港段": {
+        "id": "6815",
+        "name": "南港段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "南社內段": {
+        "id": "6834",
+        "name": "南社內段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "南三舍段": {
+        "id": "6840",
+        "name": "南三舍段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "看西段": {
+        "id": "6734",
+        "name": "看西段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "富強段": {
+        "id": "6813",
+        "name": "富強段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "港子墘段": {
+        "id": "6737",
+        "name": "港子墘段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "番子寮段": {
+        "id": "6731",
+        "name": "番子寮段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "華美段": {
+        "id": "6804",
+        "name": "華美段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "華興段": {
+        "id": "6810",
+        "name": "華興段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "新市段": {
+        "id": "6728",
+        "name": "新市段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "新店段": {
+        "id": "6729",
+        "name": "新店段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "新科段": {
+        "id": "6797",
+        "name": "新科段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "新晶段": {
+        "id": "6799",
+        "name": "新晶段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "新北段": {
+        "id": "6822",
+        "name": "新北段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "新大洲段": {
+        "id": "6849",
+        "name": "新大洲段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "道爺段": {
+        "id": "6733",
+        "name": "道爺段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "福壽段": {
+        "id": "6808",
+        "name": "福壽段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "潭頂段": {
+        "id": "6740",
+        "name": "潭頂段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "橋頭段": {
+        "id": "6735",
+        "name": "橋頭段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "營新段": {
+        "id": "6801",
+        "name": "營新段",
+        "officeCode": "DH",
+        "townCode": "28"
+    },
+    "舊園段": {
+        "id": "6848",
+        "name": "舊園段",
+        "officeCode": "DH",
+        "townCode": "28"
+    }
+}

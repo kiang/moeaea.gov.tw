@@ -1,0 +1,314 @@
+{
+    "上林段": {
+        "id": "0393",
+        "name": "上林段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "山崙段": {
+        "id": "0414",
+        "name": "山崙段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "文開段": {
+        "id": "0392",
+        "name": "文開段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "永安段": {
+        "id": "0308",
+        "name": "永安段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "永福段": {
+        "id": "0309",
+        "name": "永福段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "永興段": {
+        "id": "0428",
+        "name": "永興段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "永樂段": {
+        "id": "0429",
+        "name": "永樂段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "玉順段": {
+        "id": "0385",
+        "name": "玉順段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "東昇段": {
+        "id": "0305",
+        "name": "東昇段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "東石段": {
+        "id": "0391",
+        "name": "東石段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "南勢段": {
+        "id": "0310",
+        "name": "南勢段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "建國段": {
+        "id": "0422",
+        "name": "建國段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "洋厝段": {
+        "id": "0412",
+        "name": "洋厝段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "洛津段": {
+        "id": "0389",
+        "name": "洛津段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "埔崙段": {
+        "id": "0386",
+        "name": "埔崙段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "振興段": {
+        "id": "0311",
+        "name": "振興段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "海埔厝段海埔厝小段": {
+        "id": "0316",
+        "name": "海埔厝段海埔厝小段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "海埔厝段洋子厝小段": {
+        "id": "0317",
+        "name": "海埔厝段洋子厝小段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "海埔段": {
+        "id": "0411",
+        "name": "海埔段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "草港尾段": {
+        "id": "0314",
+        "name": "草港尾段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "草港段": {
+        "id": "0323",
+        "name": "草港段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "崑崙段": {
+        "id": "0413",
+        "name": "崑崙段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "崙海段": {
+        "id": "0322",
+        "name": "崙海段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "崙尾段": {
+        "id": "0406",
+        "name": "崙尾段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "郭厝段": {
+        "id": "0384",
+        "name": "郭厝段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "頂番婆段": {
+        "id": "0312",
+        "name": "頂番婆段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "頂和段": {
+        "id": "0375",
+        "name": "頂和段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿海段": {
+        "id": "0321",
+        "name": "鹿海段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿德段": {
+        "id": "0376",
+        "name": "鹿德段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿興段": {
+        "id": "0377",
+        "name": "鹿興段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿和段": {
+        "id": "0378",
+        "name": "鹿和段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿盛段": {
+        "id": "0379",
+        "name": "鹿盛段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿福段": {
+        "id": "0380",
+        "name": "鹿福段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿鳴段": {
+        "id": "0394",
+        "name": "鹿鳴段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿草段": {
+        "id": "0395",
+        "name": "鹿草段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿鳳段": {
+        "id": "0396",
+        "name": "鹿鳳段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿犁段": {
+        "id": "0397",
+        "name": "鹿犁段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿雅段": {
+        "id": "0398",
+        "name": "鹿雅段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿昇段": {
+        "id": "0407",
+        "name": "鹿昇段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿安段": {
+        "id": "0408",
+        "name": "鹿安段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿崙段": {
+        "id": "0420",
+        "name": "鹿崙段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿洋段": {
+        "id": "0421",
+        "name": "鹿洋段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿東段": {
+        "id": "0423",
+        "name": "鹿東段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹿工段": {
+        "id": "0424",
+        "name": "鹿工段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "景福段": {
+        "id": "0388",
+        "name": "景福段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "順興段": {
+        "id": "0387",
+        "name": "順興段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "新宮段": {
+        "id": "0390",
+        "name": "新宮段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "學子段": {
+        "id": "0427",
+        "name": "學子段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "龍山段": {
+        "id": "0381",
+        "name": "龍山段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "顏厝段顏厝小段": {
+        "id": "0319",
+        "name": "顏厝段顏厝小段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹽埕段": {
+        "id": "0409",
+        "name": "鹽埕段",
+        "officeCode": "NC",
+        "townCode": "02"
+    },
+    "鹽埔段": {
+        "id": "0410",
+        "name": "鹽埔段",
+        "officeCode": "NC",
+        "townCode": "02"
+    }
+}

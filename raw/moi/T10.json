@@ -1,0 +1,170 @@
+{
+    "上洛陽段": {
+        "id": "1335",
+        "name": "上洛陽段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "久愛段": {
+        "id": "1329",
+        "name": "久愛段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "大仁東段": {
+        "id": "1331",
+        "name": "大仁東段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "大仁段": {
+        "id": "1332",
+        "name": "大仁段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "仕絨段": {
+        "id": "1321",
+        "name": "仕絨段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "民意段": {
+        "id": "1322",
+        "name": "民意段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "永隆段": {
+        "id": "1336",
+        "name": "永隆段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "洛陽段": {
+        "id": "1334",
+        "name": "洛陽段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "振興段": {
+        "id": "1328",
+        "name": "振興段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "振北段": {
+        "id": "1337",
+        "name": "振北段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "高朗段": {
+        "id": "0274",
+        "name": "高朗段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "高華段": {
+        "id": "1330",
+        "name": "高華段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "彭厝段": {
+        "id": "0210",
+        "name": "彭厝段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "彭新段": {
+        "id": "0279",
+        "name": "彭新段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "彭北段": {
+        "id": "0280",
+        "name": "彭北段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "彭南段": {
+        "id": "1333",
+        "name": "彭南段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "新圍段": {
+        "id": "0209",
+        "name": "新圍段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "新二段": {
+        "id": "0249",
+        "name": "新二段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "新德段": {
+        "id": "0250",
+        "name": "新德段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "新高段": {
+        "id": "0251",
+        "name": "新高段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "新莊段": {
+        "id": "0275",
+        "name": "新莊段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "維新段": {
+        "id": "0252",
+        "name": "維新段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "興愛段": {
+        "id": "1338",
+        "name": "興愛段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "鹽東段": {
+        "id": "1323",
+        "name": "鹽東段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "塩埔段   ": {
+        "id": "0208",
+        "name": "塩埔段   ",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "塩南段": {
+        "id": "0253",
+        "name": "塩南段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "塩中段": {
+        "id": "0254",
+        "name": "塩中段",
+        "officeCode": "TB",
+        "townCode": "10"
+    },
+    "塩北段": {
+        "id": "0255",
+        "name": "塩北段",
+        "officeCode": "TB",
+        "townCode": "10"
+    }
+}

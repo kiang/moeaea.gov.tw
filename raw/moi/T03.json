@@ -1,0 +1,248 @@
+{
+    "三西和段": {
+        "id": "0504",
+        "name": "三西和段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "三和段": {
+        "id": "1015",
+        "name": "三和段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "三隆段": {
+        "id": "1034",
+        "name": "三隆段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "下廍段": {
+        "id": "0503",
+        "name": "下廍段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "大潭新段": {
+        "id": "0502",
+        "name": "大潭新段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "大東段": {
+        "id": "0585",
+        "name": "大東段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "大鵬段": {
+        "id": "1001",
+        "name": "大鵬段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "大潭新庄段": {
+        "id": "1013",
+        "name": "大潭新庄段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "大埔段": {
+        "id": "1014",
+        "name": "大埔段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "大東段一小段": {
+        "id": "1039",
+        "name": "大東段一小段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "東港段": {
+        "id": "0500",
+        "name": "東港段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "東新段": {
+        "id": "0583",
+        "name": "東新段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "東隆段": {
+        "id": "1041",
+        "name": "東隆段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "南屏段": {
+        "id": "0506",
+        "name": "南屏段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "建安段": {
+        "id": "1023",
+        "name": "建安段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "後寮溪段": {
+        "id": "1040",
+        "name": "後寮溪段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "盛海段": {
+        "id": "1037",
+        "name": "盛海段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "船頭段": {
+        "id": "0584",
+        "name": "船頭段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "頂中段": {
+        "id": "1048",
+        "name": "頂中段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "朝安段": {
+        "id": "1047",
+        "name": "朝安段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "超峰段": {
+        "id": "1028",
+        "name": "超峰段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新街段": {
+        "id": "0501",
+        "name": "新街段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新忠段": {
+        "id": "0575",
+        "name": "新忠段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新孝段": {
+        "id": "0576",
+        "name": "新孝段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新仁段": {
+        "id": "0577",
+        "name": "新仁段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新愛段": {
+        "id": "0578",
+        "name": "新愛段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新信段": {
+        "id": "0579",
+        "name": "新信段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新帝段": {
+        "id": "0581",
+        "name": "新帝段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新義段": {
+        "id": "1000",
+        "name": "新義段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新和段": {
+        "id": "1003",
+        "name": "新和段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新帝段一小段": {
+        "id": "1042",
+        "name": "新帝段一小段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新信段一小段": {
+        "id": "1044",
+        "name": "新信段一小段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新勝段": {
+        "id": "1049",
+        "name": "新勝段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "新福段": {
+        "id": "1050",
+        "name": "新福段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "嘉南段": {
+        "id": "0586",
+        "name": "嘉南段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "嘉新段": {
+        "id": "1035",
+        "name": "嘉新段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "福德段": {
+        "id": "1043",
+        "name": "福德段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "興盛段": {
+        "id": "1038",
+        "name": "興盛段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "龍帝段": {
+        "id": "0580",
+        "name": "龍帝段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "豐海段": {
+        "id": "1036",
+        "name": "豐海段",
+        "officeCode": "TD",
+        "townCode": "03"
+    },
+    "關帝段": {
+        "id": "0582",
+        "name": "關帝段",
+        "officeCode": "TD",
+        "townCode": "03"
+    }
+}

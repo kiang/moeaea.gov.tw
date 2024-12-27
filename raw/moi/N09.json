@@ -1,0 +1,92 @@
+{
+    "中興段": {
+        "id": "0230",
+        "name": "中興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "西海段": {
+        "id": "0231",
+        "name": "西海段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "西興段": {
+        "id": "0264",
+        "name": "西興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "宏濱段": {
+        "id": "0265",
+        "name": "宏濱段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "建興段": {
+        "id": "0228",
+        "name": "建興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "重振段": {
+        "id": "0225",
+        "name": "重振段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "重光段": {
+        "id": "0226",
+        "name": "重光段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "重興段": {
+        "id": "0227",
+        "name": "重興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "頂庄段": {
+        "id": "0290",
+        "name": "頂庄段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "富貴段": {
+        "id": "0252",
+        "name": "富貴段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "復興段": {
+        "id": "0261",
+        "name": "復興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "德興段": {
+        "id": "0229",
+        "name": "德興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "線西段線西小段": {
+        "id": "0222",
+        "name": "線西段線西小段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "線西段寓埔小段": {
+        "id": "0223",
+        "name": "線西段寓埔小段",
+        "officeCode": "NB",
+        "townCode": "09"
+    },
+    "線興段": {
+        "id": "0259",
+        "name": "線興段",
+        "officeCode": "NB",
+        "townCode": "09"
+    }
+}

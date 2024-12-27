@@ -1,0 +1,446 @@
+{
+    "小西門劃段": {
+        "id": "0110",
+        "name": "小西門劃段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "小西門劃測段": {
+        "id": "0226",
+        "name": "小西門劃測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "山段": {
+        "id": "0032",
+        "name": "山段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "山前段": {
+        "id": "0078",
+        "name": "山前段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "中一劃段": {
+        "id": "0034",
+        "name": "中一劃段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "中一段": {
+        "id": "0213",
+        "name": "中一段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "天后宮段": {
+        "id": "0277",
+        "name": "天后宮段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "水頭段": {
+        "id": "0081",
+        "name": "水頭段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "北一劃段": {
+        "id": "0035",
+        "name": "北一劃段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "北一段": {
+        "id": "0214",
+        "name": "北一段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "北堤段": {
+        "id": "0270",
+        "name": "北堤段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古坵段": {
+        "id": "0074",
+        "name": "古坵段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古井段": {
+        "id": "0079",
+        "name": "古井段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古崗段": {
+        "id": "0083",
+        "name": "古崗段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古塔段": {
+        "id": "0091",
+        "name": "古塔段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古坵村段": {
+        "id": "0117",
+        "name": "古坵村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古崗村段": {
+        "id": "0125",
+        "name": "古崗村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古區測段": {
+        "id": "0285",
+        "name": "古區測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "古崗村測段": {
+        "id": "0291",
+        "name": "古崗村測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "后豐港段": {
+        "id": "0076",
+        "name": "后豐港段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "吳厝村段": {
+        "id": "0123",
+        "name": "吳厝村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "吳厝村測段": {
+        "id": "0296",
+        "name": "吳厝村測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "官裡段": {
+        "id": "0073",
+        "name": "官裡段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "官路邊段": {
+        "id": "0122",
+        "name": "官路邊段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "官路邊測段": {
+        "id": "0287",
+        "name": "官路邊測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "延平段": {
+        "id": "0215",
+        "name": "延平段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "東沙段": {
+        "id": "0086",
+        "name": "東沙段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "東紅山段": {
+        "id": "0089",
+        "name": "東紅山段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "泗湖村段": {
+        "id": "0118",
+        "name": "泗湖村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "泗湖村測段": {
+        "id": "0294",
+        "name": "泗湖村測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "金城劃段": {
+        "id": "0037",
+        "name": "金城劃段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "金門城段": {
+        "id": "0111",
+        "name": "金門城段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "金門城測段": {
+        "id": "0290",
+        "name": "金門城測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "前水頭段": {
+        "id": "0112",
+        "name": "前水頭段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "前山前段": {
+        "id": "0119",
+        "name": "前山前段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "前水頭測段": {
+        "id": "0282",
+        "name": "前水頭測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "前山前測段": {
+        "id": "0295",
+        "name": "前山前測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "城段": {
+        "id": "0031",
+        "name": "城段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "城東段": {
+        "id": "0271",
+        "name": "城東段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "城西段": {
+        "id": "0272",
+        "name": "城西段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "城北段": {
+        "id": "0273",
+        "name": "城北段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "城隍廟段": {
+        "id": "0276",
+        "name": "城隍廟段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "城南段": {
+        "id": "0278",
+        "name": "城南段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "奎星樓段": {
+        "id": "0279",
+        "name": "奎星樓段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "建功嶼段": {
+        "id": "0256",
+        "name": "建功嶼段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "洪門港段": {
+        "id": "0121",
+        "name": "洪門港段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "洪門港測段": {
+        "id": "0286",
+        "name": "洪門港測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "夏墅村段": {
+        "id": "0120",
+        "name": "夏墅村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "夏墅測段": {
+        "id": "0283",
+        "name": "夏墅測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "烏土段": {
+        "id": "0070",
+        "name": "烏土段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "珠山段": {
+        "id": "0085",
+        "name": "珠山段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "珠山村段": {
+        "id": "0115",
+        "name": "珠山村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "珠山村測段": {
+        "id": "0292",
+        "name": "珠山村測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "庵前劃段": {
+        "id": "0090",
+        "name": "庵前劃段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "庵前村段": {
+        "id": "0116",
+        "name": "庵前村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "庵前劃測段": {
+        "id": "0227",
+        "name": "庵前劃測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "庵前村測段": {
+        "id": "0297",
+        "name": "庵前村測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "祥豐段": {
+        "id": "0264",
+        "name": "祥豐段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "祥安段": {
+        "id": "0267",
+        "name": "祥安段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "祥瑞段": {
+        "id": "0268",
+        "name": "祥瑞段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "祥和段": {
+        "id": "0269",
+        "name": "祥和段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "莒光樓段": {
+        "id": "0071",
+        "name": "莒光樓段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "蜈蚣山段": {
+        "id": "0082",
+        "name": "蜈蚣山段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "墅劃段": {
+        "id": "0036",
+        "name": "墅劃段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "旗牌段": {
+        "id": "0069",
+        "name": "旗牌段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "鳳翔段": {
+        "id": "0068",
+        "name": "鳳翔段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "歐厝段": {
+        "id": "0087",
+        "name": "歐厝段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "歐厝村段": {
+        "id": "0114",
+        "name": "歐厝村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "歐厝村測段": {
+        "id": "0293",
+        "name": "歐厝村測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "賢厝段": {
+        "id": "0075",
+        "name": "賢厝段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "賢厝村段": {
+        "id": "0113",
+        "name": "賢厝村段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "賢聚測段": {
+        "id": "0284",
+        "name": "賢聚測段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "燕南山段": {
+        "id": "0084",
+        "name": "燕南山段",
+        "officeCode": "WA",
+        "townCode": "03"
+    },
+    "舊金城段": {
+        "id": "0077",
+        "name": "舊金城段",
+        "officeCode": "WA",
+        "townCode": "03"
+    }
+}

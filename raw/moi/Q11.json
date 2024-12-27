@@ -1,0 +1,344 @@
+{
+    "三角子段": {
+        "id": "0706",
+        "name": "三角子段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "三角子段角堀小段": {
+        "id": "0839",
+        "name": "三角子段角堀小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "三角子段三角小段": {
+        "id": "0840",
+        "name": "三角子段三角小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "三角子段中寮小段": {
+        "id": "0841",
+        "name": "三角子段中寮小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "三角段": {
+        "id": "1722",
+        "name": "三角段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下潭段": {
+        "id": "0709",
+        "name": "下潭段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下潭段下潭小段": {
+        "id": "0710",
+        "name": "下潭段下潭小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下半天段": {
+        "id": "0723",
+        "name": "下半天段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下半天段半天小段": {
+        "id": "0724",
+        "name": "下半天段半天小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下半天段下半天小段": {
+        "id": "0725",
+        "name": "下半天段下半天小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下潭段光潭小段": {
+        "id": "0835",
+        "name": "下潭段光潭小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下潭段雲龍小段": {
+        "id": "0860",
+        "name": "下潭段雲龍小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "下潭新段": {
+        "id": "1735",
+        "name": "下潭新段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "山子脚段": {
+        "id": "0704",
+        "name": "山子脚段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "山子脚段山脚小段": {
+        "id": "0705",
+        "name": "山子脚段山脚小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "山下段": {
+        "id": "1740",
+        "name": "山下段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "中寮段": {
+        "id": "0720",
+        "name": "中寮段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "中寮段重寮小段": {
+        "id": "0721",
+        "name": "中寮段重寮小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "中寮段中寮小段": {
+        "id": "0722",
+        "name": "中寮段中寮小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "竹子脚段": {
+        "id": "0735",
+        "name": "竹子脚段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "竹子脚段松竹小段": {
+        "id": "0736",
+        "name": "竹子脚段松竹小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "松山段": {
+        "id": "1724",
+        "name": "松山段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後庄子段後庄小段": {
+        "id": "0712",
+        "name": "後庄子段後庄小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後堀段": {
+        "id": "0717",
+        "name": "後堀段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後寮段": {
+        "id": "0730",
+        "name": "後寮段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後寮段後寮小段": {
+        "id": "0731",
+        "name": "後寮段後寮小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後堀段後堀小段": {
+        "id": "0836",
+        "name": "後堀段後堀小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後麻段": {
+        "id": "1721",
+        "name": "後麻段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "後寮新段": {
+        "id": "1737",
+        "name": "後寮新段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "施厝寮段": {
+        "id": "0732",
+        "name": "施厝寮段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "施厝寮段施家小段": {
+        "id": "0733",
+        "name": "施厝寮段施家小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "施厝寮段施厝小段": {
+        "id": "0734",
+        "name": "施厝寮段施厝小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "施厝段": {
+        "id": "1739",
+        "name": "施厝段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "重寮段": {
+        "id": "1723",
+        "name": "重寮段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "海豐段": {
+        "id": "0707",
+        "name": "海豐段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "海豐段海豐小段": {
+        "id": "0708",
+        "name": "海豐段海豐小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "馬稠後段": {
+        "id": "0718",
+        "name": "馬稠後段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "馬稠後段豐稠小段": {
+        "id": "0719",
+        "name": "馬稠後段豐稠小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "頂潭段": {
+        "id": "0726",
+        "name": "頂潭段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "頂潭段頂潭小段": {
+        "id": "0727",
+        "name": "頂潭段頂潭小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "頂潭新段": {
+        "id": "1736",
+        "name": "頂潭新段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿草段": {
+        "id": "0700",
+        "name": "鹿草段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿草段鹿東小段": {
+        "id": "0701",
+        "name": "鹿草段鹿東小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿草段鹿草小段": {
+        "id": "0702",
+        "name": "鹿草段鹿草小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿草段西井小段": {
+        "id": "0703",
+        "name": "鹿草段西井小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿北段": {
+        "id": "0896",
+        "name": "鹿北段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿西段": {
+        "id": "0897",
+        "name": "鹿西段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿南段": {
+        "id": "0898",
+        "name": "鹿南段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鹿工段": {
+        "id": "1727",
+        "name": "鹿工段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "麻豆店段": {
+        "id": "0728",
+        "name": "麻豆店段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "麻豆店段下麻小段": {
+        "id": "0729",
+        "name": "麻豆店段下麻小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "龜佛山段": {
+        "id": "0713",
+        "name": "龜佛山段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "龜佛山段重劃小段": {
+        "id": "0714",
+        "name": "龜佛山段重劃小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "龜佛山段竹山小段": {
+        "id": "0715",
+        "name": "龜佛山段竹山小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "龜佛山段龜山小段": {
+        "id": "0716",
+        "name": "龜佛山段龜山小段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "龜佛山新段": {
+        "id": "1738",
+        "name": "龜佛山新段",
+        "officeCode": "QD",
+        "townCode": "11"
+    },
+    "鎮平段": {
+        "id": "1741",
+        "name": "鎮平段",
+        "officeCode": "QD",
+        "townCode": "11"
+    }
+}

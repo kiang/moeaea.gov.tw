@@ -1,0 +1,440 @@
+{
+    "三德段": {
+        "id": "2086",
+        "name": "三德段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "三民段": {
+        "id": "2104",
+        "name": "三民段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "三興段": {
+        "id": "2113",
+        "name": "三興段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "下角帶圍段": {
+        "id": "2004",
+        "name": "下角帶圍段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "土庫段": {
+        "id": "2008",
+        "name": "土庫段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "土安段": {
+        "id": "2122",
+        "name": "土安段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "大公段": {
+        "id": "2106",
+        "name": "大公段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "大同段": {
+        "id": "2110",
+        "name": "大同段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "太子宮段太子宮小段": {
+        "id": "2014",
+        "name": "太子宮段太子宮小段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "太子宮段埤子底小段": {
+        "id": "2015",
+        "name": "太子宮段埤子底小段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "太子宮段竹圍子小段": {
+        "id": "2016",
+        "name": "太子宮段竹圍子小段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "太子段": {
+        "id": "2056",
+        "name": "太子段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "王公廟段": {
+        "id": "2002",
+        "name": "王公廟段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "王公段": {
+        "id": "2087",
+        "name": "王公段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "北紙段": {
+        "id": "2102",
+        "name": "北紙段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "卯舍段": {
+        "id": "2009",
+        "name": "卯舍段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "民生段": {
+        "id": "2107",
+        "name": "民生段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "民族段": {
+        "id": "2112",
+        "name": "民族段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "民權段": {
+        "id": "2114",
+        "name": "民權段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "民治段": {
+        "id": "2118",
+        "name": "民治段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "永生段": {
+        "id": "2115",
+        "name": "永生段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "秀才段": {
+        "id": "2011",
+        "name": "秀才段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "育德段": {
+        "id": "2120",
+        "name": "育德段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "周武段": {
+        "id": "2146",
+        "name": "周武段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "姑爺段": {
+        "id": "2012",
+        "name": "姑爺段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "延平段": {
+        "id": "2092",
+        "name": "延平段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "忠政段": {
+        "id": "2089",
+        "name": "忠政段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "東興段": {
+        "id": "2108",
+        "name": "東興段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "東學段": {
+        "id": "2109",
+        "name": "東學段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "東站段": {
+        "id": "2150",
+        "name": "東站段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "武賢段": {
+        "id": "2103",
+        "name": "武賢段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "金華段": {
+        "id": "2145",
+        "name": "金華段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "長榮段": {
+        "id": "2085",
+        "name": "長榮段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "長勝段": {
+        "id": "2141",
+        "name": "長勝段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "南紙段": {
+        "id": "2055",
+        "name": "南紙段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "南興段": {
+        "id": "2095",
+        "name": "南興段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "南新段": {
+        "id": "2119",
+        "name": "南新段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "建國段": {
+        "id": "2084",
+        "name": "建國段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "後鎮段": {
+        "id": "2007",
+        "name": "後鎮段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "茄苳脚段": {
+        "id": "2003",
+        "name": "茄苳脚段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "茄苳段": {
+        "id": "2054",
+        "name": "茄苳段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "茄安段": {
+        "id": "2152",
+        "name": "茄安段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "真武段": {
+        "id": "2094",
+        "name": "真武段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "秦漢段": {
+        "id": "2149",
+        "name": "秦漢段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "埤寮段": {
+        "id": "2006",
+        "name": "埤寮段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "許丑段": {
+        "id": "2005",
+        "name": "許丑段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "復興段": {
+        "id": "2096",
+        "name": "復興段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "華城段": {
+        "id": "2099",
+        "name": "華城段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "隋唐段": {
+        "id": "2153",
+        "name": "隋唐段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新營段": {
+        "id": "2001",
+        "name": "新營段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新東段": {
+        "id": "2079",
+        "name": "新東段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新生段": {
+        "id": "2088",
+        "name": "新生段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新泰段": {
+        "id": "2091",
+        "name": "新泰段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新富段": {
+        "id": "2097",
+        "name": "新富段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新榮段": {
+        "id": "2098",
+        "name": "新榮段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新電段": {
+        "id": "2100",
+        "name": "新電段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新興段": {
+        "id": "2101",
+        "name": "新興段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新民段": {
+        "id": "2123",
+        "name": "新民段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新北段": {
+        "id": "2124",
+        "name": "新北段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新橋段": {
+        "id": "2125",
+        "name": "新橋段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新卯舍段": {
+        "id": "2133",
+        "name": "新卯舍段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新秀才段": {
+        "id": "2137",
+        "name": "新秀才段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新茄苳段": {
+        "id": "2142",
+        "name": "新茄苳段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "新南段": {
+        "id": "2144",
+        "name": "新南段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "嘉芳段": {
+        "id": "2052",
+        "name": "嘉芳段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "榮華段": {
+        "id": "2090",
+        "name": "榮華段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "綠川段": {
+        "id": "2111",
+        "name": "綠川段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "德隆段": {
+        "id": "2126",
+        "name": "德隆段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "興安段": {
+        "id": "2116",
+        "name": "興安段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "興業段": {
+        "id": "2117",
+        "name": "興業段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "濟安段": {
+        "id": "2093",
+        "name": "濟安段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "舊廍段": {
+        "id": "2013",
+        "name": "舊廍段",
+        "officeCode": "DD",
+        "townCode": "09"
+    },
+    "鐵線橋段": {
+        "id": "2010",
+        "name": "鐵線橋段",
+        "officeCode": "DD",
+        "townCode": "09"
+    }
+}

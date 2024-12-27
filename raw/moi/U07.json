@@ -1,0 +1,182 @@
+{
+    "大榮段": {
+        "id": "0249",
+        "name": "大榮段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "山興段": {
+        "id": "0207",
+        "name": "山興段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "山崎段": {
+        "id": "0295",
+        "name": "山崎段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "中心埔段": {
+        "id": "0286",
+        "name": "中心埔段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "中興段": {
+        "id": "0292",
+        "name": "中興段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "中原段": {
+        "id": "0908",
+        "name": "中原段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "水車段": {
+        "id": "0247",
+        "name": "水車段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "北林段": {
+        "id": "0248",
+        "name": "北林段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "兆豐段": {
+        "id": "0907",
+        "name": "兆豐段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "林田段": {
+        "id": "0206",
+        "name": "林田段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "林榮段": {
+        "id": "0246",
+        "name": "林榮段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "長橋段": {
+        "id": "0285",
+        "name": "長橋段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "南平段": {
+        "id": "0251",
+        "name": "南平段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "森榮段": {
+        "id": "0284",
+        "name": "森榮段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "萬里橋段": {
+        "id": "0208",
+        "name": "萬里橋段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "榮東段": {
+        "id": "0209",
+        "name": "榮東段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "榮花段": {
+        "id": "0210",
+        "name": "榮花段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "榮發段": {
+        "id": "0211",
+        "name": "榮發段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "榮開段": {
+        "id": "0228",
+        "name": "榮開段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "榮昌段": {
+        "id": "0229",
+        "name": "榮昌段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "綜開段": {
+        "id": "0278",
+        "name": "綜開段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳林段": {
+        "id": "0205",
+        "name": "鳳林段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳仁段": {
+        "id": "0225",
+        "name": "鳳仁段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳光段": {
+        "id": "0226",
+        "name": "鳳光段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳明段": {
+        "id": "0227",
+        "name": "鳳明段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳信段": {
+        "id": "0250",
+        "name": "鳳信段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳義段": {
+        "id": "0252",
+        "name": "鳳義段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳凰段": {
+        "id": "0253",
+        "name": "鳳凰段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "鳳榮段": {
+        "id": "0283",
+        "name": "鳳榮段",
+        "officeCode": "UB",
+        "townCode": "07"
+    },
+    "箭瑛段": {
+        "id": "0293",
+        "name": "箭瑛段",
+        "officeCode": "UB",
+        "townCode": "07"
+    }
+}

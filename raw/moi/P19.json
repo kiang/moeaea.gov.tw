@@ -1,0 +1,236 @@
+{
+    "下崙段": {
+        "id": "0646",
+        "name": "下崙段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "下湖口段": {
+        "id": "0651",
+        "name": "下湖口段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "口湖段": {
+        "id": "0645",
+        "name": "口湖段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "口工段": {
+        "id": "0724",
+        "name": "口工段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "水井段": {
+        "id": "0652",
+        "name": "水井段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "牛尿港段": {
+        "id": "0650",
+        "name": "牛尿港段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "北興段": {
+        "id": "0743",
+        "name": "北興段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "台興段": {
+        "id": "0812",
+        "name": "台興段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "外埔段": {
+        "id": "0647",
+        "name": "外埔段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "外傘頂段": {
+        "id": "0772",
+        "name": "外傘頂段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "安南段": {
+        "id": "0686",
+        "name": "安南段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "安北段": {
+        "id": "0687",
+        "name": "安北段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "成龍段": {
+        "id": "0813",
+        "name": "成龍段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "沙崙段": {
+        "id": "0713",
+        "name": "沙崙段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "拔拉段": {
+        "id": "0766",
+        "name": "拔拉段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "林投段": {
+        "id": "0737",
+        "name": "林投段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "金湖段": {
+        "id": "0801",
+        "name": "金湖段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "後厝段": {
+        "id": "0655",
+        "name": "後厝段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "埔北段": {
+        "id": "0711",
+        "name": "埔北段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "埔潭段": {
+        "id": "0712",
+        "name": "埔潭段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "崇文段": {
+        "id": "0656",
+        "name": "崇文段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "崙北段": {
+        "id": "0700",
+        "name": "崙北段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "崙港段": {
+        "id": "0759",
+        "name": "崙港段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "梧北段": {
+        "id": "0783",
+        "name": "梧北段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "蚵寮段": {
+        "id": "0649",
+        "name": "蚵寮段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "港北段": {
+        "id": "0796",
+        "name": "港北段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "湖口段": {
+        "id": "0811",
+        "name": "湖口段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "開元段": {
+        "id": "0692",
+        "name": "開元段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "順寮段": {
+        "id": "0699",
+        "name": "順寮段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "順天段": {
+        "id": "0800",
+        "name": "順天段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "新港段": {
+        "id": "0648",
+        "name": "新港段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "新湖段": {
+        "id": "0657",
+        "name": "新湖段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "新北興段": {
+        "id": "0795",
+        "name": "新北興段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "過港段": {
+        "id": "0807",
+        "name": "過港段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "謝厝寮段": {
+        "id": "0654",
+        "name": "謝厝寮段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "椬梧段": {
+        "id": "0653",
+        "name": "椬梧段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "椬北段": {
+        "id": "0732",
+        "name": "椬北段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "椬梧西段": {
+        "id": "0808",
+        "name": "椬梧西段",
+        "officeCode": "PE",
+        "townCode": "19"
+    },
+    "椬梧庄段": {
+        "id": "0809",
+        "name": "椬梧庄段",
+        "officeCode": "PE",
+        "townCode": "19"
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "下麻園段": {
+        "id": "0127",
+        "name": "下麻園段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "下崁腳段": {
+        "id": "0169",
+        "name": "下崁腳段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "大湖底段": {
+        "id": "0038",
+        "name": "大湖底段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "大湖口段": {
+        "id": "0152",
+        "name": "大湖口段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "中洲段": {
+        "id": "0170",
+        "name": "中洲段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "水碓段": {
+        "id": "0030",
+        "name": "水碓段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "水碓東段": {
+        "id": "0134",
+        "name": "水碓東段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "水碓西段": {
+        "id": "0135",
+        "name": "水碓西段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "水碓新段": {
+        "id": "0166",
+        "name": "水碓新段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "古坑段古坑小段": {
+        "id": "0026",
+        "name": "古坑段古坑小段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "古坑段湳子小段": {
+        "id": "0027",
+        "name": "古坑段湳子小段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "永昌段": {
+        "id": "0128",
+        "name": "永昌段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "永光段": {
+        "id": "0129",
+        "name": "永光段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "永興段": {
+        "id": "0130",
+        "name": "永興段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "田心段": {
+        "id": "0133",
+        "name": "田心段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "石坑段": {
+        "id": "0087",
+        "name": "石坑段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "尖山坑段": {
+        "id": "0101",
+        "name": "尖山坑段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "西華段": {
+        "id": "0029",
+        "name": "西華段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "東興段": {
+        "id": "0028",
+        "name": "東興段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "東和段": {
+        "id": "0058",
+        "name": "東和段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "東陽段": {
+        "id": "0059",
+        "name": "東陽段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "青山段": {
+        "id": "0064",
+        "name": "青山段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "南昌段": {
+        "id": "0153",
+        "name": "南昌段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "建德段": {
+        "id": "0107",
+        "name": "建德段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "苦苓腳段": {
+        "id": "0039",
+        "name": "苦苓腳段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "崁頭厝段": {
+        "id": "0035",
+        "name": "崁頭厝段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "崁腳段": {
+        "id": "0037",
+        "name": "崁腳段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "草嶺段": {
+        "id": "0041",
+        "name": "草嶺段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "高厝林子頭段": {
+        "id": "0031",
+        "name": "高厝林子頭段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "高林南段": {
+        "id": "0143",
+        "name": "高林南段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "高林北段": {
+        "id": "0144",
+        "name": "高林北段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "荷苞段": {
+        "id": "0145",
+        "name": "荷苞段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "頂新庄段": {
+        "id": "0172",
+        "name": "頂新庄段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "麻園段": {
+        "id": "0036",
+        "name": "麻園段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "麻園庄段": {
+        "id": "0126",
+        "name": "麻園庄段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "棋盤厝段": {
+        "id": "0034",
+        "name": "棋盤厝段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "棋盤段": {
+        "id": "0093",
+        "name": "棋盤段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "棋東段": {
+        "id": "0113",
+        "name": "棋東段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "棋山段": {
+        "id": "0164",
+        "name": "棋山段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "新庄段": {
+        "id": "0033",
+        "name": "新庄段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "新光段": {
+        "id": "0094",
+        "name": "新光段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "新園段": {
+        "id": "0163",
+        "name": "新園段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "新生段": {
+        "id": "0171",
+        "name": "新生段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "溪邊厝段": {
+        "id": "0032",
+        "name": "溪邊厝段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "樟湖段": {
+        "id": "0040",
+        "name": "樟湖段",
+        "officeCode": "PA",
+        "townCode": "07"
+    },
+    "湳子段": {
+        "id": "0162",
+        "name": "湳子段",
+        "officeCode": "PA",
+        "townCode": "07"
+    }
+}

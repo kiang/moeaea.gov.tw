@@ -1,0 +1,152 @@
+{
+    "八股段": {
+        "id": "0614",
+        "name": "八股段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "八櫃段": {
+        "id": "0638",
+        "name": "八櫃段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "十六份段": {
+        "id": "0642",
+        "name": "十六份段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "三叉段": {
+        "id": "0135",
+        "name": "三叉段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "上城段": {
+        "id": "0620",
+        "name": "上城段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "中心段": {
+        "id": "0612",
+        "name": "中心段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "五穀段": {
+        "id": "0611",
+        "name": "五穀段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "水美段": {
+        "id": "0615",
+        "name": "水美段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "西湖段": {
+        "id": "0636",
+        "name": "西湖段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "伯公坑段": {
+        "id": "0639",
+        "name": "伯公坑段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "育英段": {
+        "id": "0637",
+        "name": "育英段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "拐子湖段": {
+        "id": "0139",
+        "name": "拐子湖段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "重河段": {
+        "id": "0613",
+        "name": "重河段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "魚藤坪段": {
+        "id": "0140",
+        "name": "魚藤坪段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "新三叉段": {
+        "id": "0644",
+        "name": "新三叉段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "新雙湖段": {
+        "id": "0648",
+        "name": "新雙湖段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "聖王段": {
+        "id": "0618",
+        "name": "聖王段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "僑成段": {
+        "id": "0616",
+        "name": "僑成段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "龍騰段": {
+        "id": "0645",
+        "name": "龍騰段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "雙草湖段": {
+        "id": "0136",
+        "name": "雙草湖段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "雙連潭段": {
+        "id": "0137",
+        "name": "雙連潭段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "雙湖段": {
+        "id": "0610",
+        "name": "雙湖段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "雙潭段": {
+        "id": "0643",
+        "name": "雙潭段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "鯉魚潭段": {
+        "id": "0138",
+        "name": "鯉魚潭段",
+        "officeCode": "KE",
+        "townCode": "06"
+    },
+    "鯉魚段": {
+        "id": "0619",
+        "name": "鯉魚段",
+        "officeCode": "KE",
+        "townCode": "06"
+    }
+}

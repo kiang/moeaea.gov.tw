@@ -1,0 +1,308 @@
+{
+    "一甲段": {
+        "id": "2801",
+        "name": "一甲段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "三爺埤段": {
+        "id": "2811",
+        "name": "三爺埤段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "三爺段": {
+        "id": "2837",
+        "name": "三爺段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "三埤段": {
+        "id": "2852",
+        "name": "三埤段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "下坑段": {
+        "id": "2805",
+        "name": "下坑段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "下坑段一小段": {
+        "id": "2806",
+        "name": "下坑段一小段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "下社段": {
+        "id": "2807",
+        "name": "下社段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "下甲段": {
+        "id": "2848",
+        "name": "下甲段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "大社段": {
+        "id": "2809",
+        "name": "大社段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "大同段": {
+        "id": "2825",
+        "name": "大同段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "大仁段": {
+        "id": "2843",
+        "name": "大仁段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "中興段": {
+        "id": "2829",
+        "name": "中興段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "中華段": {
+        "id": "2833",
+        "name": "中華段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "文北段": {
+        "id": "2816",
+        "name": "文北段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "文南段": {
+        "id": "2817",
+        "name": "文南段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "北嶺墘段": {
+        "id": "2812",
+        "name": "北嶺墘段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "北嶺段": {
+        "id": "2835",
+        "name": "北嶺段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "立德段": {
+        "id": "2840",
+        "name": "立德段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "竹滬段": {
+        "id": "2815",
+        "name": "竹滬段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "竹西段": {
+        "id": "2818",
+        "name": "竹西段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "竹南段": {
+        "id": "2819",
+        "name": "竹南段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "竹東段": {
+        "id": "2828",
+        "name": "竹東段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "竹園段": {
+        "id": "2845",
+        "name": "竹園段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "忠孝段": {
+        "id": "2830",
+        "name": "忠孝段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "東安段": {
+        "id": "2842",
+        "name": "東安段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "社東段": {
+        "id": "2823",
+        "name": "社東段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "社中段": {
+        "id": "2826",
+        "name": "社中段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "金平段": {
+        "id": "2841",
+        "name": "金平段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "保安段": {
+        "id": "2820",
+        "name": "保安段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "後鄉段": {
+        "id": "2813",
+        "name": "後鄉段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "頂寮段": {
+        "id": "2847",
+        "name": "頂寮段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "復興段": {
+        "id": "2824",
+        "name": "復興段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "智仁段": {
+        "id": "2827",
+        "name": "智仁段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "華山段": {
+        "id": "2832",
+        "name": "華山段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "華正段": {
+        "id": "2834",
+        "name": "華正段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "順安段": {
+        "id": "2849",
+        "name": "順安段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "新園段": {
+        "id": "2802",
+        "name": "新園段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "新園段一小段": {
+        "id": "2803",
+        "name": "新園段一小段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "新園段二小段": {
+        "id": "2804",
+        "name": "新園段二小段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "新興段": {
+        "id": "2822",
+        "name": "新興段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "新達段": {
+        "id": "2836",
+        "name": "新達段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "聖母段": {
+        "id": "2831",
+        "name": "聖母段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "路竹段": {
+        "id": "2808",
+        "name": "路竹段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "路科段": {
+        "id": "2838",
+        "name": "路科段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "福善段": {
+        "id": "2846",
+        "name": "福善段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "樹人段": {
+        "id": "2851",
+        "name": "樹人段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "鴨母寮段": {
+        "id": "2810",
+        "name": "鴨母寮段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "營後段": {
+        "id": "2800",
+        "name": "營後段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "營前段": {
+        "id": "2850",
+        "name": "營前段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "環球段": {
+        "id": "2844",
+        "name": "環球段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    },
+    "觀音段": {
+        "id": "2839",
+        "name": "觀音段",
+        "officeCode": "EJ",
+        "townCode": "24"
+    }
+}

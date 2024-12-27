@@ -1,0 +1,248 @@
+{
+    "九曲堂段": {
+        "id": "1905",
+        "name": "九曲堂段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "九曲段": {
+        "id": "1913",
+        "name": "九曲段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "三和段": {
+        "id": "1936",
+        "name": "三和段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "土角厝段": {
+        "id": "1917",
+        "name": "土角厝段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "大樹段": {
+        "id": "1903",
+        "name": "大樹段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "大庄段": {
+        "id": "1915",
+        "name": "大庄段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "大樹保安段": {
+        "id": "1918",
+        "name": "大樹保安段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "大樹新吉段": {
+        "id": "1919",
+        "name": "大樹新吉段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "小坪頂段": {
+        "id": "1904",
+        "name": "小坪頂段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "小坪段": {
+        "id": "1933",
+        "name": "小坪段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "中興段": {
+        "id": "1908",
+        "name": "中興段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "水寮段": {
+        "id": "1920",
+        "name": "水寮段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "水安段": {
+        "id": "1923",
+        "name": "水安段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "水廠段": {
+        "id": "1928",
+        "name": "水廠段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "永豐段": {
+        "id": "1907",
+        "name": "永豐段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "田寮段": {
+        "id": "1938",
+        "name": "田寮段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "竹寮段": {
+        "id": "1922",
+        "name": "竹寮段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "佛光段": {
+        "id": "1939",
+        "name": "佛光段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "和山段": {
+        "id": "1935",
+        "name": "和山段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "坪頂段": {
+        "id": "1921",
+        "name": "坪頂段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "姑婆寮段": {
+        "id": "1901",
+        "name": "姑婆寮段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "姑山段": {
+        "id": "1932",
+        "name": "姑山段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "東隆段": {
+        "id": "1909",
+        "name": "東隆段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "洲仔段": {
+        "id": "1925",
+        "name": "洲仔段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "埔尾段": {
+        "id": "1916",
+        "name": "埔尾段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "曹公段": {
+        "id": "1911",
+        "name": "曹公段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "統嶺段": {
+        "id": "1934",
+        "name": "統嶺段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "湖底段": {
+        "id": "1910",
+        "name": "湖底段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "無水寮段": {
+        "id": "1906",
+        "name": "無水寮段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "新興段": {
+        "id": "1912",
+        "name": "新興段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "新溪埔段": {
+        "id": "1924",
+        "name": "新溪埔段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "新水安段": {
+        "id": "1930",
+        "name": "新水安段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "溪埔段": {
+        "id": "1900",
+        "name": "溪埔段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "福德段": {
+        "id": "1927",
+        "name": "福德段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "維新段": {
+        "id": "1914",
+        "name": "維新段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "學城段": {
+        "id": "1940",
+        "name": "學城段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "興田段": {
+        "id": "1926",
+        "name": "興田段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "興山段": {
+        "id": "1929",
+        "name": "興山段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "興和段": {
+        "id": "1937",
+        "name": "興和段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "龍目段": {
+        "id": "1931",
+        "name": "龍目段",
+        "officeCode": "EG",
+        "townCode": "15"
+    },
+    "檨子腳段": {
+        "id": "1902",
+        "name": "檨子腳段",
+        "officeCode": "EG",
+        "townCode": "15"
+    }
+}

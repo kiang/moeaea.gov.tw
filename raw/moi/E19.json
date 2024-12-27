@@ -1,0 +1,440 @@
+{
+    "三和段": {
+        "id": "2374",
+        "name": "三和段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "下竹圍段": {
+        "id": "2347",
+        "name": "下竹圍段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大寮段": {
+        "id": "2312",
+        "name": "大寮段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大勇段": {
+        "id": "2327",
+        "name": "大勇段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大紅段": {
+        "id": "2328",
+        "name": "大紅段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大紅段一小段": {
+        "id": "2329",
+        "name": "大紅段一小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大公段": {
+        "id": "2330",
+        "name": "大公段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大全段": {
+        "id": "2331",
+        "name": "大全段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大仁段": {
+        "id": "2333",
+        "name": "大仁段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大智段": {
+        "id": "2334",
+        "name": "大智段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大智段協和小段": {
+        "id": "2335",
+        "name": "大智段協和小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大德段": {
+        "id": "2360",
+        "name": "大德段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "大華段": {
+        "id": "2371",
+        "name": "大華段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "中山段": {
+        "id": "2361",
+        "name": "中山段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "五甲尾段": {
+        "id": "2319",
+        "name": "五甲尾段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "介壽段": {
+        "id": "2337",
+        "name": "介壽段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "友情段": {
+        "id": "2369",
+        "name": "友情段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "文化段": {
+        "id": "2332",
+        "name": "文化段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "文心段": {
+        "id": "2350",
+        "name": "文心段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "台上段": {
+        "id": "2309",
+        "name": "台上段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "台安段": {
+        "id": "2352",
+        "name": "台安段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "台富段": {
+        "id": "2366",
+        "name": "台富段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "本洲段": {
+        "id": "2323",
+        "name": "本洲段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "白米段": {
+        "id": "2305",
+        "name": "白米段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "白米段一小段": {
+        "id": "2306",
+        "name": "白米段一小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "石螺潭段": {
+        "id": "2325",
+        "name": "石螺潭段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "石螺段": {
+        "id": "2364",
+        "name": "石螺段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "成功段": {
+        "id": "2340",
+        "name": "成功段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "竹圍段": {
+        "id": "2341",
+        "name": "竹圍段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "協榮段": {
+        "id": "2336",
+        "name": "協榮段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "和平段": {
+        "id": "2368",
+        "name": "和平段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "岡山段": {
+        "id": "2300",
+        "name": "岡山段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "岡工段": {
+        "id": "2351",
+        "name": "岡工段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "岡科段": {
+        "id": "2359",
+        "name": "岡科段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "岡遼段": {
+        "id": "2378",
+        "name": "岡遼段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "忠誠段": {
+        "id": "2356",
+        "name": "忠誠段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "長榮段": {
+        "id": "2365",
+        "name": "長榮段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "信義段": {
+        "id": "2370",
+        "name": "信義段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "前峰段": {
+        "id": "2301",
+        "name": "前峰段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "前峰子段": {
+        "id": "2321",
+        "name": "前峰子段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "後協段": {
+        "id": "2303",
+        "name": "後協段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "後紅段": {
+        "id": "2310",
+        "name": "後紅段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "為隨段": {
+        "id": "2346",
+        "name": "為隨段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "軍校段": {
+        "id": "2362",
+        "name": "軍校段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "清水段": {
+        "id": "2367",
+        "name": "清水段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "富貴段": {
+        "id": "2342",
+        "name": "富貴段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "港口崙段": {
+        "id": "2324",
+        "name": "港口崙段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "程香段": {
+        "id": "2326",
+        "name": "程香段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "華崗段": {
+        "id": "2343",
+        "name": "華崗段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "華興段": {
+        "id": "2344",
+        "name": "華興段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "菜寮段": {
+        "id": "2375",
+        "name": "菜寮段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "街尾崙段": {
+        "id": "2307",
+        "name": "街尾崙段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "陽明段": {
+        "id": "2338",
+        "name": "陽明段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "新本洲段": {
+        "id": "2355",
+        "name": "新本洲段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "嘉興段": {
+        "id": "2345",
+        "name": "嘉興段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "嘉潭段": {
+        "id": "2348",
+        "name": "嘉潭段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "嘉旺段": {
+        "id": "2358",
+        "name": "嘉旺段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "嘉新段": {
+        "id": "2372",
+        "name": "嘉新段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "嘉華段": {
+        "id": "2373",
+        "name": "嘉華段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "嘉和段": {
+        "id": "2377",
+        "name": "嘉和段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "福潭段": {
+        "id": "2357",
+        "name": "福潭段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "劉厝段": {
+        "id": "2339",
+        "name": "劉厝段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "機場段": {
+        "id": "2363",
+        "name": "機場段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "寶米段": {
+        "id": "2376",
+        "name": "寶米段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "鹽埔段": {
+        "id": "2349",
+        "name": "鹽埔段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "灣子內段": {
+        "id": "2322",
+        "name": "灣子內段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "灣裡段": {
+        "id": "2353",
+        "name": "灣裡段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "灣裡西段": {
+        "id": "2354",
+        "name": "灣裡西段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "拕子段": {
+        "id": "2314",
+        "name": "拕子段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "拕子段一小段": {
+        "id": "2315",
+        "name": "拕子段一小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "拕子段二小段": {
+        "id": "2316",
+        "name": "拕子段二小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "拕子段三小段": {
+        "id": "2317",
+        "name": "拕子段三小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    },
+    "拕子段四小段": {
+        "id": "2318",
+        "name": "拕子段四小段",
+        "officeCode": "EF",
+        "townCode": "19"
+    }
+}

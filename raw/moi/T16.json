@@ -1,0 +1,254 @@
+{
+    "人和段": {
+        "id": "0408",
+        "name": "人和段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "三民段": {
+        "id": "0868",
+        "name": "三民段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "大響營段": {
+        "id": "0350",
+        "name": "大響營段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "大響營段一小段": {
+        "id": "0351",
+        "name": "大響營段一小段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "大響營段二小段": {
+        "id": "0352",
+        "name": "大響營段二小段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "大庄段": {
+        "id": "0355",
+        "name": "大庄段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "中山段": {
+        "id": "0397",
+        "name": "中山段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "中寮段": {
+        "id": "0402",
+        "name": "中寮段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "中華段": {
+        "id": "0409",
+        "name": "中華段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "內寮段": {
+        "id": "0357",
+        "name": "內寮段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "內寮村段": {
+        "id": "0866",
+        "name": "內寮村段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "天時段": {
+        "id": "0406",
+        "name": "天時段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "太源段": {
+        "id": "0864",
+        "name": "太源段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "水底寮段": {
+        "id": "0349",
+        "name": "水底寮段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "北旗尾段": {
+        "id": "0353",
+        "name": "北旗尾段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "北勢段": {
+        "id": "0401",
+        "name": "北勢段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "北玄段": {
+        "id": "0820",
+        "name": "北玄段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "玉泉段": {
+        "id": "0881",
+        "name": "玉泉段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "地利段": {
+        "id": "0407",
+        "name": "地利段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "枋寮段枋寮小段": {
+        "id": "0347",
+        "name": "枋寮段枋寮小段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "枋寮段北勢寮小段": {
+        "id": "0348",
+        "name": "枋寮段北勢寮小段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "枋農段": {
+        "id": "0883",
+        "name": "枋農段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "東海段": {
+        "id": "0389",
+        "name": "東海段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "沿海段": {
+        "id": "0410",
+        "name": "沿海段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "金榮段": {
+        "id": "0873",
+        "name": "金榮段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "保生段": {
+        "id": "0399",
+        "name": "保生段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "南山段": {
+        "id": "0819",
+        "name": "南山段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "屏南段": {
+        "id": "0390",
+        "name": "屏南段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "建興段": {
+        "id": "0394",
+        "name": "建興段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "飛地段": {
+        "id": "0870",
+        "name": "飛地段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "海鷗段": {
+        "id": "0857",
+        "name": "海鷗段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "高田段": {
+        "id": "0400",
+        "name": "高田段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "番子崙段": {
+        "id": "0354",
+        "name": "番子崙段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "隆山段": {
+        "id": "0398",
+        "name": "隆山段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "隆山北段": {
+        "id": "0869",
+        "name": "隆山北段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "隆安段": {
+        "id": "0872",
+        "name": "隆安段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "新開段": {
+        "id": "0356",
+        "name": "新開段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "新龍段": {
+        "id": "0395",
+        "name": "新龍段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "新地段": {
+        "id": "0862",
+        "name": "新地段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "新開村段": {
+        "id": "0867",
+        "name": "新開村段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "靶場段": {
+        "id": "0874",
+        "name": "靶場段",
+        "officeCode": "TF",
+        "townCode": "16"
+    },
+    "德興段": {
+        "id": "0396",
+        "name": "德興段",
+        "officeCode": "TF",
+        "townCode": "16"
+    }
+}

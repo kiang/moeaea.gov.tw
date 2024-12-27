@@ -1,0 +1,170 @@
+{
+    "水源段": {
+        "id": "1705",
+        "name": "水源段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "永興段": {
+        "id": "0153",
+        "name": "永興段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "竹葉林段": {
+        "id": "0197",
+        "name": "竹葉林段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "協華段": {
+        "id": "1701",
+        "name": "協華段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "昌榮段": {
+        "id": "1700",
+        "name": "昌榮段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "長治段": {
+        "id": "0086",
+        "name": "長治段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "長興段": {
+        "id": "0087",
+        "name": "長興段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "長興段一小段": {
+        "id": "0088",
+        "name": "長興段一小段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "長豐段": {
+        "id": "0151",
+        "name": "長豐段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "香潭段": {
+        "id": "0156",
+        "name": "香潭段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "崑崙段": {
+        "id": "0155",
+        "name": "崑崙段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "復興段": {
+        "id": "0198",
+        "name": "復興段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "番子寮段": {
+        "id": "0090",
+        "name": "番子寮段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "華榮段": {
+        "id": "0091",
+        "name": "華榮段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "華錦段": {
+        "id": "1708",
+        "name": "華錦段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "進興段": {
+        "id": "0157",
+        "name": "進興段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "新潭段": {
+        "id": "0152",
+        "name": "新潭段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "農科段": {
+        "id": "0177",
+        "name": "農科段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "榮興段": {
+        "id": "0168",
+        "name": "榮興段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "榮華段": {
+        "id": "0171",
+        "name": "榮華段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "德協段": {
+        "id": "0089",
+        "name": "德協段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "德華段": {
+        "id": "0195",
+        "name": "德華段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "德榮段": {
+        "id": "0196",
+        "name": "德榮段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "潭頭段": {
+        "id": "0154",
+        "name": "潭頭段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "興華段": {
+        "id": "1703",
+        "name": "興華段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "繁華段": {
+        "id": "1702",
+        "name": "繁華段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "繁昌段": {
+        "id": "1704",
+        "name": "繁昌段",
+        "officeCode": "TA",
+        "townCode": "06"
+    },
+    "繁興段": {
+        "id": "1707",
+        "name": "繁興段",
+        "officeCode": "TA",
+        "townCode": "06"
+    }
+}

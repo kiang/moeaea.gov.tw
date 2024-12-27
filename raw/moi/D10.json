@@ -1,0 +1,284 @@
+{
+    "三和段": {
+        "id": "2147",
+        "name": "三和段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "下中段下中小段": {
+        "id": "2033",
+        "name": "下中段下中小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "下中段牛稠子小段": {
+        "id": "2034",
+        "name": "下中段牛稠子小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "下林段": {
+        "id": "2059",
+        "name": "下林段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "大埔段": {
+        "id": "2060",
+        "name": "大埔段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "仁愛段": {
+        "id": "2078",
+        "name": "仁愛段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "仁光段": {
+        "id": "2134",
+        "name": "仁光段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "天保厝段": {
+        "id": "2023",
+        "name": "天保厝段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "月港段": {
+        "id": "2074",
+        "name": "月港段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "月津段": {
+        "id": "2075",
+        "name": "月津段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "水秀段": {
+        "id": "2067",
+        "name": "水秀段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "北竹子脚段菜公堂小段": {
+        "id": "2026",
+        "name": "北竹子脚段菜公堂小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "北竹子脚段上帝廟小段": {
+        "id": "2027",
+        "name": "北竹子脚段上帝廟小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "北門段": {
+        "id": "2068",
+        "name": "北門段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "田寮段": {
+        "id": "2020",
+        "name": "田寮段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "田都段": {
+        "id": "2154",
+        "name": "田都段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "田厝段": {
+        "id": "2155",
+        "name": "田厝段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "竹圍尾段": {
+        "id": "2053",
+        "name": "竹圍尾段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "竹子腳段": {
+        "id": "2135",
+        "name": "竹子腳段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "岸內段蔦松腳小段": {
+        "id": "2031",
+        "name": "岸內段蔦松腳小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "岸內段汫水港小段": {
+        "id": "2032",
+        "name": "岸內段汫水港小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "岸南段": {
+        "id": "2061",
+        "name": "岸南段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "忠義段": {
+        "id": "2062",
+        "name": "忠義段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "忠孝段": {
+        "id": "2156",
+        "name": "忠孝段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "武廟段": {
+        "id": "2071",
+        "name": "武廟段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "南竹子脚段": {
+        "id": "2022",
+        "name": "南竹子脚段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "南門段": {
+        "id": "2077",
+        "name": "南門段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "南港段": {
+        "id": "2130",
+        "name": "南港段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "後厝段": {
+        "id": "2076",
+        "name": "後厝段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "孫厝寮段孫厝寮小段": {
+        "id": "2037",
+        "name": "孫厝寮段孫厝寮小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "孫厝寮段番子寮小段": {
+        "id": "2038",
+        "name": "孫厝寮段番子寮小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "孫厝段": {
+        "id": "2140",
+        "name": "孫厝段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "朝琴段": {
+        "id": "2069",
+        "name": "朝琴段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "番子厝段": {
+        "id": "2019",
+        "name": "番子厝段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "飯店段": {
+        "id": "2021",
+        "name": "飯店段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "新岸段": {
+        "id": "2070",
+        "name": "新岸段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "新坔頭港段": {
+        "id": "2136",
+        "name": "新坔頭港段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "溪洲寮段頂溪洲寮小段": {
+        "id": "2028",
+        "name": "溪洲寮段頂溪洲寮小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "溪洲寮段下溪洲寮小段": {
+        "id": "2029",
+        "name": "溪洲寮段下溪洲寮小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "義稠段": {
+        "id": "2072",
+        "name": "義稠段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "義中段": {
+        "id": "2143",
+        "name": "義中段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "舊營段舊營小段": {
+        "id": "2035",
+        "name": "舊營段舊營小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "舊營段後寮小段": {
+        "id": "2036",
+        "name": "舊營段後寮小段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "歡雅段": {
+        "id": "2131",
+        "name": "歡雅段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "鹽水段": {
+        "id": "2017",
+        "name": "鹽水段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "汫水段": {
+        "id": "2138",
+        "name": "汫水段",
+        "officeCode": "DD",
+        "townCode": "10"
+    },
+    "坔頭港段": {
+        "id": "2024",
+        "name": "坔頭港段",
+        "officeCode": "DD",
+        "townCode": "10"
+    }
+}

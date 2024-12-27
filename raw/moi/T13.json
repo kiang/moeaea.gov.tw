@@ -1,0 +1,356 @@
+{
+    "八壽段": {
+        "id": "1547",
+        "name": "八壽段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "上龍泉段": {
+        "id": "0432",
+        "name": "上龍泉段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "上東勢段": {
+        "id": "1518",
+        "name": "上東勢段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "上黎明段": {
+        "id": "1562",
+        "name": "上黎明段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "大新段": {
+        "id": "0436",
+        "name": "大新段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "大興段": {
+        "id": "0461",
+        "name": "大興段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "大和段": {
+        "id": "1543",
+        "name": "大和段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "山水段": {
+        "id": "1555",
+        "name": "山水段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "中勝段": {
+        "id": "0435",
+        "name": "中勝段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "中林段": {
+        "id": "0437",
+        "name": "中林段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "內埔段": {
+        "id": "0317",
+        "name": "內埔段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "內田段": {
+        "id": "0430",
+        "name": "內田段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "文化段": {
+        "id": "0417",
+        "name": "文化段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "水門風景段": {
+        "id": "0466",
+        "name": "水門風景段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "北寧段": {
+        "id": "0427",
+        "name": "北寧段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "光明段": {
+        "id": "0418",
+        "name": "光明段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "圳頭段": {
+        "id": "0460",
+        "name": "圳頭段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "早角段": {
+        "id": "0425",
+        "name": "早角段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "竹圍段": {
+        "id": "1546",
+        "name": "竹圍段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "竹山段": {
+        "id": "1554",
+        "name": "竹山段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "老東勢段": {
+        "id": "0319",
+        "name": "老東勢段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "老埤段": {
+        "id": "0322",
+        "name": "老埤段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "佳山段": {
+        "id": "0465",
+        "name": "佳山段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "和興段": {
+        "id": "0421",
+        "name": "和興段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "忠心崙段": {
+        "id": "0318",
+        "name": "忠心崙段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "東寧段": {
+        "id": "0429",
+        "name": "東寧段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "東勢段": {
+        "id": "1542",
+        "name": "東勢段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "東片段": {
+        "id": "1550",
+        "name": "東片段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "南寧段": {
+        "id": "0428",
+        "name": "南寧段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "建興段": {
+        "id": "0462",
+        "name": "建興段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "昭勝段": {
+        "id": "0434",
+        "name": "昭勝段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "科大段": {
+        "id": "1549",
+        "name": "科大段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "美和段": {
+        "id": "0328",
+        "name": "美和段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "振豐段": {
+        "id": "0464",
+        "name": "振豐段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "富田段": {
+        "id": "0422",
+        "name": "富田段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "復興段": {
+        "id": "0431",
+        "name": "復興段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "番子厝段": {
+        "id": "0325",
+        "name": "番子厝段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "新東勢段": {
+        "id": "0320",
+        "name": "新東勢段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "新北勢段": {
+        "id": "0321",
+        "name": "新北勢段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "新埔段": {
+        "id": "0327",
+        "name": "新埔段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "新豐段": {
+        "id": "0388",
+        "name": "新豐段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "新隘寮段": {
+        "id": "1552",
+        "name": "新隘寮段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "新展段": {
+        "id": "1553",
+        "name": "新展段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "溝底段": {
+        "id": "1545",
+        "name": "溝底段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "農場段": {
+        "id": "1544",
+        "name": "農場段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "隘寮段": {
+        "id": "0324",
+        "name": "隘寮段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "壽比段": {
+        "id": "0415",
+        "name": "壽比段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "廣濟段": {
+        "id": "0419",
+        "name": "廣濟段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "黎東段": {
+        "id": "1559",
+        "name": "黎東段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "黎明段": {
+        "id": "1560",
+        "name": "黎明段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "黎新段": {
+        "id": "1561",
+        "name": "黎新段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "學人段": {
+        "id": "0420",
+        "name": "學人段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "興義段": {
+        "id": "0416",
+        "name": "興義段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "龍泉段": {
+        "id": "0326",
+        "name": "龍泉段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "龍頸段": {
+        "id": "0426",
+        "name": "龍頸段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "龍潭段": {
+        "id": "0433",
+        "name": "龍潭段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "鴻德段": {
+        "id": "0438",
+        "name": "鴻德段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "豐田段": {
+        "id": "0463",
+        "name": "豐田段",
+        "officeCode": "TC",
+        "townCode": "13"
+    },
+    "犂頭鏢段": {
+        "id": "0323",
+        "name": "犂頭鏢段",
+        "officeCode": "TC",
+        "townCode": "13"
+    }
+}

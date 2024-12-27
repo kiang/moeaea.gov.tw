@@ -1,0 +1,350 @@
+{
+    "七塊厝段": {
+        "id": "3011",
+        "name": "七塊厝段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "七星段": {
+        "id": "3055",
+        "name": "七星段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "十三張段": {
+        "id": "3036",
+        "name": "十三張段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "口庄段": {
+        "id": "3040",
+        "name": "口庄段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "中和段": {
+        "id": "3004",
+        "name": "中和段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "中社段": {
+        "id": "3012",
+        "name": "中社段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "中和東段": {
+        "id": "3033",
+        "name": "中和東段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "中和西段": {
+        "id": "3034",
+        "name": "中和西段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "中科北段": {
+        "id": "3047",
+        "name": "中科北段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "中科南段": {
+        "id": "3048",
+        "name": "中科南段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "公館段": {
+        "id": "3013",
+        "name": "公館段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "公安段": {
+        "id": "3025",
+        "name": "公安段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "屯子腳段": {
+        "id": "3003",
+        "name": "屯子腳段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "文明段": {
+        "id": "3023",
+        "name": "文明段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "文德段": {
+        "id": "3024",
+        "name": "文德段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "文化段": {
+        "id": "3028",
+        "name": "文化段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "月眉段": {
+        "id": "3008",
+        "name": "月眉段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "月眉段月眉小段": {
+        "id": "3009",
+        "name": "月眉段月眉小段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "牛稠坑段七星小段": {
+        "id": "3002",
+        "name": "牛稠坑段七星小段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "牛稠坑段": {
+        "id": "3010",
+        "name": "牛稠坑段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "牛稠新段": {
+        "id": "3054",
+        "name": "牛稠新段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "四塊厝段": {
+        "id": "3007",
+        "name": "四塊厝段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "四德段": {
+        "id": "3037",
+        "name": "四德段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "四塊庄段": {
+        "id": "3038",
+        "name": "四塊庄段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "四月段": {
+        "id": "3039",
+        "name": "四月段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "平安段": {
+        "id": "3029",
+        "name": "平安段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "民富段": {
+        "id": "3027",
+        "name": "民富段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后里段": {
+        "id": "3000",
+        "name": "后里段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后里段后里小段": {
+        "id": "3001",
+        "name": "后里段后里小段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后義段": {
+        "id": "3018",
+        "name": "后義段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后豐段": {
+        "id": "3020",
+        "name": "后豐段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后興段": {
+        "id": "3021",
+        "name": "后興段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后寶段": {
+        "id": "3041",
+        "name": "后寶段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后樟段": {
+        "id": "3042",
+        "name": "后樟段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后安段": {
+        "id": "3043",
+        "name": "后安段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后科段": {
+        "id": "3044",
+        "name": "后科段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "后森段": {
+        "id": "3053",
+        "name": "后森段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "圳寮段": {
+        "id": "3006",
+        "name": "圳寮段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "里城段": {
+        "id": "3015",
+        "name": "里城段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "枋寮段": {
+        "id": "3052",
+        "name": "枋寮段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "金城段": {
+        "id": "3016",
+        "name": "金城段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "金社庄段": {
+        "id": "3051",
+        "name": "金社庄段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "泉州段": {
+        "id": "3019",
+        "name": "泉州段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "眉山東段": {
+        "id": "3045",
+        "name": "眉山東段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "眉山西段": {
+        "id": "3046",
+        "name": "眉山西段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "泰安段": {
+        "id": "3050",
+        "name": "泰安段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "新店段": {
+        "id": "3014",
+        "name": "新店段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "新公館段": {
+        "id": "3031",
+        "name": "新公館段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "新中社段": {
+        "id": "3049",
+        "name": "新中社段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "新店東段": {
+        "id": "3056",
+        "name": "新店東段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "新店西段": {
+        "id": "3057",
+        "name": "新店西段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "義里段": {
+        "id": "3017",
+        "name": "義里段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "墩北段": {
+        "id": "3026",
+        "name": "墩北段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "墩南段": {
+        "id": "3030",
+        "name": "墩南段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "廣興段": {
+        "id": "3022",
+        "name": "廣興段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "舊社段": {
+        "id": "3005",
+        "name": "舊社段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "舊圳段": {
+        "id": "3032",
+        "name": "舊圳段",
+        "officeCode": "BD",
+        "townCode": "15"
+    },
+    "舊社新段": {
+        "id": "3035",
+        "name": "舊社新段",
+        "officeCode": "BD",
+        "townCode": "15"
+    }
+}
