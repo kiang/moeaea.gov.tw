@@ -514,6 +514,13 @@ while ($row = fgetcsv($fh)) {
     if (false !== strpos($data['地號'], "\n")) {
         $data['地號'] = trim(substr($data['地號'], 0, strpos($data['地號'], "\n")));
     }
+    $cityCode = array_search($data['縣市'], $cities);
+    $townCode = array_search($data['鄉鎮區'], $towns[$cityCode]);
+    $data['地段'] = Normalizer::normalize($data['地段'], Normalizer::FORM_C);
+    $mappingKey = $townCode . $data['地段'];
+    if (isset($sectionMappings[$mappingKey])) {
+        $data['地段'] = $sectionMappings[$mappingKey];
+    }
 
     $cityPath = $baseDir . '/twland/' . $data['縣市'];
     if (!file_exists($cityPath)) {
@@ -534,14 +541,6 @@ while ($row = fgetcsv($fh)) {
         }
         $features[$data['縣市']][] = $feature;
     } else {
-        $cityCode = array_search($data['縣市'], $cities);
-        if (false === $cityCode) {
-            die("{$data['縣市']} city not found\n");
-        }
-        $townCode = array_search($data['鄉鎮區'], $towns[$cityCode]);
-        if (false === $townCode) {
-            die("{$data['縣市']}{$data['鄉鎮區']} town not found\n");
-        }
         $moiFile = dirname(__DIR__) . '/raw/moi/' . $townCode . '.json';
         if (!file_exists($moiFile)) {
             $moiJson = [];
@@ -554,11 +553,7 @@ while ($row = fgetcsv($fh)) {
         if (!isset($sections[$townCode])) {
             $sections[$townCode] = json_decode(file_get_contents($moiFile), true);
         }
-        $data['地段'] = Normalizer::normalize($data['地段'], Normalizer::FORM_C);
-        $mappingKey = $townCode . $data['地段'];
-        if (isset($sectionMappings[$mappingKey])) {
-            $data['地段'] = $sectionMappings[$mappingKey];
-        }
+        
         if (!isset($sections[$townCode][$data['地段']])) {
             echo $townCode . $data['地段'];
             print_r($data);
