@@ -1,4 +1,9 @@
 <?php
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\BrowserKit\HttpBrowser;
+use Symfony\Component\HttpClient\HttpClient;
+
 $baseDir = dirname(__DIR__) . '/processed';
 
 $fh = fopen($baseDir . '/solar/combined_solar.csv', 'r');
@@ -490,6 +495,7 @@ if (file_exists($pointsCsvFile)) {
     }
     fclose($pFh);
 }
+$browser = new HttpBrowser(HttpClient::create());
 $oFh = fopen($pointsCsvFile, 'w');
 $firstLine = false;
 while ($row = fgetcsv($fh)) {
@@ -549,6 +555,7 @@ while ($row = fgetcsv($fh)) {
         file_put_contents($geojsonFile, file_get_contents('https://twland.ronny.tw/index/search?lands[]=' . urlencode($landNo . '號')));
     }
 
+
     $json = json_decode(file_get_contents($geojsonFile), true);
     $pointKey = $data['縣市'] . $data['鄉鎮區'] . $data['地段'] . $data['地號'];
     if (!empty($json['features'])) {
@@ -579,15 +586,22 @@ while ($row = fgetcsv($fh)) {
         }
         $section = $sections[$townCode][$data['地段']];
 
-        $tokenPage = file_get_contents('https://easymap.land.moi.gov.tw/Z10Web/layout/setToken.jsp');
+        $browser->request('GET', 'https://easymap.land.moi.gov.tw/Z10Web/layout/setToken.jsp');
+        $tokenPage = $browser->getResponse()->getContent();
         $tokenParts = explode('"', $tokenPage);
-        $result = file_get_contents("https://easymap.land.moi.gov.tw/Z10Web/Land_json_locate?sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}123123&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}");
+
+        $browser->request('GET', "https://easymap.land.moi.gov.tw/Z10Web/Land_json_locate?sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}123123&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}");
+        $result = $browser->getResponse()->getContent();
 
         while (false !== strpos($result, '系統檢測您的連線不正常')) {
+            echo $result;
             sleep(3); //被阻擋，所以暫停3秒
-            $tokenPage = file_get_contents('https://easymap.land.moi.gov.tw/Z10Web/layout/setToken.jsp');
+            $browser->request('GET', 'https://easymap.land.moi.gov.tw/Z10Web/layout/setToken.jsp');
+            $tokenPage = $browser->getResponse()->getContent();
             $tokenParts = explode('"', $tokenPage);
-            $result = file_get_contents("https://easymap.land.moi.gov.tw/Z10Web/Land_json_locate?sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}123123&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}");
+
+            $browser->request('GET', "https://easymap.land.moi.gov.tw/Z10Web/Land_json_locate?sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}123123&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}");
+            $result = $browser->getResponse()->getContent();
         }
 
         if (false === strpos($result, '地號查詢無資料')) {

@@ -1,5 +1,7 @@
 {
     "require": {
-        "phpoffice/phpspreadsheet": "^3.6"
+        "phpoffice/phpspreadsheet": "^3.6",
+        "symfony/browser-kit": "^7.2",
+        "symfony/http-client": "^7.2"
     }
 }
