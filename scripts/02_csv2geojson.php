@@ -579,7 +579,7 @@ while ($row = fgetcsv($fh)) {
     } elseif (isset($pointsPool[$pointKey])) {
         $data['Longitude'] = $pointsPool[$pointKey]['Longitude'];
         $data['Latitude'] = $pointsPool[$pointKey]['Latitude'];
-    } elseif ($count < $lineCount) {
+    } elseif ($count > $lineCount) {
         $moiFile = dirname(__DIR__) . '/raw/moi/' . $townCode . '.json';
         if (!file_exists($moiFile)) {
             $moiJson = [];
