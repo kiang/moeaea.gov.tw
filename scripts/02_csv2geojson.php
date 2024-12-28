@@ -553,7 +553,7 @@ while ($row = fgetcsv($fh)) {
         $data['地段'] = $sectionMappings[$mappingKey];
     }
 
-    $cityPath = $baseDir . '/twland/' . $data['縣市'];
+    $cityPath = dirname(__DIR__) . '/raw/twland/' . $data['縣市'];
     if (!file_exists($cityPath)) {
         mkdir($cityPath, 0777, true);
     }
