@@ -489,8 +489,8 @@ if (file_exists($pointsCsvFile)) {
         $data = array_combine($pHeaders, $row);
         $pointKey = $data['縣市'] . $data['鄉鎮區'] . $data['地段'] . $data['地號'];
         $pointsPool[$pointKey] = [
-            'Latitude' => $data['Latitude'],
             'Longitude' => $data['Longitude'],
+            'Latitude' => $data['Latitude'],
         ];
     }
     fclose($pFh);
@@ -569,8 +569,8 @@ while ($row = fgetcsv($fh)) {
         $data['Longitude'] = $p['xcenter'];
         $data['Latitude'] = $p['ycenter'];
     } elseif (isset($pointsPool[$pointKey])) {
-        $data['Latitude'] = $pointsPool[$pointKey]['Latitude'];
         $data['Longitude'] = $pointsPool[$pointKey]['Longitude'];
+        $data['Latitude'] = $pointsPool[$pointKey]['Latitude'];
     } else {
         $moiFile = dirname(__DIR__) . '/raw/moi/' . $townCode . '.json';
         if (!file_exists($moiFile)) {
