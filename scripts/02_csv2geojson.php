@@ -6,6 +6,12 @@ use Symfony\Component\HttpClient\HttpClient;
 
 $baseDir = dirname(__DIR__) . '/processed';
 
+$lineCountFile = $baseDir . '/lineCount';
+if (file_exists($lineCountFile)) {
+    $lineCount = intval(file_get_contents($lineCountFile));
+} else {
+    $lineCount = 0;
+}
 $fh = fopen($baseDir . '/solar/combined_solar.csv', 'r');
 $headers = fgetcsv($fh);
 $baseDays = strtotime('2023-11-14');
@@ -498,7 +504,9 @@ if (file_exists($pointsCsvFile)) {
 $browser = new HttpBrowser(HttpClient::create());
 $oFh = fopen($pointsCsvFile, 'w');
 $firstLine = false;
+$count = 1;
 while ($row = fgetcsv($fh)) {
+    ++$count;
     $data = array_combine($headers, $row);
     if (false === strpos($data['施工取得日期'], '/')) {
         // 45266 = 2023/12/6
@@ -571,7 +579,7 @@ while ($row = fgetcsv($fh)) {
     } elseif (isset($pointsPool[$pointKey])) {
         $data['Longitude'] = $pointsPool[$pointKey]['Longitude'];
         $data['Latitude'] = $pointsPool[$pointKey]['Latitude'];
-    } else {
+    } elseif ($count < $lineCount) {
         $moiFile = dirname(__DIR__) . '/raw/moi/' . $townCode . '.json';
         if (!file_exists($moiFile)) {
             $moiJson = [];
@@ -651,6 +659,10 @@ while ($row = fgetcsv($fh)) {
             $firstLine = true;
         }
         fputcsv($oFh, $data);
+    }
+
+    if ($count > $lineCount) {
+        file_put_contents($lineCountFile, $count);
     }
 }
 
