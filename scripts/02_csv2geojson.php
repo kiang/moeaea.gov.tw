@@ -519,6 +519,7 @@ while ($row = fgetcsv($fh)) {
     } else {
         $parts = explode('/', $data['施工取得日期']);
         $parts[0] = intval($parts[0]) + 1911;
+        $parts[2] = substr($parts[2], 0, 2);
         $theTime = strtotime("{$parts[0]}-{$parts[1]}-{$parts[2]}");
         $data['施工取得日期'] = date('Y-m-d', $theTime);
     }
