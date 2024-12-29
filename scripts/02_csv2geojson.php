@@ -488,19 +488,13 @@ $townSectionMapping = [
     '桃園區華亞段' => '龜山區',
 ];
 $pointsCsvFile = $baseDir . '/solar_points.csv';
+$pointsPoolFh = fopen(dirname(__DIR__) . '/raw/points_pool.csv', 'r');
 $pointsPool = [];
-if (file_exists($pointsCsvFile)) {
-    $pFh = fopen($pointsCsvFile, 'r');
-    $pHeaders = fgetcsv($pFh);
-    while ($row = fgetcsv($pFh)) {
-        $data = array_combine($pHeaders, $row);
-        $pointKey = $data['縣市'] . $data['鄉鎮區'] . $data['地段'] . $data['地號'];
-        $pointsPool[$pointKey] = [
-            'Longitude' => $data['Longitude'],
-            'Latitude' => $data['Latitude'],
-        ];
-    }
-    fclose($pFh);
+while ($row = fgetcsv($pointsPoolFh)) {
+    $pointsPool[$row[0]] = [
+        'Longitude' => $row[1],
+        'Latitude' => $row[2],
+    ];
 }
 $browser = new HttpBrowser(HttpClient::create());
 $oFh = fopen($pointsCsvFile, 'w');
@@ -523,7 +517,7 @@ while ($row = fgetcsv($fh)) {
         $theTime = strtotime("{$parts[0]}-{$parts[1]}-{$parts[2]}");
         $data['施工取得日期'] = date('Y-m-d', $theTime);
     }
-    
+
     $landPos = strrpos($data['土地面積'], '.');
     if (false !== $landPos) {
         $data['土地面積'] = preg_replace('/[^0-9]+/', '', substr($data['土地面積'], 0, $landPos));
@@ -622,39 +616,24 @@ while ($row = fgetcsv($fh)) {
   -H 'sec-ch-ua-platform: \"Linux\"' \
   --data-raw 'sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}'");
 
-        // $browser->request('GET', "https://easymap.land.moi.gov.tw/Z10Web/Land_json_locate?sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}");
-        // $result = $browser->getResponse()->getContent();
-
         while (false !== strpos($result, '系統檢測您的連線不正常')) {
             echo $result;
-            sleep(3); //被阻擋，所以暫停3秒
-            $browser->request('GET', 'https://easymap.land.moi.gov.tw/Z10Web/layout/setToken.jsp');
-            $tokenPage = $browser->getResponse()->getContent();
-            $tokenParts = explode('"', $tokenPage);
-            $result = exec("curl 'https://easymap.land.moi.gov.tw/W10Web/Land_json_locate' \
-            -H 'Accept: application/json, text/javascript, */*; q=0.01' \
-            -H 'Accept-Language: zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7' \
-            -H 'Cache-Control: no-cache' \
-            -H 'Connection: keep-alive' \
-            -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' \
-            -H 'Origin: https://easymap.land.moi.gov.tw' \
-            -H 'Pragma: no-cache' \
-            -H 'Referer: https://easymap.land.moi.gov.tw/W10Web/Normal' \
-            -H 'Sec-Fetch-Dest: empty' \
-            -H 'Sec-Fetch-Mode: cors' \
-            -H 'Sec-Fetch-Site: same-origin' \
-            -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
-            -H 'X-Requested-With: XMLHttpRequest' \
-            -H 'sec-ch-ua: \"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"' \
-            -H 'sec-ch-ua-mobile: ?0' \
-            -H 'sec-ch-ua-platform: \"Linux\"' \
-            --data-raw 'sectNo={$section['id']}&office={$section['officeCode']}&landNo={$data['地號']}&struts.token.name={$tokenParts[9]}&token={$tokenParts[11]}'");
+            fputcsv($missingFh, [$townCode, $data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
+            continue;
         }
 
         if (false === strpos($result, '地號查詢無資料')) {
             $json = json_decode($result, true);
             $data['Longitude'] = $json['X'];
             $data['Latitude'] = $json['Y'];
+            $pointsPool[$pointKey] = [
+                'Longitude' => $data['Longitude'],
+                'Latitude' => $data['Latitude'],
+            ];
+
+            $pointsPoolFh = fopen(dirname(__DIR__) . '/raw/points_pool.csv', 'a');
+            fputcsv($pointsPoolFh, [$pointKey, $data['Longitude'], $data['Latitude']]);
+            fclose($pointsPoolFh);
         } else {
             fputcsv($missingFh, [$townCode, $data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
         }
