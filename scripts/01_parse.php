@@ -33,7 +33,7 @@ $headers = [
 ];
 
 // Define which columns should carry forward their values
-$mergedColumns = ['申請年度', '項次', '業者名稱', '電廠名稱', '施工取得日期', '土地面積', '裝置容量'];
+$mergedColumns = ['申請年度', '項次', '業者名稱', '電廠名稱', '施工取得日期', '土地面積', '裝置容量', '縣市', '鄉鎮區', '地段'];
 
 foreach ($odsFiles as $odsFile) {
     $basename = basename($odsFile, '.ods');
