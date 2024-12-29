@@ -1,0 +1,452 @@
+{
+    "上岩灣段": {
+        "id": "0605",
+        "name": "上岩灣段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "大業段": {
+        "id": "0041",
+        "name": "大業段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "大豐段": {
+        "id": "0097",
+        "name": "大豐段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "中正段": {
+        "id": "0026",
+        "name": "中正段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "中心段": {
+        "id": "0027",
+        "name": "中心段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "中山段": {
+        "id": "0028",
+        "name": "中山段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "中清段": {
+        "id": "0050",
+        "name": "中清段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "北南王段": {
+        "id": "0600",
+        "name": "北南王段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "北石壁段": {
+        "id": "0608",
+        "name": "北石壁段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "台東段": {
+        "id": "0001",
+        "name": "台東段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "永樂段": {
+        "id": "0030",
+        "name": "永樂段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "永清段": {
+        "id": "0049",
+        "name": "永清段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "永豐段": {
+        "id": "0063",
+        "name": "永豐段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "永和段": {
+        "id": "0603",
+        "name": "永和段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "石山段": {
+        "id": "0007",
+        "name": "石山段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "石壁段": {
+        "id": "0606",
+        "name": "石壁段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "石川段": {
+        "id": "0633",
+        "name": "石川段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "光明段": {
+        "id": "0031",
+        "name": "光明段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "合江段": {
+        "id": "0623",
+        "name": "合江段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "旭川段": {
+        "id": "0602",
+        "name": "旭川段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "自強段": {
+        "id": "0032",
+        "name": "自強段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "卑南段": {
+        "id": "0005",
+        "name": "卑南段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "岩灣段": {
+        "id": "0047",
+        "name": "岩灣段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "東農段": {
+        "id": "0040",
+        "name": "東農段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "東海段": {
+        "id": "0044",
+        "name": "東海段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "東谷段": {
+        "id": "0045",
+        "name": "東谷段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "知本段": {
+        "id": "0006",
+        "name": "知本段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "青林段": {
+        "id": "0089",
+        "name": "青林段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "南清段": {
+        "id": "0048",
+        "name": "南清段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "南王段": {
+        "id": "0069",
+        "name": "南王段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "南榮段": {
+        "id": "0604",
+        "name": "南榮段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建國段": {
+        "id": "0036",
+        "name": "建國段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建業段": {
+        "id": "0037",
+        "name": "建業段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建興段": {
+        "id": "0038",
+        "name": "建興段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建成段": {
+        "id": "0046",
+        "name": "建成段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建和段": {
+        "id": "0088",
+        "name": "建和段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建華段": {
+        "id": "0090",
+        "name": "建華段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建本段": {
+        "id": "0091",
+        "name": "建本段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建康段": {
+        "id": "0092",
+        "name": "建康段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "建農段": {
+        "id": "0643",
+        "name": "建農段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "射馬干段": {
+        "id": "0087",
+        "name": "射馬干段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "馬蘭段": {
+        "id": "0002",
+        "name": "馬蘭段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "常德段": {
+        "id": "0042",
+        "name": "常德段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "康樂段": {
+        "id": "0039",
+        "name": "康樂段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "梧州段": {
+        "id": "0043",
+        "name": "梧州段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "清榮段": {
+        "id": "0644",
+        "name": "清榮段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "富岡段": {
+        "id": "0621",
+        "name": "富岡段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "富岡南段": {
+        "id": "0622",
+        "name": "富岡南段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "普優瑪段": {
+        "id": "0070",
+        "name": "普優瑪段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "湧泉段": {
+        "id": "0642",
+        "name": "湧泉段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "順天段": {
+        "id": "0061",
+        "name": "順天段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "新生段": {
+        "id": "0029",
+        "name": "新生段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "新園段": {
+        "id": "0033",
+        "name": "新園段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "新田段": {
+        "id": "0625",
+        "name": "新田段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "路頂段": {
+        "id": "0632",
+        "name": "路頂段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "德安段": {
+        "id": "0066",
+        "name": "德安段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "興安段": {
+        "id": "0093",
+        "name": "興安段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "興航段": {
+        "id": "0630",
+        "name": "興航段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐樂段": {
+        "id": "0003",
+        "name": "豐樂段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐田段": {
+        "id": "0004",
+        "name": "豐田段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐榮段": {
+        "id": "0034",
+        "name": "豐榮段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐谷段": {
+        "id": "0035",
+        "name": "豐谷段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐年段": {
+        "id": "0051",
+        "name": "豐年段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐富段": {
+        "id": "0052",
+        "name": "豐富段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐航段": {
+        "id": "0062",
+        "name": "豐航段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐利段": {
+        "id": "0064",
+        "name": "豐利段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐聖段": {
+        "id": "0065",
+        "name": "豐聖段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐康段": {
+        "id": "0067",
+        "name": "豐康段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐橋段": {
+        "id": "0068",
+        "name": "豐橋段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐工段": {
+        "id": "0073",
+        "name": "豐工段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐成段": {
+        "id": "0094",
+        "name": "豐成段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐里段": {
+        "id": "0095",
+        "name": "豐里段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐源段": {
+        "id": "0096",
+        "name": "豐源段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐嘉段": {
+        "id": "0601",
+        "name": "豐嘉段",
+        "officeCode": "VA",
+        "townCode": "01"
+    },
+    "豐川段": {
+        "id": "0607",
+        "name": "豐川段",
+        "officeCode": "VA",
+        "townCode": "01"
+    }
+}

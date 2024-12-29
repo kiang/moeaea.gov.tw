@@ -1,0 +1,206 @@
+{
+    "九甲圍段": {
+        "id": "2410",
+        "name": "九甲圍段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "三仙段": {
+        "id": "2429",
+        "name": "三仙段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "中崎段": {
+        "id": "2400",
+        "name": "中崎段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "中峰段": {
+        "id": "2433",
+        "name": "中峰段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "五里林段": {
+        "id": "2413",
+        "name": "五里林段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "內庄段": {
+        "id": "2434",
+        "name": "內庄段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "仕隆段": {
+        "id": "2407",
+        "name": "仕隆段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "仕隆段一小段": {
+        "id": "2408",
+        "name": "仕隆段一小段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "仕隆段二小段": {
+        "id": "2409",
+        "name": "仕隆段二小段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "仕豐段": {
+        "id": "2415",
+        "name": "仕豐段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "仕興段": {
+        "id": "2416",
+        "name": "仕興段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "仕和段": {
+        "id": "2423",
+        "name": "仕和段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "甲圍段": {
+        "id": "2431",
+        "name": "甲圍段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "白樹子段": {
+        "id": "2414",
+        "name": "白樹子段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "芋林段": {
+        "id": "2427",
+        "name": "芋林段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "林子頭段": {
+        "id": "2402",
+        "name": "林子頭段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "建樹段": {
+        "id": "2421",
+        "name": "建樹段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "後壁田段": {
+        "id": "2426",
+        "name": "後壁田段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "頂塩田段": {
+        "id": "2411",
+        "name": "頂塩田段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "頂塩田段一小段": {
+        "id": "2412",
+        "name": "頂塩田段一小段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "筆秀段": {
+        "id": "2419",
+        "name": "筆秀段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "新莊段": {
+        "id": "2432",
+        "name": "新莊段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "德松段": {
+        "id": "2420",
+        "name": "德松段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "樹德段": {
+        "id": "2425",
+        "name": "樹德段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "樹林段": {
+        "id": "2428",
+        "name": "樹林段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋子頭段": {
+        "id": "2404",
+        "name": "橋子頭段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋子頭段一小段": {
+        "id": "2405",
+        "name": "橋子頭段一小段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋子頭段二小段": {
+        "id": "2406",
+        "name": "橋子頭段二小段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋南段": {
+        "id": "2417",
+        "name": "橋南段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋北段": {
+        "id": "2418",
+        "name": "橋北段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋中段": {
+        "id": "2424",
+        "name": "橋中段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "橋科段": {
+        "id": "2435",
+        "name": "橋科段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "興樹段": {
+        "id": "2422",
+        "name": "興樹段",
+        "officeCode": "EF",
+        "townCode": "20"
+    },
+    "鹽塭段": {
+        "id": "2430",
+        "name": "鹽塭段",
+        "officeCode": "EF",
+        "townCode": "20"
+    }
+}

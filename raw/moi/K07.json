@@ -1,0 +1,92 @@
+{
+    "二湖段": {
+        "id": "0142",
+        "name": "二湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "三湖段": {
+        "id": "0143",
+        "name": "三湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "五湖段": {
+        "id": "0145",
+        "name": "五湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "四湖段": {
+        "id": "0144",
+        "name": "四湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "石頭灣段": {
+        "id": "0651",
+        "name": "石頭灣段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "高埔段": {
+        "id": "0146",
+        "name": "高埔段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "湖東段": {
+        "id": "0617",
+        "name": "湖東段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "新二湖段": {
+        "id": "0632",
+        "name": "新二湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "新鴨南段": {
+        "id": "0633",
+        "name": "新鴨南段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "新高埔段": {
+        "id": "0635",
+        "name": "新高埔段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "新五湖段": {
+        "id": "0641",
+        "name": "新五湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "新四湖段": {
+        "id": "0650",
+        "name": "新四湖段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "楓櫥段": {
+        "id": "0649",
+        "name": "楓櫥段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "鴨母坑段": {
+        "id": "0141",
+        "name": "鴨母坑段",
+        "officeCode": "KE",
+        "townCode": "07"
+    },
+    "槺榔埔段": {
+        "id": "0640",
+        "name": "槺榔埔段",
+        "officeCode": "KE",
+        "townCode": "07"
+    }
+}

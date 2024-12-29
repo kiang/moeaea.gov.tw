@@ -1,0 +1,224 @@
+{
+    "下秀祐段": {
+        "id": "3205",
+        "name": "下秀祐段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "大排竹段": {
+        "id": "3213",
+        "name": "大排竹段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "大桐段": {
+        "id": "3272",
+        "name": "大桐段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "中興段": {
+        "id": "3201",
+        "name": "中興段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "內角段": {
+        "id": "3252",
+        "name": "內角段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "六重溪段": {
+        "id": "3209",
+        "name": "六重溪段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "仙草段": {
+        "id": "3290",
+        "name": "仙草段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "仙草一段": {
+        "id": "3306",
+        "name": "仙草一段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "永安段": {
+        "id": "3200",
+        "name": "永安段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "永秀段": {
+        "id": "3295",
+        "name": "永秀段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "玉豐段": {
+        "id": "3249",
+        "name": "玉豐段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "白水溪段": {
+        "id": "3211",
+        "name": "白水溪段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "白河段": {
+        "id": "3255",
+        "name": "白河段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "竹子門段": {
+        "id": "3216",
+        "name": "竹子門段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "秀祐段": {
+        "id": "3296",
+        "name": "秀祐段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "河東段": {
+        "id": "3257",
+        "name": "河東段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "河保段": {
+        "id": "3297",
+        "name": "河保段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "虎山段": {
+        "id": "3307",
+        "name": "虎山段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "長安段": {
+        "id": "3203",
+        "name": "長安段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "保生段": {
+        "id": "3262",
+        "name": "保生段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "崁子頭段": {
+        "id": "3208",
+        "name": "崁子頭段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "海豐厝段": {
+        "id": "3212",
+        "name": "海豐厝段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "草店段": {
+        "id": "3253",
+        "name": "草店段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "馬稠後段": {
+        "id": "3219",
+        "name": "馬稠後段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "國泰段": {
+        "id": "3281",
+        "name": "國泰段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "埤子頭段埤子頭小段": {
+        "id": "3217",
+        "name": "埤子頭段埤子頭小段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "埤子頭段五汴頭小段": {
+        "id": "3218",
+        "name": "埤子頭段五汴頭小段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "頂秀祐段": {
+        "id": "3204",
+        "name": "頂秀祐段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "詔安段": {
+        "id": "3250",
+        "name": "詔安段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "新興段": {
+        "id": "3202",
+        "name": "新興段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "溫泉段": {
+        "id": "3289",
+        "name": "溫泉段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "蓮潭段一小段": {
+        "id": "3251",
+        "name": "蓮潭段一小段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "嶺頂段": {
+        "id": "3288",
+        "name": "嶺頂段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "糞箕湖段糞箕湖小段": {
+        "id": "3206",
+        "name": "糞箕湖段糞箕湖小段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "糞箕湖段木屐寮小段": {
+        "id": "3207",
+        "name": "糞箕湖段木屐寮小段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "關子嶺段": {
+        "id": "3210",
+        "name": "關子嶺段",
+        "officeCode": "DE",
+        "townCode": "12"
+    },
+    "關帝段": {
+        "id": "3254",
+        "name": "關帝段",
+        "officeCode": "DE",
+        "townCode": "12"
+    }
+}

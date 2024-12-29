@@ -1,0 +1,128 @@
+{
+    "中榮段": {
+        "id": "6778",
+        "name": "中榮段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "中沙段": {
+        "id": "6836",
+        "name": "中沙段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "六塊寮段": {
+        "id": "6745",
+        "name": "六塊寮段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "光榮段": {
+        "id": "6838",
+        "name": "光榮段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "安定段": {
+        "id": "6741",
+        "name": "安定段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "安科段": {
+        "id": "6798",
+        "name": "安科段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "保安段": {
+        "id": "6794",
+        "name": "保安段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "保加段": {
+        "id": "6795",
+        "name": "保加段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "海寮段": {
+        "id": "6747",
+        "name": "海寮段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "海安段": {
+        "id": "6831",
+        "name": "海安段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "港子尾段": {
+        "id": "6743",
+        "name": "港子尾段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "港口段": {
+        "id": "6744",
+        "name": "港口段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "港尾段": {
+        "id": "6837",
+        "name": "港尾段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "新吉段": {
+        "id": "6748",
+        "name": "新吉段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "新庄段": {
+        "id": "6832",
+        "name": "新庄段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "新吉工段": {
+        "id": "6835",
+        "name": "新吉工段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "管寮段": {
+        "id": "6746",
+        "name": "管寮段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "蘇厝段": {
+        "id": "6742",
+        "name": "蘇厝段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "蘇林段": {
+        "id": "6791",
+        "name": "蘇林段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "蘇興段": {
+        "id": "6792",
+        "name": "蘇興段",
+        "officeCode": "DH",
+        "townCode": "29"
+    },
+    "蘇安段": {
+        "id": "6793",
+        "name": "蘇安段",
+        "officeCode": "DH",
+        "townCode": "29"
+    }
+}

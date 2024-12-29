@@ -1,0 +1,260 @@
+{
+    "上坑段": {
+        "id": "0817",
+        "name": "上坑段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "大眉段松柏林小段": {
+        "id": "0360",
+        "name": "大眉段松柏林小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "大埔段": {
+        "id": "0425",
+        "name": "大埔段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "中崙段": {
+        "id": "0356",
+        "name": "中崙段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "文昌段": {
+        "id": "0410",
+        "name": "文昌段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "永寧段": {
+        "id": "0428",
+        "name": "永寧段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "池和段": {
+        "id": "0814",
+        "name": "池和段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "坑子口段": {
+        "id": "0359",
+        "name": "坑子口段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "坪頂段": {
+        "id": "0416",
+        "name": "坪頂段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "忠信段": {
+        "id": "0423",
+        "name": "忠信段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "明新段": {
+        "id": "0415",
+        "name": "明新段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "松柏段": {
+        "id": "0818",
+        "name": "松柏段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "松柏二段": {
+        "id": "0831",
+        "name": "松柏二段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "青埔子段": {
+        "id": "0351",
+        "name": "青埔子段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "後湖段埔頂小段": {
+        "id": "0352",
+        "name": "後湖段埔頂小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "後湖段埔和小段": {
+        "id": "0353",
+        "name": "後湖段埔和小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "後湖段坡子頭小段": {
+        "id": "0354",
+        "name": "後湖段坡子頭小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "紅毛段": {
+        "id": "0391",
+        "name": "紅毛段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "重興段": {
+        "id": "0426",
+        "name": "重興段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "重興二段": {
+        "id": "0833",
+        "name": "重興二段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "員山段": {
+        "id": "0358",
+        "name": "員山段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "員興段": {
+        "id": "0819",
+        "name": "員興段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "員興二段": {
+        "id": "0832",
+        "name": "員興二段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "埔和段": {
+        "id": "0835",
+        "name": "埔和段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "崁頭段": {
+        "id": "0355",
+        "name": "崁頭段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "振興段": {
+        "id": "0427",
+        "name": "振興段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "泰安段": {
+        "id": "0413",
+        "name": "泰安段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "泰豐段": {
+        "id": "0414",
+        "name": "泰豐段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "新豐段": {
+        "id": "0347",
+        "name": "新豐段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "新庄子段": {
+        "id": "0357",
+        "name": "新庄子段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "瑞興段": {
+        "id": "0383",
+        "name": "瑞興段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "瑞光段": {
+        "id": "0830",
+        "name": "瑞光段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "榮豐段": {
+        "id": "0411",
+        "name": "榮豐段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "榮華段": {
+        "id": "0424",
+        "name": "榮華段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "福興段員山子小段": {
+        "id": "0348",
+        "name": "福興段員山子小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "福興段後湖子小段": {
+        "id": "0349",
+        "name": "福興段後湖子小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "福興段十一股小段": {
+        "id": "0350",
+        "name": "福興段十一股小段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "福陽段": {
+        "id": "0417",
+        "name": "福陽段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "福龍段": {
+        "id": "0812",
+        "name": "福龍段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "鳳坑段": {
+        "id": "0816",
+        "name": "鳳坑段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "錦安段": {
+        "id": "0412",
+        "name": "錦安段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "濱海段": {
+        "id": "0815",
+        "name": "濱海段",
+        "officeCode": "JD",
+        "townCode": "09"
+    },
+    "豐福段": {
+        "id": "0813",
+        "name": "豐福段",
+        "officeCode": "JD",
+        "townCode": "09"
+    }
+}

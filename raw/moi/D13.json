@@ -1,0 +1,230 @@
+{
+    "下茄苳段": {
+        "id": "3223",
+        "name": "下茄苳段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "上茄苳段上茄苳小段": {
+        "id": "3220",
+        "name": "上茄苳段上茄苳小段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "上茄苳段後壁寮小段": {
+        "id": "3221",
+        "name": "上茄苳段後壁寮小段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "土溝段": {
+        "id": "3222",
+        "name": "土溝段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "仕安段": {
+        "id": "3284",
+        "name": "仕安段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "四安段": {
+        "id": "3275",
+        "name": "四安段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "本協段": {
+        "id": "3224",
+        "name": "本協段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "白沙屯段": {
+        "id": "3230",
+        "name": "白沙屯段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "安溪寮段頂寮小段": {
+        "id": "3225",
+        "name": "安溪寮段頂寮小段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "安溪寮段下寮小段": {
+        "id": "3226",
+        "name": "安溪寮段下寮小段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "竹圍後段": {
+        "id": "3234",
+        "name": "竹圍後段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "竹新段": {
+        "id": "3279",
+        "name": "竹新段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "長短樹段": {
+        "id": "3231",
+        "name": "長短樹段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "侯伯段": {
+        "id": "3267",
+        "name": "侯伯段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "南海段": {
+        "id": "3269",
+        "name": "南海段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "烏樹林段": {
+        "id": "3227",
+        "name": "烏樹林段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "烏樹段": {
+        "id": "3287",
+        "name": "烏樹段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "崩埤段": {
+        "id": "3229",
+        "name": "崩埤段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "頂中段": {
+        "id": "3273",
+        "name": "頂中段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "頂豐段": {
+        "id": "3277",
+        "name": "頂豐段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "頂平段": {
+        "id": "3283",
+        "name": "頂平段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "魚寮段": {
+        "id": "3282",
+        "name": "魚寮段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "菁寮段": {
+        "id": "3228",
+        "name": "菁寮段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "菁豐段": {
+        "id": "3305",
+        "name": "菁豐段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "新港東段新港東小段": {
+        "id": "3232",
+        "name": "新港東段新港東小段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "新港東段茄苳子小段": {
+        "id": "3233",
+        "name": "新港東段茄苳子小段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "新溝段": {
+        "id": "3270",
+        "name": "新溝段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "新東段": {
+        "id": "3278",
+        "name": "新東段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "新協段": {
+        "id": "3286",
+        "name": "新協段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "新嘉段": {
+        "id": "3291",
+        "name": "新嘉段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "道場段": {
+        "id": "3276",
+        "name": "道場段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "嘉田段": {
+        "id": "3263",
+        "name": "嘉田段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "嘉安段": {
+        "id": "3264",
+        "name": "嘉安段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "嘉泰段": {
+        "id": "3265",
+        "name": "嘉泰段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "嘉民段": {
+        "id": "3266",
+        "name": "嘉民段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "嘉苳段": {
+        "id": "3271",
+        "name": "嘉苳段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "福安段": {
+        "id": "3274",
+        "name": "福安段",
+        "officeCode": "DE",
+        "townCode": "13"
+    },
+    "頭前段": {
+        "id": "3268",
+        "name": "頭前段",
+        "officeCode": "DE",
+        "townCode": "13"
+    }
+}

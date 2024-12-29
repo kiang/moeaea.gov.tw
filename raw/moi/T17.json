@@ -1,0 +1,206 @@
+{
+    "上烏龍段": {
+        "id": "1006",
+        "name": "上烏龍段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "中興段": {
+        "id": "1008",
+        "name": "中興段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "中洲段": {
+        "id": "1009",
+        "name": "中洲段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "五房州段": {
+        "id": "0514",
+        "name": "五房州段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "五族段": {
+        "id": "0560",
+        "name": "五族段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "五龍段": {
+        "id": "1019",
+        "name": "五龍段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "五房段": {
+        "id": "1022",
+        "name": "五房段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "仙公廟段": {
+        "id": "0508",
+        "name": "仙公廟段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "仙公廟段一小段": {
+        "id": "0509",
+        "name": "仙公廟段一小段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "仙吉段": {
+        "id": "1010",
+        "name": "仙吉段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "仙隆段": {
+        "id": "1011",
+        "name": "仙隆段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "瓦磘子段": {
+        "id": "0511",
+        "name": "瓦磘子段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "田洋子段": {
+        "id": "0510",
+        "name": "田洋子段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "共和段": {
+        "id": "0564",
+        "name": "共和段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "南龍段": {
+        "id": "0557",
+        "name": "南龍段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "烏龍段": {
+        "id": "0515",
+        "name": "烏龍段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "港西段": {
+        "id": "1005",
+        "name": "港西段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "港墘段": {
+        "id": "1020",
+        "name": "港墘段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新園段": {
+        "id": "0507",
+        "name": "新園段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新吉段": {
+        "id": "0512",
+        "name": "新吉段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新洋段": {
+        "id": "0513",
+        "name": "新洋段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新利段": {
+        "id": "0516",
+        "name": "新利段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新洋段一小段": {
+        "id": "0544",
+        "name": "新洋段一小段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新生段": {
+        "id": "0559",
+        "name": "新生段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新南段": {
+        "id": "1004",
+        "name": "新南段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新東段": {
+        "id": "1012",
+        "name": "新東段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新房段": {
+        "id": "1018",
+        "name": "新房段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "新堤段": {
+        "id": "1021",
+        "name": "新堤段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "興龍段": {
+        "id": "0558",
+        "name": "興龍段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "興厝段": {
+        "id": "1007",
+        "name": "興厝段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "鹽龍段": {
+        "id": "0561",
+        "name": "鹽龍段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "鹽埔段": {
+        "id": "0562",
+        "name": "鹽埔段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "鹽洲段": {
+        "id": "0563",
+        "name": "鹽洲段",
+        "officeCode": "TD",
+        "townCode": "17"
+    },
+    "鹽新段": {
+        "id": "0565",
+        "name": "鹽新段",
+        "officeCode": "TD",
+        "townCode": "17"
+    }
+}

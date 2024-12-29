@@ -1,0 +1,104 @@
+{
+    "上萬安段": {
+        "id": "0475",
+        "name": "上萬安段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "打鐵段": {
+        "id": "0341",
+        "name": "打鐵段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "東興段": {
+        "id": "1564",
+        "name": "東興段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "南岸段": {
+        "id": "0343",
+        "name": "南岸段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "南豐段": {
+        "id": "1563",
+        "name": "南豐段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "南鐵段": {
+        "id": "1566",
+        "name": "南鐵段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "建功段": {
+        "id": "0342",
+        "name": "建功段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "海豐段": {
+        "id": "0473",
+        "name": "海豐段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "新埤段": {
+        "id": "0340",
+        "name": "新埤段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "新力段": {
+        "id": "0346",
+        "name": "新力段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "新東段": {
+        "id": "0411",
+        "name": "新東段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "新華段": {
+        "id": "0412",
+        "name": "新華段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "新南段": {
+        "id": "0413",
+        "name": "新南段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "萬隆段": {
+        "id": "0474",
+        "name": "萬隆段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "餉潭段": {
+        "id": "0344",
+        "name": "餉潭段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "糞箕湖段": {
+        "id": "0345",
+        "name": "糞箕湖段",
+        "officeCode": "TC",
+        "townCode": "15"
+    },
+    "鏡庄段": {
+        "id": "1567",
+        "name": "鏡庄段",
+        "officeCode": "TC",
+        "townCode": "15"
+    }
+}

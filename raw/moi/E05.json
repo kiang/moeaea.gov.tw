@@ -1,0 +1,530 @@
+{
+    "三塊厝段": {
+        "id": "0552",
+        "name": "三塊厝段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "三塊厝段一小段": {
+        "id": "0565",
+        "name": "三塊厝段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "三塊厝段二小段": {
+        "id": "0566",
+        "name": "三塊厝段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "三塊厝段三小段": {
+        "id": "0567",
+        "name": "三塊厝段三小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "三塊厝段四小段": {
+        "id": "0568",
+        "name": "三塊厝段四小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "三塊厝段五小段": {
+        "id": "0569",
+        "name": "三塊厝段五小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大豐段一小段": {
+        "id": "0510",
+        "name": "大豐段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大豐段二小段": {
+        "id": "0511",
+        "name": "大豐段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大裕段一小段": {
+        "id": "0512",
+        "name": "大裕段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大裕段二小段": {
+        "id": "0513",
+        "name": "大裕段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大豐段三小段": {
+        "id": "0517",
+        "name": "大豐段三小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大順段": {
+        "id": "0530",
+        "name": "大順段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段": {
+        "id": "0553",
+        "name": "大港段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段一小段": {
+        "id": "0571",
+        "name": "大港段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段二小段": {
+        "id": "0572",
+        "name": "大港段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段三小段": {
+        "id": "0573",
+        "name": "大港段三小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段四小段": {
+        "id": "0574",
+        "name": "大港段四小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段五小段": {
+        "id": "0575",
+        "name": "大港段五小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段六小段": {
+        "id": "0576",
+        "name": "大港段六小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "大港段七小段": {
+        "id": "0577",
+        "name": "大港段七小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "中華段一小段": {
+        "id": "0500",
+        "name": "中華段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "中華段二小段": {
+        "id": "0501",
+        "name": "中華段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "中都段一小段": {
+        "id": "0502",
+        "name": "中都段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "中都段二小段": {
+        "id": "0503",
+        "name": "中都段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "中都段三小段": {
+        "id": "0504",
+        "name": "中都段三小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "中都段四小段": {
+        "id": "0505",
+        "name": "中都段四小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "水源段": {
+        "id": "0527",
+        "name": "水源段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "本舘段": {
+        "id": "0557",
+        "name": "本舘段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "有光段": {
+        "id": "0529",
+        "name": "有光段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "明仁段": {
+        "id": "0584",
+        "name": "明仁段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "河濱段": {
+        "id": "0514",
+        "name": "河濱段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "河堤段": {
+        "id": "0587",
+        "name": "河堤段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "金獅段": {
+        "id": "0559",
+        "name": "金獅段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "長明段": {
+        "id": "0532",
+        "name": "長明段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建昌段": {
+        "id": "0518",
+        "name": "建昌段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建工段": {
+        "id": "0519",
+        "name": "建工段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建豐段": {
+        "id": "0520",
+        "name": "建豐段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建興段": {
+        "id": "0521",
+        "name": "建興段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建德段": {
+        "id": "0522",
+        "name": "建德段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建安段": {
+        "id": "0523",
+        "name": "建安段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建民段": {
+        "id": "0524",
+        "name": "建民段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "建生段": {
+        "id": "0525",
+        "name": "建生段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "凱歌段": {
+        "id": "0531",
+        "name": "凱歌段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "陽明段一小段": {
+        "id": "0506",
+        "name": "陽明段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "陽明段二小段": {
+        "id": "0507",
+        "name": "陽明段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "陽明段三小段": {
+        "id": "0508",
+        "name": "陽明段三小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "陽明段四小段": {
+        "id": "0515",
+        "name": "陽明段四小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "雄中段": {
+        "id": "0585",
+        "name": "雄中段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "新都段": {
+        "id": "0583",
+        "name": "新都段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "新豐段": {
+        "id": "0586",
+        "name": "新豐段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "獅頭段": {
+        "id": "0558",
+        "name": "獅頭段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "獅頭段一小段": {
+        "id": "0563",
+        "name": "獅頭段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "獅頭段二小段": {
+        "id": "0564",
+        "name": "獅頭段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "義民段": {
+        "id": "0528",
+        "name": "義民段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "義華段": {
+        "id": "0551",
+        "name": "義華段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎金段": {
+        "id": "0533",
+        "name": "鼎金段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎泰段": {
+        "id": "0534",
+        "name": "鼎泰段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎盛段": {
+        "id": "0535",
+        "name": "鼎盛段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎中段": {
+        "id": "0536",
+        "name": "鼎中段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎新段": {
+        "id": "0537",
+        "name": "鼎新段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎山段": {
+        "id": "0538",
+        "name": "鼎山段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎祥段": {
+        "id": "0561",
+        "name": "鼎祥段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎泰段一小段": {
+        "id": "0562",
+        "name": "鼎泰段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鼎儀段": {
+        "id": "0579",
+        "name": "鼎儀段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "鳳北段": {
+        "id": "0578",
+        "name": "鳳北段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "德北段": {
+        "id": "0582",
+        "name": "德北段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "澄清段一小段": {
+        "id": "0509",
+        "name": "澄清段一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "澄清段二小段": {
+        "id": "0516",
+        "name": "澄清段二小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "澄義段": {
+        "id": "0526",
+        "name": "澄義段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "澄正段": {
+        "id": "0580",
+        "name": "澄正段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "澄東段": {
+        "id": "0581",
+        "name": "澄東段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "覆鼎金段覆鼎金小段": {
+        "id": "0556",
+        "name": "覆鼎金段覆鼎金小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "覆鼎金段覆鼎金一小段": {
+        "id": "0570",
+        "name": "覆鼎金段覆鼎金一小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "寶國段": {
+        "id": "0550",
+        "name": "寶國段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣愛段": {
+        "id": "0539",
+        "name": "灣愛段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣內段": {
+        "id": "0540",
+        "name": "灣內段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣成段": {
+        "id": "0541",
+        "name": "灣成段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣昌段": {
+        "id": "0542",
+        "name": "灣昌段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣志段": {
+        "id": "0543",
+        "name": "灣志段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣立段": {
+        "id": "0544",
+        "name": "灣立段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣勝段": {
+        "id": "0545",
+        "name": "灣勝段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣華段": {
+        "id": "0546",
+        "name": "灣華段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣中段": {
+        "id": "0547",
+        "name": "灣中段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣復段": {
+        "id": "0548",
+        "name": "灣復段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣興段": {
+        "id": "0549",
+        "name": "灣興段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣子內段灣子內小段": {
+        "id": "0554",
+        "name": "灣子內段灣子內小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣子內段寶珠溝小段": {
+        "id": "0555",
+        "name": "灣子內段寶珠溝小段",
+        "officeCode": "ED",
+        "townCode": "05"
+    },
+    "灣和段": {
+        "id": "0560",
+        "name": "灣和段",
+        "officeCode": "ED",
+        "townCode": "05"
+    }
+}

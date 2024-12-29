@@ -1,0 +1,158 @@
+{
+    "大舍甲段": {
+        "id": "3301",
+        "name": "大舍甲段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "大舍段": {
+        "id": "3319",
+        "name": "大舍段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "中崙段": {
+        "id": "3306",
+        "name": "中崙段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "公館段": {
+        "id": "3308",
+        "name": "公館段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "同安段": {
+        "id": "3318",
+        "name": "同安段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "赤崁段": {
+        "id": "3303",
+        "name": "赤崁段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "赤崁新段": {
+        "id": "3314",
+        "name": "赤崁新段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "赤東段": {
+        "id": "3315",
+        "name": "赤東段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "赤慈段": {
+        "id": "3316",
+        "name": "赤慈段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "典寶段": {
+        "id": "3321",
+        "name": "典寶段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "茄苳坑段": {
+        "id": "3302",
+        "name": "茄苳坑段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "茄苳段": {
+        "id": "3320",
+        "name": "茄苳段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "梓官段": {
+        "id": "3300",
+        "name": "梓官段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "梓信段": {
+        "id": "3305",
+        "name": "梓信段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "梓平段": {
+        "id": "3307",
+        "name": "梓平段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "梓中段": {
+        "id": "3309",
+        "name": "梓中段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "梓和段": {
+        "id": "3310",
+        "name": "梓和段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "梓義段": {
+        "id": "3311",
+        "name": "梓義段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "蚵寮段": {
+        "id": "3317",
+        "name": "蚵寮段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "頂蚵子寮段": {
+        "id": "3304",
+        "name": "頂蚵子寮段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "頂蚵子寮段一小段": {
+        "id": "3322",
+        "name": "頂蚵子寮段一小段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "頂蚵子寮段二小段": {
+        "id": "3323",
+        "name": "頂蚵子寮段二小段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "新甲段": {
+        "id": "3312",
+        "name": "新甲段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "新興段": {
+        "id": "3313",
+        "name": "新興段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "嘉展段": {
+        "id": "3324",
+        "name": "嘉展段",
+        "officeCode": "EF",
+        "townCode": "29"
+    },
+    "嘉好段": {
+        "id": "3325",
+        "name": "嘉好段",
+        "officeCode": "EF",
+        "townCode": "29"
+    }
+}

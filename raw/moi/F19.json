@@ -1,0 +1,386 @@
+{
+    "土城段": {
+        "id": "0181",
+        "name": "土城段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "大安寮段大安寮小段": {
+        "id": "0154",
+        "name": "大安寮段大安寮小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "大安寮段石壁寮小段": {
+        "id": "0155",
+        "name": "大安寮段石壁寮小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "大安寮段大暖坑小段": {
+        "id": "0156",
+        "name": "大安寮段大暖坑小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "大安段": {
+        "id": "0182",
+        "name": "大安段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "大巒段": {
+        "id": "0185",
+        "name": "大巒段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "中華段": {
+        "id": "0193",
+        "name": "中華段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "司法段": {
+        "id": "0227",
+        "name": "司法段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "永和段": {
+        "id": "0184",
+        "name": "永和段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "永寧段": {
+        "id": "0187",
+        "name": "永寧段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "永豐段": {
+        "id": "0207",
+        "name": "永豐段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "永福段": {
+        "id": "0225",
+        "name": "永福段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "永寧一段": {
+        "id": "0226",
+        "name": "永寧一段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "石門段": {
+        "id": "0209",
+        "name": "石門段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "安和段": {
+        "id": "0199",
+        "name": "安和段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "尖山段": {
+        "id": "0208",
+        "name": "尖山段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "冷水段": {
+        "id": "0205",
+        "name": "冷水段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "廷寮坑段外藤寮坑小段": {
+        "id": "0152",
+        "name": "廷寮坑段外藤寮坑小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "廷寮坑段內藤寮坑小段": {
+        "id": "0153",
+        "name": "廷寮坑段內藤寮坑小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "廷寮段": {
+        "id": "0202",
+        "name": "廷寮段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "沛舍坡段": {
+        "id": "0144",
+        "name": "沛舍坡段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "沛舍坡段工業區小段": {
+        "id": "0145",
+        "name": "沛舍坡段工業區小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "沛舍坡段工業社區小段": {
+        "id": "0146",
+        "name": "沛舍坡段工業社區小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "沛陂段": {
+        "id": "0192",
+        "name": "沛陂段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "延和段": {
+        "id": "0200",
+        "name": "延和段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "延吉段": {
+        "id": "0201",
+        "name": "延吉段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "忠義段": {
+        "id": "0212",
+        "name": "忠義段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "明德段": {
+        "id": "0224",
+        "name": "明德段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "板院段": {
+        "id": "0197",
+        "name": "板院段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "金城段": {
+        "id": "0203",
+        "name": "金城段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "青雲段": {
+        "id": "0206",
+        "name": "青雲段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "南天母段": {
+        "id": "0213",
+        "name": "南天母段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "城林段": {
+        "id": "0191",
+        "name": "城林段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "建安段": {
+        "id": "0214",
+        "name": "建安段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "柑林埤段": {
+        "id": "0136",
+        "name": "柑林埤段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "柑林段": {
+        "id": "0211",
+        "name": "柑林段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "員林段員林小段": {
+        "id": "0149",
+        "name": "員林段員林小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "員林段貨饒小段": {
+        "id": "0150",
+        "name": "員林段貨饒小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "員林段土城小段": {
+        "id": "0151",
+        "name": "員林段土城小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "員仁段": {
+        "id": "0183",
+        "name": "員仁段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "員和段": {
+        "id": "0189",
+        "name": "員和段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "員福段": {
+        "id": "0190",
+        "name": "員福段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "祖田段": {
+        "id": "0215",
+        "name": "祖田段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "埤塘段埤塘小段": {
+        "id": "0147",
+        "name": "埤塘段埤塘小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "埤塘段內柑林埤小段": {
+        "id": "0148",
+        "name": "埤塘段內柑林埤小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "清水坑段外冷水坑小段": {
+        "id": "0137",
+        "name": "清水坑段外冷水坑小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "清水坑段內冷水坑小段": {
+        "id": "0138",
+        "name": "清水坑段內冷水坑小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "清水段": {
+        "id": "0204",
+        "name": "清水段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "清化段": {
+        "id": "0210",
+        "name": "清化段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂埔段溪頭小段": {
+        "id": "0139",
+        "name": "頂埔段溪頭小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂埔段溪尾小段": {
+        "id": "0140",
+        "name": "頂埔段溪尾小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂埔段頂埔內小段": {
+        "id": "0141",
+        "name": "頂埔段頂埔內小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂埔段中洲子小段": {
+        "id": "0142",
+        "name": "頂埔段中洲子小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂埔段牛角坑小段": {
+        "id": "0143",
+        "name": "頂埔段牛角坑小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂新段": {
+        "id": "0179",
+        "name": "頂新段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "頂福段": {
+        "id": "0180",
+        "name": "頂福段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "媽祖田段外媽祖田小段": {
+        "id": "0157",
+        "name": "媽祖田段外媽祖田小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "媽祖田段內媽祖田小段": {
+        "id": "0158",
+        "name": "媽祖田段內媽祖田小段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "瑞興段": {
+        "id": "0178",
+        "name": "瑞興段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "運校段": {
+        "id": "0186",
+        "name": "運校段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "福華段": {
+        "id": "0219",
+        "name": "福華段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "樂利段": {
+        "id": "0195",
+        "name": "樂利段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "學成段": {
+        "id": "0194",
+        "name": "學成段",
+        "officeCode": "FA",
+        "townCode": "19"
+    },
+    "學林段": {
+        "id": "0196",
+        "name": "學林段",
+        "officeCode": "FA",
+        "townCode": "19"
+    }
+}

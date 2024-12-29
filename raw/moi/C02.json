@@ -1,0 +1,236 @@
+{
+    "七堵段連柑宅小段": {
+        "id": "0029",
+        "name": "七堵段連柑宅小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "八堵段八堵北小段": {
+        "id": "0027",
+        "name": "八堵段八堵北小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "大華段": {
+        "id": "0124",
+        "name": "大華段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "工建段": {
+        "id": "0125",
+        "name": "工建段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "五堵段五堵北小段": {
+        "id": "0039",
+        "name": "五堵段五堵北小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "五堵段五堵南小段": {
+        "id": "0040",
+        "name": "五堵段五堵南小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "五堵段下坡小段": {
+        "id": "0041",
+        "name": "五堵段下坡小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "六堵段": {
+        "id": "0048",
+        "name": "六堵段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段港口小段": {
+        "id": "0050",
+        "name": "友蚋段港口小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段七分寮小段": {
+        "id": "0051",
+        "name": "友蚋段七分寮小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段十四坑小段": {
+        "id": "0052",
+        "name": "友蚋段十四坑小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段赤皮湖小段": {
+        "id": "0053",
+        "name": "友蚋段赤皮湖小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段興化坑小段": {
+        "id": "0054",
+        "name": "友蚋段興化坑小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段鹿寮小段": {
+        "id": "0055",
+        "name": "友蚋段鹿寮小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友蚋段樟空湖小段": {
+        "id": "0056",
+        "name": "友蚋段樟空湖小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友一段": {
+        "id": "0206",
+        "name": "友一段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "友二段": {
+        "id": "0207",
+        "name": "友二段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "北五堵段": {
+        "id": "0205",
+        "name": "北五堵段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "台五線段": {
+        "id": "0137",
+        "name": "台五線段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "自強段": {
+        "id": "0200",
+        "name": "自強段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "明德段": {
+        "id": "0123",
+        "name": "明德段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "長安段": {
+        "id": "0136",
+        "name": "長安段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "長興段": {
+        "id": "0202",
+        "name": "長興段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "泰安段": {
+        "id": "0203",
+        "name": "泰安段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "草濫段拔西猴小段": {
+        "id": "0035",
+        "name": "草濫段拔西猴小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "草濫段後旦旦小段": {
+        "id": "0036",
+        "name": "草濫段後旦旦小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "草濫段小坑小段": {
+        "id": "0037",
+        "name": "草濫段小坑小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "草濫段草濫小段": {
+        "id": "0038",
+        "name": "草濫段草濫小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "新八堵段": {
+        "id": "0201",
+        "name": "新八堵段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "新連柑宅段": {
+        "id": "0204",
+        "name": "新連柑宅段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "溪頭段": {
+        "id": "0135",
+        "name": "溪頭段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "瑪陵坑段東勢上股小段": {
+        "id": "0042",
+        "name": "瑪陵坑段東勢上股小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "瑪陵坑段東勢中股小段": {
+        "id": "0043",
+        "name": "瑪陵坑段東勢中股小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "瑪陵坑段東勢下股小段": {
+        "id": "0044",
+        "name": "瑪陵坑段東勢下股小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "瑪陵坑段西勢內寮小段": {
+        "id": "0045",
+        "name": "瑪陵坑段西勢內寮小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "瑪陵坑段西勢仙洞湖小段": {
+        "id": "0046",
+        "name": "瑪陵坑段西勢仙洞湖小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "瑪陵坑段西勢面桶寮小段": {
+        "id": "0047",
+        "name": "瑪陵坑段西勢面桶寮小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "舊站段": {
+        "id": "0142",
+        "name": "舊站段",
+        "officeCode": "CD",
+        "townCode": "02"
+    },
+    "鶯歌石段石厝坑小段": {
+        "id": "0033",
+        "name": "鶯歌石段石厝坑小段",
+        "officeCode": "CD",
+        "townCode": "02"
+    }
+}

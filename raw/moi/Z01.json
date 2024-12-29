@@ -1,0 +1,74 @@
+{
+    "仁愛段": {
+        "id": "0006",
+        "name": "仁愛段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "介壽段": {
+        "id": "0002",
+        "name": "介壽段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "四維段": {
+        "id": "0009",
+        "name": "四維段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "津沙段": {
+        "id": "0005",
+        "name": "津沙段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "珠螺段": {
+        "id": "0007",
+        "name": "珠螺段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "馬祖段": {
+        "id": "0008",
+        "name": "馬祖段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "清水段": {
+        "id": "0004",
+        "name": "清水段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "復興段": {
+        "id": "0001",
+        "name": "復興段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "黃官嶼段": {
+        "id": "0010",
+        "name": "黃官嶼段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "福沃段": {
+        "id": "0003",
+        "name": "福沃段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "劉泉礁段": {
+        "id": "0011",
+        "name": "劉泉礁段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    },
+    "鞋礁段": {
+        "id": "0012",
+        "name": "鞋礁段",
+        "officeCode": "ZA",
+        "townCode": "01"
+    }
+}

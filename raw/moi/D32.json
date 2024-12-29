@@ -1,0 +1,410 @@
+{
+    "一甲段": {
+        "id": "7001",
+        "name": "一甲段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "二橋段": {
+        "id": "7014",
+        "name": "二橋段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "二王段": {
+        "id": "7077",
+        "name": "二王段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "二空段": {
+        "id": "7103",
+        "name": "二空段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "二仁段": {
+        "id": "7110",
+        "name": "二仁段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "二行段": {
+        "id": "7111",
+        "name": "二行段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "十三甲段": {
+        "id": "7010",
+        "name": "十三甲段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "三甲子段": {
+        "id": "7012",
+        "name": "三甲子段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "上崙子段": {
+        "id": "7006",
+        "name": "上崙子段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "上崙段": {
+        "id": "7086",
+        "name": "上崙段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "土庫段": {
+        "id": "7070",
+        "name": "土庫段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "大甲段": {
+        "id": "7013",
+        "name": "大甲段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "大宅段": {
+        "id": "7068",
+        "name": "大宅段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "中洲段": {
+        "id": "7008",
+        "name": "中洲段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "中正段": {
+        "id": "7060",
+        "name": "中正段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "中軍段": {
+        "id": "7087",
+        "name": "中軍段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "中清段": {
+        "id": "7093",
+        "name": "中清段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "中洲西段": {
+        "id": "7116",
+        "name": "中洲西段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "中洲東段": {
+        "id": "7118",
+        "name": "中洲東段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "仁德段": {
+        "id": "7000",
+        "name": "仁德段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "仁義段": {
+        "id": "7061",
+        "name": "仁義段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "公園段": {
+        "id": "7096",
+        "name": "公園段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "太子段": {
+        "id": "7071",
+        "name": "太子段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "太乙段": {
+        "id": "7072",
+        "name": "太乙段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "太新段": {
+        "id": "7090",
+        "name": "太新段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "文賢段": {
+        "id": "7108",
+        "name": "文賢段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "牛稠子段": {
+        "id": "7009",
+        "name": "牛稠子段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "牛稠段": {
+        "id": "7102",
+        "name": "牛稠段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "正義段": {
+        "id": "7091",
+        "name": "正義段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "民安段": {
+        "id": "7076",
+        "name": "民安段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "甘厝段": {
+        "id": "7080",
+        "name": "甘厝段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "田厝段": {
+        "id": "7005",
+        "name": "田厝段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "白崙段": {
+        "id": "7074",
+        "name": "白崙段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "如意段": {
+        "id": "7085",
+        "name": "如意段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "車路墘段": {
+        "id": "7011",
+        "name": "車路墘段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "車頭段": {
+        "id": "7107",
+        "name": "車頭段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "和愛段": {
+        "id": "7109",
+        "name": "和愛段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "岳王段": {
+        "id": "7067",
+        "name": "岳王段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "忠義段": {
+        "id": "7092",
+        "name": "忠義段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "林頂段": {
+        "id": "7065",
+        "name": "林頂段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "林仔段": {
+        "id": "7094",
+        "name": "林仔段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "虎山段": {
+        "id": "7081",
+        "name": "虎山段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "長興段": {
+        "id": "7069",
+        "name": "長興段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "保安段": {
+        "id": "7053",
+        "name": "保安段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "保生段": {
+        "id": "7113",
+        "name": "保生段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "保甲段": {
+        "id": "7114",
+        "name": "保甲段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "南勢園段": {
+        "id": "7101",
+        "name": "南勢園段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "城光段": {
+        "id": "7083",
+        "name": "城光段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "後壁段": {
+        "id": "7075",
+        "name": "後壁段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "崁腳段": {
+        "id": "7004",
+        "name": "崁腳段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "崁腳北段": {
+        "id": "7115",
+        "name": "崁腳北段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "崁腳南段": {
+        "id": "7119",
+        "name": "崁腳南段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "神農段": {
+        "id": "7089",
+        "name": "神農段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "健康段": {
+        "id": "7097",
+        "name": "健康段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "崑崙段": {
+        "id": "7088",
+        "name": "崑崙段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "崙尾段": {
+        "id": "7064",
+        "name": "崙尾段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "崙中段": {
+        "id": "7073",
+        "name": "崙中段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "清王段": {
+        "id": "7112",
+        "name": "清王段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "勝利段": {
+        "id": "7095",
+        "name": "勝利段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "港墘段": {
+        "id": "7007",
+        "name": "港墘段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "新田段": {
+        "id": "7003",
+        "name": "新田段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "新工段": {
+        "id": "7100",
+        "name": "新工段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "義林段": {
+        "id": "7066",
+        "name": "義林段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "嘉南段": {
+        "id": "7120",
+        "name": "嘉南段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "德南段": {
+        "id": "7078",
+        "name": "德南段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "德崙段": {
+        "id": "7079",
+        "name": "德崙段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "興安段": {
+        "id": "7063",
+        "name": "興安段",
+        "officeCode": "DI",
+        "townCode": "32"
+    },
+    "鍾厝段": {
+        "id": "7062",
+        "name": "鍾厝段",
+        "officeCode": "DI",
+        "townCode": "32"
+    }
+}

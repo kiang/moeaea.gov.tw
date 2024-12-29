@@ -1,0 +1,356 @@
+{
+    "三塊厝段": {
+        "id": "0003",
+        "name": "三塊厝段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "千秋段": {
+        "id": "0070",
+        "name": "千秋段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "大埤段": {
+        "id": "0016",
+        "name": "大埤段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "大崗段": {
+        "id": "0046",
+        "name": "大崗段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "小半山段": {
+        "id": "0010",
+        "name": "小半山段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "內轆段": {
+        "id": "0015",
+        "name": "內轆段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "內新段": {
+        "id": "0049",
+        "name": "內新段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "內興段": {
+        "id": "0056",
+        "name": "內興段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "牛運堀段": {
+        "id": "0002",
+        "name": "牛運堀段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "牛運堀段文林小段": {
+        "id": "0722",
+        "name": "牛運堀段文林小段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "包尾段": {
+        "id": "0005",
+        "name": "包尾段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "半山段": {
+        "id": "0007",
+        "name": "半山段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "永興段": {
+        "id": "0702",
+        "name": "永興段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "永新段": {
+        "id": "0711",
+        "name": "永新段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光復段": {
+        "id": "0014",
+        "name": "光復段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光大段": {
+        "id": "0050",
+        "name": "光大段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光華段": {
+        "id": "0051",
+        "name": "光華段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光榮段": {
+        "id": "0052",
+        "name": "光榮段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光明段": {
+        "id": "0053",
+        "name": "光明段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光興段": {
+        "id": "0054",
+        "name": "光興段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "光興段營北小段": {
+        "id": "0724",
+        "name": "光興段營北小段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "成功段": {
+        "id": "0713",
+        "name": "成功段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "西施厝坪段西施厝坪小段": {
+        "id": "0018",
+        "name": "西施厝坪段西施厝坪小段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "西施厝坪段樟普寮小段": {
+        "id": "0019",
+        "name": "西施厝坪段樟普寮小段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "旺來段": {
+        "id": "0729",
+        "name": "旺來段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "東施厝坪段": {
+        "id": "0006",
+        "name": "東施厝坪段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "林子段南崗小段": {
+        "id": "0009",
+        "name": "林子段南崗小段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "南投段": {
+        "id": "0001",
+        "name": "南投段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "南山段": {
+        "id": "0047",
+        "name": "南山段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "南勢段": {
+        "id": "0068",
+        "name": "南勢段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "南鄉段": {
+        "id": "0069",
+        "name": "南鄉段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "南崗段": {
+        "id": "0734",
+        "name": "南崗段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "建興段": {
+        "id": "0703",
+        "name": "建興段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "施厝坪段": {
+        "id": "0732",
+        "name": "施厝坪段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "茄苳腳段": {
+        "id": "0004",
+        "name": "茄苳腳段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "軍功寮段": {
+        "id": "0012",
+        "name": "軍功寮段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "軍功段": {
+        "id": "0076",
+        "name": "軍功段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "首區段": {
+        "id": "0720",
+        "name": "首區段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "草尾嶺段": {
+        "id": "0011",
+        "name": "草尾嶺段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "猴探井段": {
+        "id": "0733",
+        "name": "猴探井段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "華新段": {
+        "id": "0704",
+        "name": "華新段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新生段": {
+        "id": "0020",
+        "name": "新生段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新廍段": {
+        "id": "0055",
+        "name": "新廍段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新豐段": {
+        "id": "0712",
+        "name": "新豐段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新小半山段": {
+        "id": "0714",
+        "name": "新小半山段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新草尾嶺段": {
+        "id": "0715",
+        "name": "新草尾嶺段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新豐段新豐小段": {
+        "id": "0723",
+        "name": "新豐段新豐小段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "新鳳山段": {
+        "id": "0731",
+        "name": "新鳳山段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "嘉和段": {
+        "id": "0048",
+        "name": "嘉和段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "福溪段": {
+        "id": "0064",
+        "name": "福溪段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "福順段": {
+        "id": "0065",
+        "name": "福順段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "福德段": {
+        "id": "0066",
+        "name": "福德段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "福助段": {
+        "id": "0067",
+        "name": "福助段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "福興段": {
+        "id": "0701",
+        "name": "福興段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "鳳山段": {
+        "id": "0718",
+        "name": "鳳山段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "樟普寮段": {
+        "id": "0719",
+        "name": "樟普寮段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "營盤口段": {
+        "id": "0013",
+        "name": "營盤口段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "營南段": {
+        "id": "0063",
+        "name": "營南段",
+        "officeCode": "MA",
+        "townCode": "01"
+    },
+    "藍田段": {
+        "id": "0726",
+        "name": "藍田段",
+        "officeCode": "MA",
+        "townCode": "01"
+    }
+}

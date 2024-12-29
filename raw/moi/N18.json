@@ -1,0 +1,242 @@
+{
+    "五汴頭段五汴頭小段": {
+        "id": "0588",
+        "name": "五汴頭段五汴頭小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "五汴段": {
+        "id": "0657",
+        "name": "五汴段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "五常段": {
+        "id": "0675",
+        "name": "五常段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "四芳段": {
+        "id": "0660",
+        "name": "四芳段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永靖段": {
+        "id": "0575",
+        "name": "永靖段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永福段": {
+        "id": "0579",
+        "name": "永福段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永興段": {
+        "id": "0580",
+        "name": "永興段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永中段": {
+        "id": "0594",
+        "name": "永中段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永發段": {
+        "id": "0595",
+        "name": "永發段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永安段": {
+        "id": "0596",
+        "name": "永安段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永北段": {
+        "id": "0597",
+        "name": "永北段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永南段": {
+        "id": "0598",
+        "name": "永南段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永泰段": {
+        "id": "0599",
+        "name": "永泰段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永豐段": {
+        "id": "0600",
+        "name": "永豐段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永昌段": {
+        "id": "0616",
+        "name": "永昌段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永美段": {
+        "id": "0617",
+        "name": "永美段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "永社段": {
+        "id": "0676",
+        "name": "永社段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "同安宅段同安宅小段": {
+        "id": "0585",
+        "name": "同安宅段同安宅小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "同安宅段湳墘小段": {
+        "id": "0586",
+        "name": "同安宅段湳墘小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "同安宅段四塊厝小段": {
+        "id": "0587",
+        "name": "同安宅段四塊厝小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "同安段": {
+        "id": "0663",
+        "name": "同安段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "圳寧段": {
+        "id": "0677",
+        "name": "圳寧段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "竹子腳段竹子腳小段": {
+        "id": "0590",
+        "name": "竹子腳段竹子腳小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "竹子腳段福興小段": {
+        "id": "0591",
+        "name": "竹子腳段福興小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "竹子段": {
+        "id": "0662",
+        "name": "竹子段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "東寧段": {
+        "id": "0581",
+        "name": "東寧段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "東興段": {
+        "id": "0678",
+        "name": "東興段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "浮圳段": {
+        "id": "0582",
+        "name": "浮圳段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "崙子段": {
+        "id": "0578",
+        "name": "崙子段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "崙美段": {
+        "id": "0679",
+        "name": "崙美段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "陳厝厝段": {
+        "id": "0576",
+        "name": "陳厝厝段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "港新段": {
+        "id": "0583",
+        "name": "港新段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "港西段": {
+        "id": "0659",
+        "name": "港西段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "新崙子段": {
+        "id": "0656",
+        "name": "新崙子段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "福中段": {
+        "id": "0661",
+        "name": "福中段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "獨鰲段獨鰲小段": {
+        "id": "0592",
+        "name": "獨鰲段獨鰲小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "獨鰲段崙子尾小段": {
+        "id": "0593",
+        "name": "獨鰲段崙子尾小段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "興寧段": {
+        "id": "0658",
+        "name": "興寧段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "湳港西段": {
+        "id": "0577",
+        "name": "湳港西段",
+        "officeCode": "ND",
+        "townCode": "18"
+    },
+    "湳墘段": {
+        "id": "0664",
+        "name": "湳墘段",
+        "officeCode": "ND",
+        "townCode": "18"
+    }
+}

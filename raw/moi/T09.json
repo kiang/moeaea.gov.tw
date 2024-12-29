@@ -1,0 +1,146 @@
+{
+    "三張廍段": {
+        "id": "0206",
+        "name": "三張廍段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "土庫段": {
+        "id": "0201",
+        "name": "土庫段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "大港洋段": {
+        "id": "0202",
+        "name": "大港洋段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "中崙段": {
+        "id": "0207",
+        "name": "中崙段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "中萬甲段": {
+        "id": "0277",
+        "name": "中萬甲段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "中和段": {
+        "id": "0278",
+        "name": "中和段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "永春段": {
+        "id": "0238",
+        "name": "永春段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "玉田段": {
+        "id": "0241",
+        "name": "玉田段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "光明段": {
+        "id": "1350",
+        "name": "光明段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "里港段": {
+        "id": "0200",
+        "name": "里港段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "里平段": {
+        "id": "0240",
+        "name": "里平段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "定國段": {
+        "id": "0248",
+        "name": "定國段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "武洛段": {
+        "id": "0203",
+        "name": "武洛段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "春林段": {
+        "id": "0237",
+        "name": "春林段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "茄苳腳段": {
+        "id": "1345",
+        "name": "茄苳腳段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "塔樓段": {
+        "id": "0204",
+        "name": "塔樓段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "新土庫段　": {
+        "id": "0276",
+        "name": "新土庫段　",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "載興段": {
+        "id": "1349",
+        "name": "載興段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "過江段": {
+        "id": "0239",
+        "name": "過江段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "潮北段": {
+        "id": "0242",
+        "name": "潮北段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "潮厝段": {
+        "id": "1353",
+        "name": "潮厝段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "磚仔地段": {
+        "id": "1344",
+        "name": "磚仔地段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "瀰力肚段": {
+        "id": "0205",
+        "name": "瀰力肚段",
+        "officeCode": "TB",
+        "townCode": "09"
+    },
+    "鐵店段": {
+        "id": "0236",
+        "name": "鐵店段",
+        "officeCode": "TB",
+        "townCode": "09"
+    }
+}

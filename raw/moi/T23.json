@@ -1,0 +1,140 @@
+{
+    "下四庄段": {
+        "id": "0749",
+        "name": "下四庄段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "水坑段": {
+        "id": "0692",
+        "name": "水坑段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "四重溪段": {
+        "id": "0614",
+        "name": "四重溪段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "田中央段": {
+        "id": "0621",
+        "name": "田中央段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "田中段": {
+        "id": "0677",
+        "name": "田中段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "石門埔段": {
+        "id": "0694",
+        "name": "石門埔段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "尖山段": {
+        "id": "0691",
+        "name": "尖山段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "車城段": {
+        "id": "0613",
+        "name": "車城段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "保力段保力小段": {
+        "id": "0615",
+        "name": "保力段保力小段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "保力段山腳小段": {
+        "id": "0616",
+        "name": "保力段山腳小段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "保力段竹社小段": {
+        "id": "0617",
+        "name": "保力段竹社小段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "保新段": {
+        "id": "0687",
+        "name": "保新段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "保安段": {
+        "id": "0741",
+        "name": "保安段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "南勢湖山段": {
+        "id": "0695",
+        "name": "南勢湖山段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "射寮段": {
+        "id": "0620",
+        "name": "射寮段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "射埔段": {
+        "id": "0725",
+        "name": "射埔段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "海口段": {
+        "id": "0618",
+        "name": "海口段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "海口山段": {
+        "id": "0693",
+        "name": "海口山段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "新街段": {
+        "id": "0619",
+        "name": "新街段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "新海口段": {
+        "id": "0678",
+        "name": "新海口段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "新車城段": {
+        "id": "0680",
+        "name": "新車城段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "興安段": {
+        "id": "0676",
+        "name": "興安段",
+        "officeCode": "TE",
+        "townCode": "23"
+    },
+    "興統段": {
+        "id": "0679",
+        "name": "興統段",
+        "officeCode": "TE",
+        "townCode": "23"
+    }
+}

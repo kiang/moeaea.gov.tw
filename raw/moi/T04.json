@@ -1,0 +1,344 @@
+{
+    "一心段": {
+        "id": "0738",
+        "name": "一心段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "三台山段": {
+        "id": "0689",
+        "name": "三台山段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "下水泉段": {
+        "id": "0734",
+        "name": "下水泉段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大平頂段上大平頂小段": {
+        "id": "0608",
+        "name": "大平頂段上大平頂小段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大平頂段下大平頂小段": {
+        "id": "0609",
+        "name": "大平頂段下大平頂小段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大樹房段": {
+        "id": "0612",
+        "name": "大樹房段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大埔段": {
+        "id": "0671",
+        "name": "大埔段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大潭段": {
+        "id": "0685",
+        "name": "大潭段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大光段": {
+        "id": "0728",
+        "name": "大光段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "大平長壽段": {
+        "id": "0752",
+        "name": "大平長壽段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "山腳段": {
+        "id": "0601",
+        "name": "山腳段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "山腳段一小段": {
+        "id": "0660",
+        "name": "山腳段一小段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "山海段": {
+        "id": "0745",
+        "name": "山海段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "五里亭段": {
+        "id": "0669",
+        "name": "五里亭段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "公順段": {
+        "id": "0673",
+        "name": "公順段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "水泉段": {
+        "id": "0606",
+        "name": "水泉段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "出火段": {
+        "id": "0690",
+        "name": "出火段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "四溝段": {
+        "id": "0739",
+        "name": "四溝段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "白石坑段": {
+        "id": "0688",
+        "name": "白石坑段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "白砂段": {
+        "id": "0737",
+        "name": "白砂段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "西門段": {
+        "id": "0674",
+        "name": "西門段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "東潭段": {
+        "id": "0750",
+        "name": "東潭段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "虎頭山段": {
+        "id": "0611",
+        "name": "虎頭山段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "城西段": {
+        "id": "0729",
+        "name": "城西段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "城南段": {
+        "id": "0730",
+        "name": "城南段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "城北段": {
+        "id": "0731",
+        "name": "城北段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "宣化段": {
+        "id": "0670",
+        "name": "宣化段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "後壁湖段": {
+        "id": "0727",
+        "name": "後壁湖段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "恆春段": {
+        "id": "0600",
+        "name": "恆春段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "恆東段": {
+        "id": "0681",
+        "name": "恆東段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "恆西段": {
+        "id": "0682",
+        "name": "恆西段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "恆南段": {
+        "id": "0683",
+        "name": "恆南段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "紅柴坑段": {
+        "id": "0743",
+        "name": "紅柴坑段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "茄湖段": {
+        "id": "0751",
+        "name": "茄湖段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "草埔段": {
+        "id": "0672",
+        "name": "草埔段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "頂水泉段": {
+        "id": "0736",
+        "name": "頂水泉段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "湖內段": {
+        "id": "0732",
+        "name": "湖內段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "新厝段": {
+        "id": "0667",
+        "name": "新厝段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "新僑勇段": {
+        "id": "0735",
+        "name": "新僑勇段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "新四溝段": {
+        "id": "0753",
+        "name": "新四溝段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "萬里桐段": {
+        "id": "0744",
+        "name": "萬里桐段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "僑勇段": {
+        "id": "0675",
+        "name": "僑勇段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "網紗段": {
+        "id": "0602",
+        "name": "網紗段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "鼻子頭段": {
+        "id": "0603",
+        "name": "鼻子頭段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "德和段": {
+        "id": "0733",
+        "name": "德和段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "墾丁段": {
+        "id": "0721",
+        "name": "墾丁段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "機場段": {
+        "id": "0668",
+        "name": "機場段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "貓子坑段": {
+        "id": "0607",
+        "name": "貓子坑段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "龍泉水段": {
+        "id": "0604",
+        "name": "龍泉水段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "龍鑾段": {
+        "id": "0740",
+        "name": "龍鑾段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "龍泉段": {
+        "id": "0742",
+        "name": "龍泉段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "龍水段": {
+        "id": "0746",
+        "name": "龍水段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "鵝鑾鼻段": {
+        "id": "0605",
+        "name": "鵝鑾鼻段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "鵝鑾鼻段一小段": {
+        "id": "0659",
+        "name": "鵝鑾鼻段一小段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "鵝鑾鼻段二小段": {
+        "id": "0661",
+        "name": "鵝鑾鼻段二小段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "鵝鑾段": {
+        "id": "0726",
+        "name": "鵝鑾段",
+        "officeCode": "TE",
+        "townCode": "04"
+    },
+    "槺榔林段": {
+        "id": "0610",
+        "name": "槺榔林段",
+        "officeCode": "TE",
+        "townCode": "04"
+    }
+}

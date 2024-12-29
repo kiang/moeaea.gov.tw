@@ -1,0 +1,158 @@
+{
+    "九芎段": {
+        "id": "1759",
+        "name": "九芎段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "中山段": {
+        "id": "1756",
+        "name": "中山段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "中原段": {
+        "id": "1757",
+        "name": "中原段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "正義段": {
+        "id": "1762",
+        "name": "正義段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "民族段": {
+        "id": "1743",
+        "name": "民族段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "民權段": {
+        "id": "1744",
+        "name": "民權段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "民生段": {
+        "id": "1745",
+        "name": "民生段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "民義段": {
+        "id": "1754",
+        "name": "民義段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "光華段": {
+        "id": "1734",
+        "name": "光華段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "光明段": {
+        "id": "1758",
+        "name": "光明段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "成功段": {
+        "id": "1752",
+        "name": "成功段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "和尚洲溪墘段": {
+        "id": "1700",
+        "name": "和尚洲溪墘段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "和尚洲中路段": {
+        "id": "1701",
+        "name": "和尚洲中路段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "和尚洲南港子段": {
+        "id": "1702",
+        "name": "和尚洲南港子段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "和尚洲水湳段": {
+        "id": "1703",
+        "name": "和尚洲水湳段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "和尚洲樓子厝段": {
+        "id": "1704",
+        "name": "和尚洲樓子厝段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "和平段": {
+        "id": "1753",
+        "name": "和平段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "信義段": {
+        "id": "1751",
+        "name": "信義段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "保新段": {
+        "id": "1746",
+        "name": "保新段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "保佑段": {
+        "id": "1747",
+        "name": "保佑段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "保和段": {
+        "id": "1748",
+        "name": "保和段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "重陽段": {
+        "id": "1735",
+        "name": "重陽段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "復興段": {
+        "id": "1742",
+        "name": "復興段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "集賢段": {
+        "id": "1749",
+        "name": "集賢段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "樹德段": {
+        "id": "1755",
+        "name": "樹德段",
+        "officeCode": "FG",
+        "townCode": "04"
+    },
+    "鷺江段": {
+        "id": "1750",
+        "name": "鷺江段",
+        "officeCode": "FG",
+        "townCode": "04"
+    }
+}

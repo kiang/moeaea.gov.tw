@@ -1,0 +1,626 @@
+{
+    "十字段": {
+        "id": "1262",
+        "name": "十字段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "十二佃段": {
+        "id": "1299",
+        "name": "十二佃段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "土城子段": {
+        "id": "1206",
+        "name": "土城子段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "土城段": {
+        "id": "1294",
+        "name": "土城段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "中洲段": {
+        "id": "1301",
+        "name": "中洲段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "公親寮段": {
+        "id": "1200",
+        "name": "公親寮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "公塭段": {
+        "id": "1267",
+        "name": "公塭段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "公學段": {
+        "id": "1273",
+        "name": "公學段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "公親段": {
+        "id": "1274",
+        "name": "公親段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "天馬段": {
+        "id": "1235",
+        "name": "天馬段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "北興段": {
+        "id": "1278",
+        "name": "北興段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "四草段": {
+        "id": "1249",
+        "name": "四草段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "外塭段": {
+        "id": "1209",
+        "name": "外塭段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "布袋段": {
+        "id": "1253",
+        "name": "布袋段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "本淵段": {
+        "id": "1242",
+        "name": "本淵段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安順段": {
+        "id": "1204",
+        "name": "安順段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安和段": {
+        "id": "1217",
+        "name": "安和段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安慶段": {
+        "id": "1218",
+        "name": "安慶段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安西段": {
+        "id": "1220",
+        "name": "安西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安東段": {
+        "id": "1221",
+        "name": "安東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安中段": {
+        "id": "1223",
+        "name": "安中段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安北段": {
+        "id": "1260",
+        "name": "安北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "安吉段": {
+        "id": "1275",
+        "name": "安吉段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "州北段": {
+        "id": "1210",
+        "name": "州北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "州南段": {
+        "id": "1211",
+        "name": "州南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "佃南段": {
+        "id": "1264",
+        "name": "佃南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "佃東段": {
+        "id": "1265",
+        "name": "佃東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "佃西段": {
+        "id": "1266",
+        "name": "佃西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "佃北段": {
+        "id": "1277",
+        "name": "佃北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "育安段": {
+        "id": "1298",
+        "name": "育安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和順寮段": {
+        "id": "1201",
+        "name": "和順寮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和農段": {
+        "id": "1236",
+        "name": "和農段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和工段": {
+        "id": "1238",
+        "name": "和工段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和業段": {
+        "id": "1239",
+        "name": "和業段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和成段": {
+        "id": "1240",
+        "name": "和成段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和館段": {
+        "id": "1297",
+        "name": "和館段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "和順段": {
+        "id": "1304",
+        "name": "和順段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "幸福段": {
+        "id": "1286",
+        "name": "幸福段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "怡安段": {
+        "id": "1214",
+        "name": "怡安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "怡北段": {
+        "id": "1258",
+        "name": "怡北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "怡中段": {
+        "id": "1259",
+        "name": "怡中段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "東和段": {
+        "id": "1237",
+        "name": "東和段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "長和段": {
+        "id": "1215",
+        "name": "長和段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "長安段": {
+        "id": "1254",
+        "name": "長安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "長溪段": {
+        "id": "1257",
+        "name": "長溪段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "青草崙段": {
+        "id": "1205",
+        "name": "青草崙段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "青草段": {
+        "id": "1290",
+        "name": "青草段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "青砂段": {
+        "id": "1293",
+        "name": "青砂段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "保安宮段": {
+        "id": "1303",
+        "name": "保安宮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "南興段": {
+        "id": "1268",
+        "name": "南興段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "城中段": {
+        "id": "1251",
+        "name": "城中段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "城東段": {
+        "id": "1281",
+        "name": "城東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "城西段": {
+        "id": "1292",
+        "name": "城西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "城南段": {
+        "id": "1295",
+        "name": "城南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "砂崙段": {
+        "id": "1282",
+        "name": "砂崙段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "科工段": {
+        "id": "1284",
+        "name": "科工段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "原佃段": {
+        "id": "1256",
+        "name": "原佃段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "原西段": {
+        "id": "1263",
+        "name": "原西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海尾寮段": {
+        "id": "1208",
+        "name": "海尾寮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海東段": {
+        "id": "1225",
+        "name": "海東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海北段": {
+        "id": "1229",
+        "name": "海北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海中段": {
+        "id": "1230",
+        "name": "海中段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海前段": {
+        "id": "1231",
+        "name": "海前段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海西段": {
+        "id": "1234",
+        "name": "海西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海南段": {
+        "id": "1250",
+        "name": "海南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "海佃段": {
+        "id": "1285",
+        "name": "海佃段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "神榕段": {
+        "id": "1276",
+        "name": "神榕段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "草湖段": {
+        "id": "1224",
+        "name": "草湖段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "國聖段": {
+        "id": "1280",
+        "name": "國聖段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "國安段": {
+        "id": "1287",
+        "name": "國安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "淵中段": {
+        "id": "1233",
+        "name": "淵中段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "淵東段": {
+        "id": "1243",
+        "name": "淵東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "淵西段": {
+        "id": "1244",
+        "name": "淵西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "淵南段": {
+        "id": "1245",
+        "name": "淵南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "淵北段": {
+        "id": "1246",
+        "name": "淵北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "理想段": {
+        "id": "1226",
+        "name": "理想段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "頂安段": {
+        "id": "1219",
+        "name": "頂安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "鹿北段": {
+        "id": "1296",
+        "name": "鹿北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "朝皇段": {
+        "id": "1232",
+        "name": "朝皇段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "港西段": {
+        "id": "1291",
+        "name": "港西段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "媽祖宮段": {
+        "id": "1203",
+        "name": "媽祖宮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "媽宮段": {
+        "id": "1289",
+        "name": "媽宮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "慈安段": {
+        "id": "1300",
+        "name": "慈安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "新順段": {
+        "id": "1213",
+        "name": "新順段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "新淵段": {
+        "id": "1241",
+        "name": "新淵段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "溪心寮段": {
+        "id": "1207",
+        "name": "溪心寮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "溪頂段": {
+        "id": "1222",
+        "name": "溪頂段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "溪墘段": {
+        "id": "1227",
+        "name": "溪墘段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "溪東段": {
+        "id": "1228",
+        "name": "溪東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "溪心段": {
+        "id": "1261",
+        "name": "溪心段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "溪南段": {
+        "id": "1269",
+        "name": "溪南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "聖母段": {
+        "id": "1283",
+        "name": "聖母段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "農場段": {
+        "id": "1247",
+        "name": "農場段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "福國段": {
+        "id": "1216",
+        "name": "福國段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "學甲寮段": {
+        "id": "1202",
+        "name": "學甲寮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "學東段": {
+        "id": "1270",
+        "name": "學東段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "學中段": {
+        "id": "1271",
+        "name": "學中段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "學南段": {
+        "id": "1272",
+        "name": "學南段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "學北段": {
+        "id": "1279",
+        "name": "學北段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "總安段": {
+        "id": "1212",
+        "name": "總安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "總頭段": {
+        "id": "1255",
+        "name": "總頭段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "鎮安段": {
+        "id": "1252",
+        "name": "鎮安段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "顯宮段": {
+        "id": "1288",
+        "name": "顯宮段",
+        "officeCode": "DB",
+        "townCode": "06"
+    },
+    "鹽田段": {
+        "id": "1248",
+        "name": "鹽田段",
+        "officeCode": "DB",
+        "townCode": "06"
+    }
+}

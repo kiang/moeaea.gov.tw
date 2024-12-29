@@ -1,0 +1,242 @@
+{
+    "主商段": {
+        "id": "0004",
+        "name": "主商段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "主權段": {
+        "id": "0006",
+        "name": "主權段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "功學段": {
+        "id": "0111",
+        "name": "功學段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "北濱段": {
+        "id": "0010",
+        "name": "北濱段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "四維段": {
+        "id": "0110",
+        "name": "四維段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民生段": {
+        "id": "0007",
+        "name": "民生段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民享段": {
+        "id": "0016",
+        "name": "民享段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民意段": {
+        "id": "0018",
+        "name": "民意段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民勤段": {
+        "id": "0019",
+        "name": "民勤段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民心段": {
+        "id": "0020",
+        "name": "民心段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民德段": {
+        "id": "0022",
+        "name": "民德段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民孝段": {
+        "id": "0095",
+        "name": "民孝段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民生段民生小段": {
+        "id": "0157",
+        "name": "民生段民生小段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "民意段民意小段": {
+        "id": "0494",
+        "name": "民意段民意小段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "石壁段": {
+        "id": "0113",
+        "name": "石壁段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "自強段": {
+        "id": "0023",
+        "name": "自強段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "明義段": {
+        "id": "0015",
+        "name": "明義段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "林森段": {
+        "id": "0011",
+        "name": "林森段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "花蓮港段": {
+        "id": "0083",
+        "name": "花蓮港段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "美港段": {
+        "id": "0014",
+        "name": "美港段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "國風段": {
+        "id": "0012",
+        "name": "國風段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "國光段": {
+        "id": "0082",
+        "name": "國光段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "國民段": {
+        "id": "0097",
+        "name": "國民段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "國股段": {
+        "id": "0098",
+        "name": "國股段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "國強段": {
+        "id": "0099",
+        "name": "國強段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "國興段": {
+        "id": "0100",
+        "name": "國興段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "莊敬段": {
+        "id": "0024",
+        "name": "莊敬段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "富國段": {
+        "id": "0017",
+        "name": "富國段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "富國段富國一小段": {
+        "id": "0505",
+        "name": "富國段富國一小段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "慈濟段": {
+        "id": "0101",
+        "name": "慈濟段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "慈雲段": {
+        "id": "0112",
+        "name": "慈雲段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "慈惠段一小段": {
+        "id": "0435",
+        "name": "慈惠段一小段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "裕民段": {
+        "id": "0025",
+        "name": "裕民段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "嘉禾段": {
+        "id": "0003",
+        "name": "嘉禾段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "碧雲段": {
+        "id": "0081",
+        "name": "碧雲段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "福安段": {
+        "id": "0005",
+        "name": "福安段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "福祥段": {
+        "id": "0008",
+        "name": "福祥段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "福德段": {
+        "id": "0009",
+        "name": "福德段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "德安段": {
+        "id": "0013",
+        "name": "德安段",
+        "officeCode": "UA",
+        "townCode": "01"
+    },
+    "樹人段": {
+        "id": "0021",
+        "name": "樹人段",
+        "officeCode": "UA",
+        "townCode": "01"
+    }
+}

@@ -1,0 +1,278 @@
+{
+    "二張犁段": {
+        "id": "0458",
+        "name": "二張犁段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "十班坑段": {
+        "id": "0475",
+        "name": "十班坑段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "下溪洲段": {
+        "id": "0560",
+        "name": "下溪洲段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "下浮尾段": {
+        "id": "0579",
+        "name": "下浮尾段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "大山腳段": {
+        "id": "0465",
+        "name": "大山腳段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "大山段": {
+        "id": "0578",
+        "name": "大山段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "公司寮段公司寮小段": {
+        "id": "0468",
+        "name": "公司寮段公司寮小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "公司寮段南社小段": {
+        "id": "0469",
+        "name": "公司寮段南社小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "水尾子段": {
+        "id": "0467",
+        "name": "水尾子段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "外埔段": {
+        "id": "0466",
+        "name": "外埔段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "光華段": {
+        "id": "0536",
+        "name": "光華段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "合興段": {
+        "id": "0530",
+        "name": "合興段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "秀水段": {
+        "id": "0539",
+        "name": "秀水段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "後龍段後龍小段": {
+        "id": "0454",
+        "name": "後龍段後龍小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "後龍段大庄小段": {
+        "id": "0456",
+        "name": "後龍段大庄小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "後龍段柳樹灣小段": {
+        "id": "0457",
+        "name": "後龍段柳樹灣小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "後龍底段": {
+        "id": "0476",
+        "name": "後龍底段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "砂崙湖段": {
+        "id": "0540",
+        "name": "砂崙湖段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "苦苓腳段": {
+        "id": "0464",
+        "name": "苦苓腳段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "烏眉段": {
+        "id": "0470",
+        "name": "烏眉段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "崎頂段": {
+        "id": "0474",
+        "name": "崎頂段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "頂東段": {
+        "id": "0521",
+        "name": "頂東段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "新港段社腳小段": {
+        "id": "0459",
+        "name": "新港段社腳小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "新港段東西小段": {
+        "id": "0460",
+        "name": "新港段東西小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "新港段後壁厝小段": {
+        "id": "0461",
+        "name": "新港段後壁厝小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "新港段校寄埧小段": {
+        "id": "0462",
+        "name": "新港段校寄埧小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "新港段埔頂小段": {
+        "id": "0463",
+        "name": "新港段埔頂小段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "新興段": {
+        "id": "0522",
+        "name": "新興段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "溪洲段": {
+        "id": "0543",
+        "name": "溪洲段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "過港段": {
+        "id": "0473",
+        "name": "過港段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "維真段": {
+        "id": "0549",
+        "name": "維真段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "頭湖段": {
+        "id": "0471",
+        "name": "頭湖段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍東段": {
+        "id": "0497",
+        "name": "龍東段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍西段": {
+        "id": "0498",
+        "name": "龍西段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍南段": {
+        "id": "0499",
+        "name": "龍南段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍北段": {
+        "id": "0500",
+        "name": "龍北段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍港段": {
+        "id": "0527",
+        "name": "龍港段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍社段": {
+        "id": "0528",
+        "name": "龍社段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍坑段": {
+        "id": "0529",
+        "name": "龍坑段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍頂段": {
+        "id": "0533",
+        "name": "龍頂段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍椅段": {
+        "id": "0534",
+        "name": "龍椅段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍富段": {
+        "id": "0535",
+        "name": "龍富段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍成段": {
+        "id": "0550",
+        "name": "龍成段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍江段": {
+        "id": "0557",
+        "name": "龍江段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "龍城段": {
+        "id": "0561",
+        "name": "龍城段",
+        "officeCode": "KD",
+        "townCode": "12"
+    },
+    "灣瓦段": {
+        "id": "0472",
+        "name": "灣瓦段",
+        "officeCode": "KD",
+        "townCode": "12"
+    }
+}

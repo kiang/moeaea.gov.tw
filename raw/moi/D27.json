@@ -1,0 +1,260 @@
+{
+    "大成段": {
+        "id": "6820",
+        "name": "大成段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "大同段": {
+        "id": "6824",
+        "name": "大同段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "小新營段": {
+        "id": "6724",
+        "name": "小新營段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "什美段": {
+        "id": "6827",
+        "name": "什美段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "六分寮段": {
+        "id": "6726",
+        "name": "六分寮段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "六分段": {
+        "id": "6841",
+        "name": "六分段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "文正段": {
+        "id": "6817",
+        "name": "文正段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "北子店段": {
+        "id": "6718",
+        "name": "北子店段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "北子店段一小段": {
+        "id": "6719",
+        "name": "北子店段一小段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "北子店段二小段": {
+        "id": "6720",
+        "name": "北子店段二小段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "北小新段": {
+        "id": "6828",
+        "name": "北小新段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "光華段": {
+        "id": "6818",
+        "name": "光華段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "光文段": {
+        "id": "6819",
+        "name": "光文段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "圳西段": {
+        "id": "6821",
+        "name": "圳西段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "成功段": {
+        "id": "6826",
+        "name": "成功段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "坐駕段": {
+        "id": "6725",
+        "name": "坐駕段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "東勢寮段": {
+        "id": "6715",
+        "name": "東勢寮段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "東勢寮段一小段": {
+        "id": "6716",
+        "name": "東勢寮段一小段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "東勢寮段二小段": {
+        "id": "6717",
+        "name": "東勢寮段二小段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "南小新段": {
+        "id": "6829",
+        "name": "南小新段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "胡厝寮段": {
+        "id": "6727",
+        "name": "胡厝寮段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "胡厝段": {
+        "id": "6830",
+        "name": "胡厝段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "茄拔段": {
+        "id": "6721",
+        "name": "茄拔段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "茄拔段一小段": {
+        "id": "6722",
+        "name": "茄拔段一小段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "茄拔段二小段": {
+        "id": "6723",
+        "name": "茄拔段二小段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "曾文段": {
+        "id": "6714",
+        "name": "曾文段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善化段": {
+        "id": "6713",
+        "name": "善化段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善成段": {
+        "id": "6763",
+        "name": "善成段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善駕段": {
+        "id": "6764",
+        "name": "善駕段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善中段": {
+        "id": "6765",
+        "name": "善中段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善文段": {
+        "id": "6766",
+        "name": "善文段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善昌段": {
+        "id": "6767",
+        "name": "善昌段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善南段": {
+        "id": "6768",
+        "name": "善南段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善西段": {
+        "id": "6769",
+        "name": "善西段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善進段": {
+        "id": "6790",
+        "name": "善進段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善科段": {
+        "id": "6796",
+        "name": "善科段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善晶段": {
+        "id": "6800",
+        "name": "善晶段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善新段": {
+        "id": "6802",
+        "name": "善新段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "善特段": {
+        "id": "6844",
+        "name": "善特段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "溪美段": {
+        "id": "6842",
+        "name": "溪美段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "德興段": {
+        "id": "6823",
+        "name": "德興段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "慶安段": {
+        "id": "6816",
+        "name": "慶安段",
+        "officeCode": "DH",
+        "townCode": "27"
+    },
+    "灣裡段": {
+        "id": "6825",
+        "name": "灣裡段",
+        "officeCode": "DH",
+        "townCode": "27"
+    }
+}

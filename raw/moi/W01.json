@@ -1,0 +1,314 @@
+{
+    "下新厝段": {
+        "id": "0145",
+        "name": "下新厝段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "士校段": {
+        "id": "0137",
+        "name": "士校段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "小徑段": {
+        "id": "0132",
+        "name": "小徑段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "山外段": {
+        "id": "0266",
+        "name": "山外段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "中四劃段": {
+        "id": "0004",
+        "name": "中四劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "中五劃段": {
+        "id": "0005",
+        "name": "中五劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "中六劃段": {
+        "id": "0006",
+        "name": "中六劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "中七劃段": {
+        "id": "0007",
+        "name": "中七劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "中八劃段": {
+        "id": "0008",
+        "name": "中八劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "太湖劃段": {
+        "id": "0010",
+        "name": "太湖劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "太武段": {
+        "id": "0135",
+        "name": "太武段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "太湖劃測段": {
+        "id": "0247",
+        "name": "太湖劃測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "北五劃段": {
+        "id": "0009",
+        "name": "北五劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "北碇段": {
+        "id": "0258",
+        "name": "北碇段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "市港段": {
+        "id": "0275",
+        "name": "市港段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "石牌段": {
+        "id": "0109",
+        "name": "石牌段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "后壟段": {
+        "id": "0144",
+        "name": "后壟段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "后壟測段": {
+        "id": "0326",
+        "name": "后壟測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "多年段": {
+        "id": "0139",
+        "name": "多年段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "西埔段": {
+        "id": "0211",
+        "name": "西埔段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "尚義段": {
+        "id": "0127",
+        "name": "尚義段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "東碇段": {
+        "id": "0257",
+        "name": "東碇段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "南雄段": {
+        "id": "0136",
+        "name": "南雄段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "夏興段": {
+        "id": "0133",
+        "name": "夏興段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "峰上段": {
+        "id": "0140",
+        "name": "峰上段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "料羅段": {
+        "id": "0141",
+        "name": "料羅段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "料羅村測段": {
+        "id": "0324",
+        "name": "料羅村測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "庵邊段": {
+        "id": "0142",
+        "name": "庵邊段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "庵邊測段": {
+        "id": "0325",
+        "name": "庵邊測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "陳坑段": {
+        "id": "0128",
+        "name": "陳坑段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "陳坑測段": {
+        "id": "0327",
+        "name": "陳坑測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖段": {
+        "id": "0001",
+        "name": "湖段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖新市段": {
+        "id": "0002",
+        "name": "湖新市段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖尚劃段": {
+        "id": "0003",
+        "name": "湖尚劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖后劃段": {
+        "id": "0013",
+        "name": "湖后劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖高劃段": {
+        "id": "0014",
+        "name": "湖高劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖東劃段": {
+        "id": "0015",
+        "name": "湖東劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖前段": {
+        "id": "0130",
+        "name": "湖前段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "湖信測段": {
+        "id": "0323",
+        "name": "湖信測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "塔后段": {
+        "id": "0134",
+        "name": "塔后段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "新頭段": {
+        "id": "0131",
+        "name": "新頭段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "新塘段": {
+        "id": "0143",
+        "name": "新塘段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "新市段": {
+        "id": "0265",
+        "name": "新市段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "農試所段": {
+        "id": "0138",
+        "name": "農試所段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "漁村段": {
+        "id": "0129",
+        "name": "漁村段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "漁村測段": {
+        "id": "0328",
+        "name": "漁村測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "瓊林段": {
+        "id": "0126",
+        "name": "瓊林段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "瓊海段": {
+        "id": "0212",
+        "name": "瓊海段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "瓊義段": {
+        "id": "0301",
+        "name": "瓊義段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "瓊林村測段": {
+        "id": "0322",
+        "name": "瓊林村測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "羅劃段": {
+        "id": "0012",
+        "name": "羅劃段",
+        "officeCode": "WA",
+        "townCode": "01"
+    },
+    "羅劃測段": {
+        "id": "0248",
+        "name": "羅劃測段",
+        "officeCode": "WA",
+        "townCode": "01"
+    }
+}

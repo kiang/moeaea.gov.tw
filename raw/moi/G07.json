@@ -1,0 +1,350 @@
+{
+    "三興段": {
+        "id": "0241",
+        "name": "三興段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "三結段": {
+        "id": "0242",
+        "name": "三結段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "三結一段": {
+        "id": "0867",
+        "name": "三結一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "下三結段": {
+        "id": "0025",
+        "name": "下三結段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "下清水段寶斗厝小段": {
+        "id": "0043",
+        "name": "下清水段寶斗厝小段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "下清水段埤子尾小段": {
+        "id": "0044",
+        "name": "下清水段埤子尾小段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大義段": {
+        "id": "0048",
+        "name": "大義段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大吉段": {
+        "id": "0050",
+        "name": "大吉段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大眾段": {
+        "id": "0055",
+        "name": "大眾段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大吉一段": {
+        "id": "0846",
+        "name": "大吉一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大吉二段": {
+        "id": "0847",
+        "name": "大吉二段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大吉三段": {
+        "id": "0863",
+        "name": "大吉三段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "大眾一段": {
+        "id": "0917",
+        "name": "大眾一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "中福段": {
+        "id": "0065",
+        "name": "中福段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "中里段": {
+        "id": "0236",
+        "name": "中里段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "五十二甲段": {
+        "id": "0036",
+        "name": "五十二甲段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "五結段": {
+        "id": "0064",
+        "name": "五結段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "文祥段": {
+        "id": "0237",
+        "name": "文祥段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "加新段": {
+        "id": "0791",
+        "name": "加新段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "成興段": {
+        "id": "0046",
+        "name": "成興段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "成功段": {
+        "id": "0190",
+        "name": "成功段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "百松段": {
+        "id": "0059",
+        "name": "百松段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "百福段": {
+        "id": "0239",
+        "name": "百福段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "利澤簡段利澤簡小段": {
+        "id": "0041",
+        "name": "利澤簡段利澤簡小段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "利澤簡段下福小段": {
+        "id": "0042",
+        "name": "利澤簡段下福小段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "利工段": {
+        "id": "0766",
+        "name": "利工段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "利成段": {
+        "id": "0767",
+        "name": "利成段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "利福段": {
+        "id": "0768",
+        "name": "利福段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "孝威段": {
+        "id": "0054",
+        "name": "孝威段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "孝威一段": {
+        "id": "0913",
+        "name": "孝威一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "孝威二段": {
+        "id": "0914",
+        "name": "孝威二段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "協和段": {
+        "id": "0057",
+        "name": "協和段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "協富段": {
+        "id": "0058",
+        "name": "協富段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "協孝段": {
+        "id": "0864",
+        "name": "協孝段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "協和一段": {
+        "id": "0915",
+        "name": "協和一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "協孝一段": {
+        "id": "0916",
+        "name": "協孝一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "和平段": {
+        "id": "0240",
+        "name": "和平段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "季寶段": {
+        "id": "0769",
+        "name": "季寶段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "季新段": {
+        "id": "0796",
+        "name": "季新段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "保昌段": {
+        "id": "0868",
+        "name": "保昌段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "國民段": {
+        "id": "0051",
+        "name": "國民段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "國民一段": {
+        "id": "0844",
+        "name": "國民一段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "國民二段": {
+        "id": "0845",
+        "name": "國民二段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "頂清水段清水小段": {
+        "id": "0027",
+        "name": "頂清水段清水小段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "頂清水段加禮宛小段": {
+        "id": "0031",
+        "name": "頂清水段加禮宛小段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "隆昌段": {
+        "id": "0238",
+        "name": "隆昌段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "新水段": {
+        "id": "0047",
+        "name": "新水段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "新鐤段": {
+        "id": "0056",
+        "name": "新鐤段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "新甲段": {
+        "id": "0792",
+        "name": "新甲段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "新協和段": {
+        "id": "0865",
+        "name": "新協和段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "新協富段": {
+        "id": "0892",
+        "name": "新協富段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "福興段": {
+        "id": "0866",
+        "name": "福興段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "學進段": {
+        "id": "0243",
+        "name": "學進段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "學新段": {
+        "id": "0244",
+        "name": "學新段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "錦草段": {
+        "id": "0053",
+        "name": "錦草段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "錦眾段": {
+        "id": "0795",
+        "name": "錦眾段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "鎮安段": {
+        "id": "0245",
+        "name": "鎮安段",
+        "officeCode": "GA",
+        "townCode": "07"
+    },
+    "鐤橄社段": {
+        "id": "0039",
+        "name": "鐤橄社段",
+        "officeCode": "GA",
+        "townCode": "07"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "力社段": {
+        "id": "0521",
+        "name": "力社段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "洲子段": {
+        "id": "0520",
+        "name": "洲子段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "崁頂段": {
+        "id": "0517",
+        "name": "崁頂段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "崁頂段一小段": {
+        "id": "0518",
+        "name": "崁頂段一小段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂忠段": {
+        "id": "0587",
+        "name": "頂忠段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂孝段": {
+        "id": "0588",
+        "name": "頂孝段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂仁段": {
+        "id": "0589",
+        "name": "頂仁段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂愛段": {
+        "id": "0590",
+        "name": "頂愛段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂信段": {
+        "id": "0591",
+        "name": "頂信段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂義段": {
+        "id": "0592",
+        "name": "頂義段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂和段": {
+        "id": "0593",
+        "name": "頂和段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "頂安段": {
+        "id": "0594",
+        "name": "頂安段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "港東段": {
+        "id": "1032",
+        "name": "港東段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "越溪段": {
+        "id": "1033",
+        "name": "越溪段",
+        "officeCode": "TD",
+        "townCode": "18"
+    },
+    "過溪子段": {
+        "id": "0519",
+        "name": "過溪子段",
+        "officeCode": "TD",
+        "townCode": "18"
+    }
+}

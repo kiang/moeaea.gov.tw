@@ -1,0 +1,170 @@
+{
+    "三民段": {
+        "id": "5210",
+        "name": "三民段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "三條圳段": {
+        "id": "5225",
+        "name": "三條圳段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "下寮段": {
+        "id": "5217",
+        "name": "下寮段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "大庄段大庄小段": {
+        "id": "5205",
+        "name": "大庄段大庄小段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "大庄段火燒橋小段": {
+        "id": "5206",
+        "name": "大庄段火燒橋小段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "中港段": {
+        "id": "5201",
+        "name": "中港段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "仁愛段": {
+        "id": "5207",
+        "name": "仁愛段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "文化段": {
+        "id": "5221",
+        "name": "文化段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "市鎮南段": {
+        "id": "5223",
+        "name": "市鎮南段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "民生段": {
+        "id": "5202",
+        "name": "民生段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "民族段": {
+        "id": "5211",
+        "name": "民族段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "民權段": {
+        "id": "5212",
+        "name": "民權段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "永安段": {
+        "id": "5214",
+        "name": "永安段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "安仁段": {
+        "id": "5220",
+        "name": "安仁段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "西建段": {
+        "id": "5218",
+        "name": "西建段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "和平段": {
+        "id": "5209",
+        "name": "和平段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "忠孝段": {
+        "id": "5203",
+        "name": "忠孝段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "東建段": {
+        "id": "5219",
+        "name": "東建段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "信義段": {
+        "id": "5208",
+        "name": "信義段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "南簡段": {
+        "id": "5204",
+        "name": "南簡段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "梧棲段": {
+        "id": "5200",
+        "name": "梧棲段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "頂寮段": {
+        "id": "5216",
+        "name": "頂寮段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "港口段": {
+        "id": "5215",
+        "name": "港口段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "港加段": {
+        "id": "5222",
+        "name": "港加段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "興農段": {
+        "id": "5224",
+        "name": "興農段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "鴨母寮段鴨母寮小段": {
+        "id": "5213",
+        "name": "鴨母寮段鴨母寮小段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "庄北段": {
+        "id": "5226",
+        "name": "庄北段",
+        "officeCode": "BF",
+        "townCode": "14"
+    },
+    "庄南段": {
+        "id": "5227",
+        "name": "庄南段",
+        "officeCode": "BF",
+        "townCode": "14"
+    }
+}

@@ -1,0 +1,332 @@
+{
+    "力行段": {
+        "id": "0165",
+        "name": "力行段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "大庭段": {
+        "id": "0015",
+        "name": "大庭段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "大觀段": {
+        "id": "0164",
+        "name": "大觀段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "大同段": {
+        "id": "0167",
+        "name": "大同段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "大豐段": {
+        "id": "0217",
+        "name": "大豐段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "中山段": {
+        "id": "0009",
+        "name": "中山段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "中正段": {
+        "id": "0170",
+        "name": "中正段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "中興段": {
+        "id": "0171",
+        "name": "中興段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "五權段": {
+        "id": "0198",
+        "name": "五權段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "仁愛段": {
+        "id": "0002",
+        "name": "仁愛段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "介壽段": {
+        "id": "0010",
+        "name": "介壽段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "公館段": {
+        "id": "0017",
+        "name": "公館段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "文化段": {
+        "id": "0016",
+        "name": "文化段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "民族段": {
+        "id": "0007",
+        "name": "民族段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "民權段": {
+        "id": "0008",
+        "name": "民權段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "民生段": {
+        "id": "0169",
+        "name": "民生段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "永安段": {
+        "id": "0174",
+        "name": "永安段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "永翠段": {
+        "id": "0220",
+        "name": "永翠段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "光仁段": {
+        "id": "0013",
+        "name": "光仁段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "光華段": {
+        "id": "0014",
+        "name": "光華段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "光環段": {
+        "id": "0216",
+        "name": "光環段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "成功段": {
+        "id": "0172",
+        "name": "成功段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段第一崁小段": {
+        "id": "0023",
+        "name": "江子翠段第一崁小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段第二崁小段": {
+        "id": "0024",
+        "name": "江子翠段第二崁小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段第三崁小段": {
+        "id": "0025",
+        "name": "江子翠段第三崁小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段第四崁小段": {
+        "id": "0026",
+        "name": "江子翠段第四崁小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段新埔小段": {
+        "id": "0027",
+        "name": "江子翠段新埔小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段溪頭小段": {
+        "id": "0028",
+        "name": "江子翠段溪頭小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段大埔尾小段": {
+        "id": "0029",
+        "name": "江子翠段大埔尾小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江子翠段中洲小段": {
+        "id": "0030",
+        "name": "江子翠段中洲小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "江翠段": {
+        "id": "0221",
+        "name": "江翠段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "亞東段": {
+        "id": "0161",
+        "name": "亞東段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "和平段": {
+        "id": "0004",
+        "name": "和平段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "幸福段": {
+        "id": "0018",
+        "name": "幸福段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "府中段": {
+        "id": "0006",
+        "name": "府中段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "忠孝段": {
+        "id": "0001",
+        "name": "忠孝段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "板翠段": {
+        "id": "0222",
+        "name": "板翠段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "信義段": {
+        "id": "0003",
+        "name": "信義段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "重慶段": {
+        "id": "0005",
+        "name": "重慶段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "埔墘段": {
+        "id": "0021",
+        "name": "埔墘段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "振興段": {
+        "id": "0173",
+        "name": "振興段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "海山段": {
+        "id": "0011",
+        "name": "海山段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "國光段": {
+        "id": "0012",
+        "name": "國光段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "港子嘴段": {
+        "id": "0022",
+        "name": "港子嘴段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "新興段": {
+        "id": "0160",
+        "name": "新興段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "新雅段": {
+        "id": "0162",
+        "name": "新雅段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "新板段一小段": {
+        "id": "0176",
+        "name": "新板段一小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "新板段二小段": {
+        "id": "0177",
+        "name": "新板段二小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "新板段三小段": {
+        "id": "0188",
+        "name": "新板段三小段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "新都段": {
+        "id": "0218",
+        "name": "新都段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "僑中段": {
+        "id": "0163",
+        "name": "僑中段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "福安段": {
+        "id": "0166",
+        "name": "福安段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "篤行段": {
+        "id": "0168",
+        "name": "篤行段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "龍安段": {
+        "id": "0175",
+        "name": "龍安段",
+        "officeCode": "FA",
+        "townCode": "14"
+    },
+    "環翠段": {
+        "id": "0223",
+        "name": "環翠段",
+        "officeCode": "FA",
+        "townCode": "14"
+    }
+}

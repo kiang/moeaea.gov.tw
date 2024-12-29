@@ -1,0 +1,356 @@
+{
+    "七老爺段": {
+        "id": "1409",
+        "name": "七老爺段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "七老爺段一甲小段": {
+        "id": "1410",
+        "name": "七老爺段一甲小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "二甲段": {
+        "id": "1434",
+        "name": "二甲段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "三甲段": {
+        "id": "1435",
+        "name": "三甲段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "大貝湖段": {
+        "id": "1443",
+        "name": "大貝湖段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "中崙段": {
+        "id": "1429",
+        "name": "中崙段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "五甲段": {
+        "id": "1413",
+        "name": "五甲段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "五甲段牛寮小段": {
+        "id": "1416",
+        "name": "五甲段牛寮小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "文山段": {
+        "id": "1425",
+        "name": "文山段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "文英段": {
+        "id": "1427",
+        "name": "文英段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "文雅段": {
+        "id": "1450",
+        "name": "文雅段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "文福段": {
+        "id": "1457",
+        "name": "文福段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "牛潮埔段": {
+        "id": "1420",
+        "name": "牛潮埔段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "北門段": {
+        "id": "1428",
+        "name": "北門段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "四甲段": {
+        "id": "1436",
+        "name": "四甲段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "正義段": {
+        "id": "1447",
+        "name": "正義段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "田中央段": {
+        "id": "1438",
+        "name": "田中央段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "竹子腳段": {
+        "id": "1404",
+        "name": "竹子腳段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "赤山段": {
+        "id": "1419",
+        "name": "赤山段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "明頂段": {
+        "id": "1437",
+        "name": "明頂段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "青年段": {
+        "id": "1454",
+        "name": "青年段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "保泰段": {
+        "id": "1460",
+        "name": "保泰段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "保成段": {
+        "id": "1462",
+        "name": "保成段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "南華段": {
+        "id": "1448",
+        "name": "南華段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "建軍段": {
+        "id": "1430",
+        "name": "建軍段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "埤頂段": {
+        "id": "1421",
+        "name": "埤頂段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "埤頂段一小段": {
+        "id": "1422",
+        "name": "埤頂段一小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "埤頂段二小段": {
+        "id": "1423",
+        "name": "埤頂段二小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "埤頂段三小段": {
+        "id": "1424",
+        "name": "埤頂段三小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "曹新段": {
+        "id": "1464",
+        "name": "曹新段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "頂庄段": {
+        "id": "1432",
+        "name": "頂庄段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "頂新段": {
+        "id": "1452",
+        "name": "頂新段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "頂宏段": {
+        "id": "1459",
+        "name": "頂宏段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "勝利段": {
+        "id": "1463",
+        "name": "勝利段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "華英段": {
+        "id": "1444",
+        "name": "華英段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "華鳳段": {
+        "id": "1446",
+        "name": "華鳳段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "華泰段": {
+        "id": "1451",
+        "name": "華泰段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "園尾段": {
+        "id": "1439",
+        "name": "園尾段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "新庄子段": {
+        "id": "1405",
+        "name": "新庄子段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "新庄子段一小段": {
+        "id": "1406",
+        "name": "新庄子段一小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "新甲段": {
+        "id": "1412",
+        "name": "新甲段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "瑞興段": {
+        "id": "1456",
+        "name": "瑞興段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "道爺廍段": {
+        "id": "1407",
+        "name": "道爺廍段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "道爺廍段下菜園小段": {
+        "id": "1408",
+        "name": "道爺廍段下菜園小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "過埤子段": {
+        "id": "1418",
+        "name": "過埤子段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "過埤段": {
+        "id": "1431",
+        "name": "過埤段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "過勇段": {
+        "id": "1445",
+        "name": "過勇段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "福誠段": {
+        "id": "1458",
+        "name": "福誠段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳山段縣口小段": {
+        "id": "1400",
+        "name": "鳳山段縣口小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳山段大老衙小段": {
+        "id": "1401",
+        "name": "鳳山段大老衙小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳山段火房口小段": {
+        "id": "1402",
+        "name": "鳳山段火房口小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳山段草店尾小段": {
+        "id": "1403",
+        "name": "鳳山段草店尾小段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳甲段": {
+        "id": "1433",
+        "name": "鳳甲段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳頂段": {
+        "id": "1441",
+        "name": "鳳頂段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳翔段": {
+        "id": "1449",
+        "name": "鳳翔段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳西段": {
+        "id": "1455",
+        "name": "鳳西段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "鳳青段": {
+        "id": "1461",
+        "name": "鳳青段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "灣子頭段": {
+        "id": "1417",
+        "name": "灣子頭段",
+        "officeCode": "EG",
+        "townCode": "12"
+    },
+    "灣頭段": {
+        "id": "1440",
+        "name": "灣頭段",
+        "officeCode": "EG",
+        "townCode": "12"
+    }
+}

@@ -1,0 +1,530 @@
+{
+    "土庫段一小段": {
+        "id": "0339",
+        "name": "土庫段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "土庫段二小段": {
+        "id": "0340",
+        "name": "土庫段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "土庫段三小段": {
+        "id": "0341",
+        "name": "土庫段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "土庫段四小段": {
+        "id": "0342",
+        "name": "土庫段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "大昌段": {
+        "id": "0392",
+        "name": "大昌段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "加昌段": {
+        "id": "0317",
+        "name": "加昌段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "加昌段一小段": {
+        "id": "0357",
+        "name": "加昌段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "加昌段二小段": {
+        "id": "0358",
+        "name": "加昌段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右冲段右冲小段": {
+        "id": "0311",
+        "name": "右冲段右冲小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段一小段": {
+        "id": "0324",
+        "name": "右昌段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段二小段": {
+        "id": "0325",
+        "name": "右昌段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段三小段": {
+        "id": "0326",
+        "name": "右昌段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段四小段": {
+        "id": "0327",
+        "name": "右昌段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段五小段": {
+        "id": "0328",
+        "name": "右昌段五小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段六小段": {
+        "id": "0329",
+        "name": "右昌段六小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "右昌段七小段": {
+        "id": "0360",
+        "name": "右昌段七小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平段一小段": {
+        "id": "0314",
+        "name": "和平段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平段二小段": {
+        "id": "0315",
+        "name": "和平段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平段三小段": {
+        "id": "0347",
+        "name": "和平段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平段四小段": {
+        "id": "0348",
+        "name": "和平段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平段五小段": {
+        "id": "0349",
+        "name": "和平段五小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平段六小段": {
+        "id": "0356",
+        "name": "和平段六小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "和平東段": {
+        "id": "0381",
+        "name": "和平東段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "油廠段": {
+        "id": "0390",
+        "name": "油廠段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "油舍段": {
+        "id": "0391",
+        "name": "油舍段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "建華段": {
+        "id": "0330",
+        "name": "建華段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "後勁段後勁小段": {
+        "id": "0303",
+        "name": "後勁段後勁小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "後勁段月眉小段": {
+        "id": "0304",
+        "name": "後勁段月眉小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "後勁段一小段": {
+        "id": "0305",
+        "name": "後勁段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "後勁段二小段": {
+        "id": "0306",
+        "name": "後勁段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "後勁段三小段": {
+        "id": "0307",
+        "name": "後勁段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "後勁段四小段": {
+        "id": "0308",
+        "name": "後勁段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "高楠段": {
+        "id": "0316",
+        "name": "高楠段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "高昌段": {
+        "id": "0351",
+        "name": "高昌段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "高大段": {
+        "id": "0375",
+        "name": "高大段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "清楠段": {
+        "id": "0352",
+        "name": "清楠段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "清豐段": {
+        "id": "0353",
+        "name": "清豐段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "莒光段一小段": {
+        "id": "0318",
+        "name": "莒光段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "莒光段二小段": {
+        "id": "0319",
+        "name": "莒光段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "莒光段三小段": {
+        "id": "0320",
+        "name": "莒光段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "莒光段四小段": {
+        "id": "0359",
+        "name": "莒光段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "惠豐段": {
+        "id": "0393",
+        "name": "惠豐段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "惠民段": {
+        "id": "0394",
+        "name": "惠民段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "援中段": {
+        "id": "0334",
+        "name": "援中段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "援中段一小段": {
+        "id": "0376",
+        "name": "援中段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "援中段二小段": {
+        "id": "0377",
+        "name": "援中段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "援中段三小段": {
+        "id": "0378",
+        "name": "援中段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "援中段四小段": {
+        "id": "0379",
+        "name": "援中段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠梓段一小段": {
+        "id": "0335",
+        "name": "楠梓段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠梓段二小段": {
+        "id": "0336",
+        "name": "楠梓段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠梓段三小段": {
+        "id": "0337",
+        "name": "楠梓段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠梓段四小段": {
+        "id": "0338",
+        "name": "楠梓段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠都段一小段": {
+        "id": "0343",
+        "name": "楠都段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠都段二小段": {
+        "id": "0344",
+        "name": "楠都段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠都段三小段": {
+        "id": "0345",
+        "name": "楠都段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠都段四小段": {
+        "id": "0346",
+        "name": "楠都段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠園段": {
+        "id": "0354",
+        "name": "楠園段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠梓段五小段": {
+        "id": "0361",
+        "name": "楠梓段五小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "楠平段": {
+        "id": "0395",
+        "name": "楠平段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "翠屏段一小段": {
+        "id": "0382",
+        "name": "翠屏段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "翠屏段二小段": {
+        "id": "0383",
+        "name": "翠屏段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "翠屏段三小段": {
+        "id": "0384",
+        "name": "翠屏段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "翠屏段四小段": {
+        "id": "0385",
+        "name": "翠屏段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "德昌段": {
+        "id": "0350",
+        "name": "德昌段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍昌段一小段": {
+        "id": "0321",
+        "name": "藍昌段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍昌段二小段": {
+        "id": "0322",
+        "name": "藍昌段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍昌段三小段": {
+        "id": "0323",
+        "name": "藍昌段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田段一小段": {
+        "id": "0331",
+        "name": "藍田段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田段二小段": {
+        "id": "0332",
+        "name": "藍田段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田段三小段": {
+        "id": "0333",
+        "name": "藍田段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田東段": {
+        "id": "0362",
+        "name": "藍田東段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田東段一小段": {
+        "id": "0363",
+        "name": "藍田東段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田東段二小段": {
+        "id": "0364",
+        "name": "藍田東段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田中段": {
+        "id": "0365",
+        "name": "藍田中段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田中段一小段": {
+        "id": "0366",
+        "name": "藍田中段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田中段二小段": {
+        "id": "0367",
+        "name": "藍田中段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段": {
+        "id": "0368",
+        "name": "藍田西段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段一小段": {
+        "id": "0369",
+        "name": "藍田西段一小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段二小段": {
+        "id": "0370",
+        "name": "藍田西段二小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段三小段": {
+        "id": "0371",
+        "name": "藍田西段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段四小段": {
+        "id": "0372",
+        "name": "藍田西段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段五小段": {
+        "id": "0373",
+        "name": "藍田西段五小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段六小段": {
+        "id": "0374",
+        "name": "藍田西段六小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田中段三小段": {
+        "id": "0386",
+        "name": "藍田中段三小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田中段四小段": {
+        "id": "0387",
+        "name": "藍田中段四小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田中段五小段": {
+        "id": "0388",
+        "name": "藍田中段五小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "藍田西段七小段": {
+        "id": "0389",
+        "name": "藍田西段七小段",
+        "officeCode": "EE",
+        "townCode": "04"
+    },
+    "芎蕉段": {
+        "id": "0355",
+        "name": "芎蕉段",
+        "officeCode": "EE",
+        "townCode": "04"
+    }
+}

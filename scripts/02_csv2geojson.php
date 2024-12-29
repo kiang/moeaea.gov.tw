@@ -477,6 +477,7 @@ $townMappings = [
     '林邊鎮' => '林邊鄉',
     '台西鄉' => '臺西鄉',
     '潮洲鎮' => '潮州鎮',
+    '台東市' => '臺東市',
 ];
 $townSectionMapping = [
     '鹽水區嘉芳段' => '新營區',
@@ -568,6 +569,19 @@ while ($row = fgetcsv($fh)) {
 
     $json = json_decode(file_get_contents($geojsonFile), true);
     $pointKey = $data['縣市'] . $data['鄉鎮區'] . $data['地段'] . $data['地號'];
+    $moiFile = dirname(__DIR__) . '/raw/moi/' . $townCode . '.json';
+    if (!file_exists($moiFile)) {
+        $moiJson = [];
+        $items = json_decode(file_get_contents("https://easymap.land.moi.gov.tw/W10Web/City_json_getSectionList?cityCode={$cityCode}&townCode=" . substr($townCode, 1)), true);
+        foreach ($items as $item) {
+            $moiJson[$item['name']] = $item;
+        }
+        file_put_contents($moiFile, json_encode($moiJson, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+    }
+    if (!isset($sections[$townCode])) {
+        $sections[$townCode] = json_decode(file_get_contents($moiFile), true);
+    }
+    $section = $sections[$townCode][$data['地段']];
     if (!empty($json['features'])) {
         $feature = $json['features'][0];
         $p = $feature['properties'];
@@ -582,20 +596,6 @@ while ($row = fgetcsv($fh)) {
         $data['Longitude'] = $pointsPool[$pointKey]['Longitude'];
         $data['Latitude'] = $pointsPool[$pointKey]['Latitude'];
     } elseif ($count > $lineCount) {
-        $moiFile = dirname(__DIR__) . '/raw/moi/' . $townCode . '.json';
-        if (!file_exists($moiFile)) {
-            $moiJson = [];
-            $items = json_decode(file_get_contents("https://easymap.land.moi.gov.tw/W10Web/City_json_getSectionList?cityCode={$cityCode}&townCode=" . substr($townCode, 1)), true);
-            foreach ($items as $item) {
-                $moiJson[$item['name']] = $item;
-            }
-            file_put_contents($moiFile, json_encode($moiJson, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-        }
-        if (!isset($sections[$townCode])) {
-            $sections[$townCode] = json_decode(file_get_contents($moiFile), true);
-        }
-        $section = $sections[$townCode][$data['地段']];
-
         $browser->request('GET', 'https://easymap.land.moi.gov.tw/Z10Web/layout/setToken.jsp');
         $tokenPage = $browser->getResponse()->getContent();
         $tokenParts = explode('"', $tokenPage);
@@ -654,7 +654,7 @@ while ($row = fgetcsv($fh)) {
             $data['Latitude'] = $json['Y'];
         }
     } else {
-        fputcsv($missingFh, [$data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
+        fputcsv($missingFh, [$townCode, $data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
     }
 
     if (!empty($data['Longitude'])) {

@@ -1,0 +1,398 @@
+{
+    "三鹿段": {
+        "id": "4958",
+        "name": "三鹿段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "大同段": {
+        "id": "4924",
+        "name": "大同段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "大學段": {
+        "id": "4952",
+        "name": "大學段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "中清段": {
+        "id": "4914",
+        "name": "中清段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "六路段": {
+        "id": "4943",
+        "name": "六路段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "六福段": {
+        "id": "4954",
+        "name": "六福段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "公館段": {
+        "id": "4909",
+        "name": "公館段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "公館北段": {
+        "id": "4916",
+        "name": "公館北段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "公館南段": {
+        "id": "4917",
+        "name": "公館南段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "太平段": {
+        "id": "4940",
+        "name": "太平段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "文光段": {
+        "id": "4939",
+        "name": "文光段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "北勢坑段北勢坑小段": {
+        "id": "4904",
+        "name": "北勢坑段北勢坑小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "北勢坑段六路厝小段": {
+        "id": "4905",
+        "name": "北勢坑段六路厝小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "北勢坑段六埔小段": {
+        "id": "4906",
+        "name": "北勢坑段六埔小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "平等段": {
+        "id": "4942",
+        "name": "平等段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "正英段": {
+        "id": "4960",
+        "name": "正英段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "正義段": {
+        "id": "4961",
+        "name": "正義段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "成衣段": {
+        "id": "4930",
+        "name": "成衣段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "竹林段竹林小段": {
+        "id": "4907",
+        "name": "竹林段竹林小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "竹林段犁份小段": {
+        "id": "4908",
+        "name": "竹林段犁份小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "竹林東段": {
+        "id": "4946",
+        "name": "竹林東段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "自強段": {
+        "id": "4957",
+        "name": "自強段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "西勢寮段": {
+        "id": "4912",
+        "name": "西勢寮段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "西勢段": {
+        "id": "4913",
+        "name": "西勢段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "沙鹿段沙鹿小段": {
+        "id": "4900",
+        "name": "沙鹿段沙鹿小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "沙鹿段斗抵小段": {
+        "id": "4901",
+        "name": "沙鹿段斗抵小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "沙鹿段潭子墘小段": {
+        "id": "4902",
+        "name": "沙鹿段潭子墘小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "沙工段": {
+        "id": "4937",
+        "name": "沙工段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "沙工北段": {
+        "id": "4938",
+        "name": "沙工北段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "居仁段": {
+        "id": "4922",
+        "name": "居仁段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "明德段": {
+        "id": "4915",
+        "name": "明德段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "明秀段": {
+        "id": "4962",
+        "name": "明秀段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "東英段": {
+        "id": "4921",
+        "name": "東英段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "東晉段": {
+        "id": "4927",
+        "name": "東晉段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "保寧段": {
+        "id": "4941",
+        "name": "保寧段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "保成段": {
+        "id": "4956",
+        "name": "保成段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "南勢坑段南勢坑小段": {
+        "id": "4910",
+        "name": "南勢坑段南勢坑小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "南勢坑段埔子小段": {
+        "id": "4911",
+        "name": "南勢坑段埔子小段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "南勢東段": {
+        "id": "4931",
+        "name": "南勢東段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "南勢段": {
+        "id": "4933",
+        "name": "南勢段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "洛泉段": {
+        "id": "4918",
+        "name": "洛泉段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "紅竹段": {
+        "id": "4945",
+        "name": "紅竹段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "美仁段": {
+        "id": "4923",
+        "name": "美仁段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "英才段": {
+        "id": "4920",
+        "name": "英才段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "晉江北段": {
+        "id": "4919",
+        "name": "晉江北段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "晉江東段": {
+        "id": "4953",
+        "name": "晉江東段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "國昌段": {
+        "id": "4959",
+        "name": "國昌段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "犁份東段": {
+        "id": "4951",
+        "name": "犁份東段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "鹿寮段": {
+        "id": "4903",
+        "name": "鹿寮段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "鹿峰東段": {
+        "id": "4934",
+        "name": "鹿峰東段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "鹿峰西段": {
+        "id": "4935",
+        "name": "鹿峰西段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "鹿寮東段": {
+        "id": "4936",
+        "name": "鹿寮東段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "新竹林段": {
+        "id": "4944",
+        "name": "新竹林段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "新犁份段": {
+        "id": "4950",
+        "name": "新犁份段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "新站段": {
+        "id": "4965",
+        "name": "新站段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "榜文段": {
+        "id": "4963",
+        "name": "榜文段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "福至段": {
+        "id": "4925",
+        "name": "福至段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "福興段": {
+        "id": "4926",
+        "name": "福興段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "福成段": {
+        "id": "4928",
+        "name": "福成段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "福壽段": {
+        "id": "4947",
+        "name": "福壽段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "福田段": {
+        "id": "4949",
+        "name": "福田段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "慶安段": {
+        "id": "4932",
+        "name": "慶安段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "興安段": {
+        "id": "4948",
+        "name": "興安段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "興安西段": {
+        "id": "4955",
+        "name": "興安西段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "興仁段": {
+        "id": "4964",
+        "name": "興仁段",
+        "officeCode": "BF",
+        "townCode": "13"
+    },
+    "護安段": {
+        "id": "4929",
+        "name": "護安段",
+        "officeCode": "BF",
+        "townCode": "13"
+    }
+}

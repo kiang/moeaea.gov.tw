@@ -1,0 +1,254 @@
+{
+    "大安段一小段": {
+        "id": "0228",
+        "name": "大安段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "大安段二小段": {
+        "id": "0229",
+        "name": "大安段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "大安段三小段": {
+        "id": "0230",
+        "name": "大安段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "仁愛段一小段": {
+        "id": "0217",
+        "name": "仁愛段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "仁愛段二小段": {
+        "id": "0218",
+        "name": "仁愛段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "仁愛段三小段": {
+        "id": "0219",
+        "name": "仁愛段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "仁愛段四小段": {
+        "id": "0220",
+        "name": "仁愛段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "仁愛段五小段": {
+        "id": "1201",
+        "name": "仁愛段五小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "仁愛段六小段": {
+        "id": "1202",
+        "name": "仁愛段六小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "辛亥段一小段": {
+        "id": "0239",
+        "name": "辛亥段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "辛亥段三小段": {
+        "id": "0241",
+        "name": "辛亥段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "辛亥段四小段": {
+        "id": "0242",
+        "name": "辛亥段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "辛亥段五小段": {
+        "id": "0243",
+        "name": "辛亥段五小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "辛亥段六小段": {
+        "id": "1203",
+        "name": "辛亥段六小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "金華段一小段": {
+        "id": "0200",
+        "name": "金華段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "金華段二小段": {
+        "id": "0201",
+        "name": "金華段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "金華段三小段": {
+        "id": "0202",
+        "name": "金華段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "金華段四小段": {
+        "id": "0203",
+        "name": "金華段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "通化段一小段": {
+        "id": "0211",
+        "name": "通化段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "通化段二小段": {
+        "id": "0212",
+        "name": "通化段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "通化段三小段": {
+        "id": "0213",
+        "name": "通化段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "通化段四小段": {
+        "id": "0214",
+        "name": "通化段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "通化段五小段": {
+        "id": "0215",
+        "name": "通化段五小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "通化段六小段": {
+        "id": "0216",
+        "name": "通化段六小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "復興段一小段": {
+        "id": "0225",
+        "name": "復興段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "復興段二小段": {
+        "id": "0226",
+        "name": "復興段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "復興段三小段": {
+        "id": "0227",
+        "name": "復興段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "瑞安段一小段": {
+        "id": "0207",
+        "name": "瑞安段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "瑞安段二小段": {
+        "id": "0208",
+        "name": "瑞安段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "瑞安段三小段": {
+        "id": "0209",
+        "name": "瑞安段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "瑞安段四小段": {
+        "id": "0210",
+        "name": "瑞安段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "學府段一小段": {
+        "id": "0221",
+        "name": "學府段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "學府段二小段": {
+        "id": "0222",
+        "name": "學府段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "學府段三小段": {
+        "id": "0223",
+        "name": "學府段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "學府段四小段": {
+        "id": "0224",
+        "name": "學府段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "龍泉段一小段": {
+        "id": "0021",
+        "name": "龍泉段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "龍泉段二小段": {
+        "id": "0022",
+        "name": "龍泉段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "龍泉段三小段": {
+        "id": "0023",
+        "name": "龍泉段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "懷生段一小段": {
+        "id": "0235",
+        "name": "懷生段一小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "懷生段二小段": {
+        "id": "0236",
+        "name": "懷生段二小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "懷生段三小段": {
+        "id": "0237",
+        "name": "懷生段三小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    },
+    "懷生段四小段": {
+        "id": "0238",
+        "name": "懷生段四小段",
+        "officeCode": "AF",
+        "townCode": "02"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "下湖段": {
+        "id": "7035",
+        "name": "下湖段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "山西段": {
+        "id": "7050",
+        "name": "山西段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "五甲段": {
+        "id": "7030",
+        "name": "五甲段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "仁愛段": {
+        "id": "7048",
+        "name": "仁愛段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "文衡段": {
+        "id": "7051",
+        "name": "文衡段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "北花段": {
+        "id": "7040",
+        "name": "北花段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "北勢段": {
+        "id": "7047",
+        "name": "北勢段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "四甲段": {
+        "id": "7044",
+        "name": "四甲段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "布袋尾段": {
+        "id": "7033",
+        "name": "布袋尾段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "民生段": {
+        "id": "7052",
+        "name": "民生段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "忠孝段": {
+        "id": "7046",
+        "name": "忠孝段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "東勢段": {
+        "id": "7043",
+        "name": "東勢段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "松腳段": {
+        "id": "7042",
+        "name": "松腳段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "保東段": {
+        "id": "7121",
+        "name": "保東段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "南花段": {
+        "id": "7041",
+        "name": "南花段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "南雄段": {
+        "id": "7045",
+        "name": "南雄段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "香洋段": {
+        "id": "7049",
+        "name": "香洋段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "埤子頭段": {
+        "id": "7034",
+        "name": "埤子頭段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "深坑子段": {
+        "id": "7031",
+        "name": "深坑子段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "新埔段": {
+        "id": "7029",
+        "name": "新埔段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "新園段": {
+        "id": "7122",
+        "name": "新園段",
+        "officeCode": "DI",
+        "townCode": "34"
+    },
+    "龜洞段": {
+        "id": "7032",
+        "name": "龜洞段",
+        "officeCode": "DI",
+        "townCode": "34"
+    }
+}

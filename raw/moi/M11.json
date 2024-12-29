@@ -1,0 +1,188 @@
+{
+    "下城段": {
+        "id": "0618",
+        "name": "下城段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "上安段": {
+        "id": "0601",
+        "name": "上安段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "水里段": {
+        "id": "0529",
+        "name": "水里段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "牛轀轆段": {
+        "id": "0510",
+        "name": "牛轀轆段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "北埔段": {
+        "id": "0558",
+        "name": "北埔段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "民和段": {
+        "id": "0599",
+        "name": "民和段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "永豐段": {
+        "id": "0533",
+        "name": "永豐段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "玉峰段": {
+        "id": "0536",
+        "name": "玉峰段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "車埕段": {
+        "id": "0596",
+        "name": "車埕段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "坪林段": {
+        "id": "0537",
+        "name": "坪林段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "拔社埔段": {
+        "id": "0512",
+        "name": "拔社埔段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "明潭段": {
+        "id": "0598",
+        "name": "明潭段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "社子段": {
+        "id": "0508",
+        "name": "社子段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "南光段": {
+        "id": "0532",
+        "name": "南光段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "南湖段": {
+        "id": "0534",
+        "name": "南湖段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "城中段": {
+        "id": "0530",
+        "name": "城中段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "風空段": {
+        "id": "0595",
+        "name": "風空段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "郡坑段": {
+        "id": "0509",
+        "name": "郡坑段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "頂崁段": {
+        "id": "0611",
+        "name": "頂崁段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "鹿寮段": {
+        "id": "0620",
+        "name": "鹿寮段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新城段": {
+        "id": "0528",
+        "name": "新城段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新興段": {
+        "id": "0597",
+        "name": "新興段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新山段": {
+        "id": "0600",
+        "name": "新山段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新車埕段": {
+        "id": "0612",
+        "name": "新車埕段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新民和段": {
+        "id": "0616",
+        "name": "新民和段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新玉峰段": {
+        "id": "0617",
+        "name": "新玉峰段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新上安段": {
+        "id": "0621",
+        "name": "新上安段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "新郡坑段": {
+        "id": "0622",
+        "name": "新郡坑段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "鉅工段": {
+        "id": "0531",
+        "name": "鉅工段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "興隆段": {
+        "id": "0538",
+        "name": "興隆段",
+        "officeCode": "ME",
+        "townCode": "11"
+    },
+    "龜子頭段": {
+        "id": "0511",
+        "name": "龜子頭段",
+        "officeCode": "ME",
+        "townCode": "11"
+    }
+}
