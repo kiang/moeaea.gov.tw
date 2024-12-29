@@ -503,6 +503,7 @@ if (file_exists($pointsCsvFile)) {
 }
 $browser = new HttpBrowser(HttpClient::create());
 $oFh = fopen($pointsCsvFile, 'w');
+$missingFh = fopen(dirname(__DIR__) . '/raw/missing.csv', 'w');
 $firstLine = false;
 $count = 1;
 while ($row = fgetcsv($fh)) {
@@ -652,6 +653,8 @@ while ($row = fgetcsv($fh)) {
             $data['Longitude'] = $json['X'];
             $data['Latitude'] = $json['Y'];
         }
+    } else {
+        fputcsv($missingFh, [$data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
     }
 
     if (!empty($data['Longitude'])) {
