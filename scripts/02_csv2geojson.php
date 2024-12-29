@@ -518,6 +518,7 @@ while ($row = fgetcsv($fh)) {
         $parts[0] = intval($parts[0]) + 1911;
         $theTime = strtotime("{$parts[0]}-{$parts[1]}-{$parts[2]}");
     }
+    $data['施工取得日期'] = date('Y-m-d', $theTime);
     $landPos = strrpos($data['土地面積'], '.');
     if (false !== $landPos) {
         $data['土地面積'] = preg_replace('/[^0-9]+/', '', substr($data['土地面積'], 0, $landPos));
