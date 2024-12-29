@@ -515,12 +515,14 @@ while ($row = fgetcsv($fh)) {
         // 45244 = 2023/11/14
         $diffDays = $data['施工取得日期'] - 45244;
         $theTime = strtotime("+{$diffDays} days", $baseDays);
+        $data['施工取得日期'] = date('Y-m-d', $theTime);
     } else {
         $parts = explode('/', $data['施工取得日期']);
         $parts[0] = intval($parts[0]) + 1911;
         $theTime = strtotime("{$parts[0]}-{$parts[1]}-{$parts[2]}");
+        $data['施工取得日期'] = date('Y-m-d', $theTime);
     }
-    $data['施工取得日期'] = date('Y-m-d', $theTime);
+    
     $landPos = strrpos($data['土地面積'], '.');
     if (false !== $landPos) {
         $data['土地面積'] = preg_replace('/[^0-9]+/', '', substr($data['土地面積'], 0, $landPos));
@@ -652,6 +654,8 @@ while ($row = fgetcsv($fh)) {
             $json = json_decode($result, true);
             $data['Longitude'] = $json['X'];
             $data['Latitude'] = $json['Y'];
+        } else {
+            fputcsv($missingFh, [$townCode, $data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
         }
     } else {
         fputcsv($missingFh, [$townCode, $data['縣市'], $data['鄉鎮區'], $data['地段'], $data['地號']]);
